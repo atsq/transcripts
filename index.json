@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-05T22:29:29.877128",
-  "total_transcripts": 18,
+  "last_updated": "2025-10-06T09:08:06.258281",
+  "total_transcripts": 21,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -163,6 +163,33 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-05T22:28:31.324543",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-05_\ud83d\udd25New CRYPTO TAX Rules in Australia Is Bitcoin MONEY Capital Gains vs Income Laws 2025 Guide_9eyIOPNV2VQ_metadata.json"
+    },
+    {
+      "filename": "2025-10-06_Study Proves You Only Need ONE SUPPLEMENT To Heal Leaky Gut (Not Glutamine!)_XIGgWLYsAvw.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_Study Proves You Only Need ONE SUPPLEMENT To Heal Leaky Gut (Not Glutamine!)_XIGgWLYsAvw.txt",
+      "title": "Study Proves You Only Need ONE SUPPLEMENT To Heal Leaky Gut (Not Glutamine!)",
+      "video_id": "XIGgWLYsAvw",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-06T09:08:00.839453",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_Study Proves You Only Need ONE SUPPLEMENT To Heal Leaky Gut (Not Glutamine!)_XIGgWLYsAvw_metadata.json"
+    },
+    {
+      "filename": "2025-10-06_The Basics of Generating Spin in the Bunker_9ESDqei1tZA.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_The Basics of Generating Spin in the Bunker_9ESDqei1tZA.txt",
+      "title": "The Basics of Generating Spin in the Bunker",
+      "video_id": "9ESDqei1tZA",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-06T09:07:56.969668",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_The Basics of Generating Spin in the Bunker_9ESDqei1tZA_metadata.json"
+    },
+    {
+      "filename": "2025-10-06_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA.txt",
+      "title": "This $6 Stock Might Soar to $25 Soon! \ud83d\udd25",
+      "video_id": "mX9OMe5cNtA",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-06T09:08:05.001751",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA_metadata.json"
     }
   ],
   "archived": []
