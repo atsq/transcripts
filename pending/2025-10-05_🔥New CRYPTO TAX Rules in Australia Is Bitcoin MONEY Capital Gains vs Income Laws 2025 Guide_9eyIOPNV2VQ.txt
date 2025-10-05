@@ -1,0 +1,245 @@
+Crypto owners, listen up. I'm a
+registered tax agent in Australia. And
+here's the truth. There are no special
+tax rules or rates for crypto. It's not
+just CGT. In this video, I will reveal
+how Australian cryptocurrency tax really
+works for all holders. Break down a
+major Treasury tax amendment on whether
+crypto is treated as money. Uncover the
+global tracking program. The ATL is
+launching in just 94 days to spy on your
+crypto worldwide and give you tips on
+how to legally reduce crypto taxes by at
+least 50%.
+Hi, if you're new here, I'm Veronica.
+Just a quick disclaimer, this video is
+for general educational purposes only,
+not personal advice. First, let's
+understand how the ATO track every
+crypto trade. So, the ATO has been
+monitoring and collecting crypto data
+from all Australian exchanges,
+blockchain analysis tools, and global
+tax authorities to trace your KYC, every
+buy and sell, transaction history,
+wallet addresses, and account balance
+going as far back as 2014. The AT also
+uses data matching programs to compare
+your disposal reporting against
+information provided by brokers and
+banks to order if it matches or has
+discrepancies. So if you've got any
+crypto gains you haven't reported, it's
+smart to report that now. Individuals
+have up to two years from the date of
+the issue of notice of assessment to
+amend or revise the returns. Now from 1
+of January 2027, the ATO and the OECD
+countries will implement the new crypto
+asset reporting framework, CAF. CAV will
+require foreign crypto exchanges to
+report every crypto trade transaction
+and personal identification details.
+This applies globally across all
+participating jurisdictions. And by
+2027, this data will be shared
+automatically with global tax
+authorities like the IRS, HMRC, CRA,
+IRD, etc. to enforce transparency and
+tax compliance. Now, how does the ATO
+treat cryptocurrency?
+So the latest Treasury Laws Amendment
+2022
+measures number four act 2023
+being a federal law that has been passed
+clarifies that digital currencies are
+not issued by an Australian or foreign
+government within the meaning of the
+income tax assessment act 1997.
+In simple words, digital assets are not
+treated Australian or foreign money
+under division 775 foreign exchange
+rules. That means crypto tokens, EFTs,
+and digital assets are treated as
+property like shares and not as money.
+Now, there's a lot of noise about
+Bitcoin or crypto being tax-free because
+of a magistrate's preliminary ruling
+involving a former AFP officer who stole
+81ish bitcoins. Let's clear that up.
+Section 109 of our constitution says,
+"If state and federal laws conflict,
+federal laws prevalent
+the inconsistency." We all know that the
+state's magistrates and supreme courts
+issue rulings under state laws but
+upholds federal law supremacy. That's
+how the Australian court hierarchy
+works. Seriously, with the present
+administration trying to tax unrealized
+capital gains tax, spare bedroom tax, we
+don't know whether the next policy would
+be like a spare balcony tax. So, you
+really think they're going to make
+crypto tax-free? In my personal opinion,
+that's a fantasy. Just let it go. Not
+under this regime. No. Let's break down
+how crypto tax really works in Australia
+for all type of owners. Again, there are
+no special tax rules or rate. How the
+ATO taxes your disposals depends on
+three factors. Your crypto activity,
+your holding period, and whether your
+crypto disposal is a taxable event. This
+determines whether you'll be taxed under
+the existing ordinary income tax rules
+or get a special treatment under the
+capital gains tax system. So what is a
+taxable event in crypto? A taxable event
+is when you dispose, sell, swap,
+transfer, earn or receive rewards with
+cryptocurrency. That means tax applies
+when you earn and or dispose of the
+tokens, not when you withdraw, cash out,
+or transfer the money to your bank
+account. Here's the most common
+activities the ATO considers or count
+taxable event. One, if you sold crypto
+for fiat like Australian dollars or
+foreign money. Two, you swap one crypto
+for another by trading shea for
+Dogecoin. A client once asked, "Why is
+converting crypto on Coinbase a taxable
+event?" I told him, "Imagine you're
+selling an investment property in
+Melbourne to buy another in Sydney." The
+ATO wants their slides on the Melbourne
+sale because you've sold off that first
+asset. Three, transfer crypto between
+entities like from your name to a trust
+company or SMSF and vice versa. Tax
+applies even if you're the trustee,
+beneficiary, member, or director. Four,
+you received crypto as income and
+disposal later on like from employment,
+freelancing, trading, mining, staking,
+airdropping, yield farming, and business
+or retail operations. Five, using crypto
+for personal use to buy goods or
+services and you acquired the crypto for
+more than 10k. Six, if you gift crypto
+to friends, wos vows, relatives,
+Wikipedia or GoFundMe non-registered
+ACNC or DJR entities is taxable at
+market value at the time of gifting and
+these gift are not tax deductible.
+Seven, you can claim a tax deduction at
+market price if you're donating or
+gifting crypto to registered ACNC or DGR
+charities, but first report the disposal
+at spot price and subtract the cost base
+to work out gains or losses. Don't
+worry, it cancels each other out. Eight,
+if your crypto was lost, stolen, or
+unreoverable, you can claim a capital
+loss to contra other gains if access is
+lost permanently. But evidence is
+needed. Now, any gains or profits made
+from these taxable events either attract
+the CGT regime or the ordinary income
+tax rules. So CGT laws applies if
+investors hold crypto for over 12 months
+before selling it. Only individuals
+including individual beneficiaries of
+trust and individual partners in
+partnerships qualify for the 50% CDT
+discount. Super funds get 1/3 or 33.33%
+discount and companies don't get any
+discount at all. To calculate the net
+capital gain amount, investors must
+first subtract their cost base and any
+capital losses from the sale price. Then
+divide it by two if you're an individual
+or multiply by two divided by three if
+you're an SMSF or super fund. That's how
+capital gains tax works on crypto in
+Australia for investors. So CGT is a tax
+concept, not a standalone tax or tax
+rate. and you're a non-investor. If
+you're trading, mining, staking,
+airdropping, yield farming, freelancing,
+or as business, an employee, accepting
+crypto as payments, your earnings are
+initially taxed under the ordinary
+income tax regime or system aka the
+marginal tax brackets when earned or
+received without any discount. So to
+avoid double taxation when you sell
+these crypto later on your cost base is
+the spot price at the time you received
+these earnings your gains or profits is
+calculated as sale price minus the cost
+base and disposal fees. Here's a tip.
+Try holding it for over a year to access
+the 50% CGT discount regime. The same
+rules applies for businesses and
+retailers provided that crypto isn't
+trading stock. And remember, you must
+report these taxable events in your tax
+return even if you make a loss because
+these losses carry over automatically
+and indefinitely to future years to
+reduce future gains or net earnings.
+That's how a capital loss carryover
+works for all entities. Now, how much
+tax you pay and what tax rates apply
+depends on your taxable income amount
+and your tax entity type or legal
+structure like whether you're an
+individual person, a company, a trust,
+etc. And please remember, the ATO
+doesn't tax each asset or income
+separately. Here's how the Australian
+tax system works. Your capital gains,
+business activity and all other income
+must be recorded in your respective tax
+schedules or sections of the tax return.
+These are added to your accessible
+income. Then your accessible income is
+reduced by any allowable deductions.
+That result is your taxable income
+amount. Individuals and soul traders are
+taxed at marginal tax rates and the
+first $22,575
+are taxfree due to low income tax offset
+if you are a tax resident for the full
+financial year. Super funds pay a flat
+rate of 15%. Base rate companies are
+taxed at 25% and companies are taxed at
+30%. So nonhuman entities pay tax on
+every dollar of net profit. If you want
+to get more refund or pay less tax,
+watch this video on 18 deductions to
+lower your taxable income. Now, crypto
+is not a taxable event if one, you're
+just buying and holding. Two, you're
+moving or transferring between your
+personal names wallet. Three, if someone
+gave you crypto as a gift, you don't pay
+tax at the time you receive it, but tax
+applies when you sell it later. Four, if
+you're using crypto for personal use,
+like to buy movie tickets or household
+items, it's exempt if you acquire those
+crypto under 10K, provided that you hold
+for a short term only. That's how
+Australia crypto tax works, guys. Watch
+this video to claim 8 CGT exemptions or
+concessions to pay zero capital gains
+tax on property sale in Australia. If
+you find this video useful, please click
+like, subscribe, and hit the bell. And
+if you've got any questions, drop them
+in the comment and then I'll try my best
+to reply.

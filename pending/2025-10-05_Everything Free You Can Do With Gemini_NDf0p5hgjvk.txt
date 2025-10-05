@@ -1,0 +1,1019 @@
+I tried all the free Google AI things
+for you. So, here's the cliffnotes
+version to save you the thousands of
+hours that I have spent using Google AI
+products and I got to say that I'm
+genuinely really impressed by what
+Google has done in the AI space,
+especially since most of their products
+have very generous free tiers. So, that
+is why in this video I'm going to
+challenge myself to show you all of the
+free Google AI things and I have to get
+on a fight in literally 3 hours. So,
+yeah, without further ado, let's get
+started. And of course, as per usual,
+there will be little assessments
+throughout this video to make sure that
+you retain all of the information that I
+talk about. Okay, let's go. A portion of
+this video is sponsored by Warp. All
+right, here's a list of all the Google
+AI features and products that we're
+going to be going over today. Starting
+with the Gemini web app, Workspace
+integrations, Google AI mode, AI Vids,
+Google AI Studio, Notebook Outlet,
+Firebase Studio, Opel, and some honory
+mentions like Vert.ex Studio, and
+YouTube Studio. But before we get
+started, I do want to give you a crash
+course on Google's ethos surrounding AI
+as well as their core family of AI
+models because I think if you understand
+this, you're going to be able to use
+their products and features a lot
+better. So, their ethos, well, okay, I'm
+going to say like what I think their
+ethos is cuz not like I'm their
+spokesperson or something, but what I
+think their ethos is is two primary
+things. The first one is to seamlessly
+integrate AI into their existing
+products to have a better experience.
+And two is to create outstanding
+standalone AI products for major nieces
+and just like daily life stuff probably
+to try to get mass adoption by making
+them essentially free. This is a
+blueprint that Google has done with many
+other product launches before. So it
+makes sense. Now let's talk about their
+core families of AI models. Starting off
+with the Gemini family. So these are
+their advanced multi-purpose reasoning
+models with different versions that are
+optimized for different task like Pro
+for complex problem solving, flash for
+best price performance balance and
+flashlight for fast throughput. These
+models are multimodal in their input and
+their output. Meaning that they can take
+in and output and reason with a lot of
+different modalities including text,
+image, code, video, and audio. Then
+there is the Gemma family. These are the
+open source lightweight models that are
+designed for efficient execution. It
+also allows Google to have a place in
+the open-source world. Then there's the
+embeddings models. These are models that
+are able to convert data including text
+and images into vector representations
+for these tasks. It gets a little bit
+technical but generally used by
+researchers and for developers to do
+things like complex searches,
+classifications, clusterings, things
+like that. The imagine model family is
+for text to image generation including
+things like generating new images,
+editing existing ones or creating
+specialized images for different types
+of task. And finally, there is the VO
+family of models. These are video
+generation models where you can input
+using text or images or combination of
+both to create really cool videos. Now,
+how does this relate to the actual
+consumer products and features
+themselves? All of the Google AI
+products and features are built on top
+of and in combination with these
+families of models. So next time when
+there's like news that comes out, it's
+like, oh, crazy new model came out. You
+will have a better understanding of what
+that actually means in terms of your
+usage of them. All right, time for our
+first little assessment. Please answer
+the questions on screen by typing them
+into the comments to make sure you are
+following along. All right, let's jump
+into using the AI products themselves.
+Starting off with the Gemini web app. So
+this Gemini web app with its chatbot
+interface is the most accessible way to
+access most of Google's models and
+capabilities. I am using the free
+version over here. So you can start off
+with just directly chatting with a
+chatbot. Like what are some fun ways to
+celebrate a million subscriber live
+stream that are octopus themed? That was
+really poor grammar, but I just want to
+say thank you so much for a million
+subs. Um just thank you so much for
+being here. And yeah, when I get back
+home I want to do a live stream that is
+octopus themed to celebrate. So, okay.
+Well, a huge congratulations. Thank you
+very much. Okay. So, some interactive
+games and activities include Octo
+Pictionary, creating a custom list of
+octopus or sea themed words and phrases.
+Tentacle Tycoon using a pointsbased
+system or channel currency. Releasing
+the Kraken, uh, Submarine Survival, so a
+lot of game themes. That is their
+cosplaying and maybe some special
+edition merch drops. Cool. You know
+what? That sounds like a good idea. So,
+let's do it. I'll make a post about it
+after filming this video. So, yeah. This
+is how you can interact directly with
+the chatbot, asking it to come up with
+things with you, search different things
+for you, and plan different things for
+you. Now, let's try out some of the
+other AI models. Here, we were using the
+2.5 Flash from the Gemini family. And
+you can also have access to the 2.5 Pro,
+which is for reasoning, math, and code.
+Uh, but you do need to upgrade to get
+the other more fancy Gemini models. Uh,
+since this is the free tier, however,
+what is really cool is that you do have
+access to the nano banana model for
+images. Also under the Gemini family,
+you can do things like generate a
+picture of a girl wearing octopus merch.
+Oh, and that's actually quite cute.
+Let's now try now wearing a t-shirt and
+standing up.
+And you can see that this is pretty
+good. What is really impressive about
+the Nano Banana model is that it's able
+to have character persistence, meaning
+that this person um actually looks the
+same throughout generating different
+images, which is a really big struggle
+for previous models. You can also do
+things like take an image here. This is
+a photo of me and the CEO of YouTube. So
+cool, right? So star struck. Um but
+there is a lady who is in the back over
+here of the image. So, I'm going to say,
+"Can you remove the lady
+in the back?"
+And there you have it. Lady in the back
+now removed. Really, really good. What
+the heck? I'm just going to show you one
+more which I think is cool. You can have
+like say an image of yourself and like
+an image of Naruto. Paste that in and be
+like, "Dress me in Naruto's
+outfit." cuz you know I always wanted to
+cosplay but I don't know I've just been
+too lazy so I guess I can live
+vicariously like this. Yay! Look at me
+dressed as Naruto. I really think that's
+really really good. You also have access
+to the canvas which is used for code
+generation and for writing things. So
+you can try something like create a
+small game where a banana is gathering
+other fruits.
+I don't know. I'm literally coming up
+with this on the spot. I have no idea
+why I thought of that. So, yeah, it can
+actually make code and you end up with a
+game. Start game.
+Yay.
+Yes, there's actually quite a lot of
+things that you can do here uh in order
+to like change the UI of it and also add
+other functionalities as well, but don't
+have time to go into too much of this
+right now. You also have access,
+although limited access to deep
+research, which is when you give it a
+query, it would go and make a plan and
+more deeply actually search up what it
+is that you're asking it to generate a
+report for you. For example, maybe you
+want to know what are the different AI
+trends that have the highest return on
+investment to learn if I want to become
+an AI freelancer and you click enter.
+It'll give you a research plan and you
+can click start researching. This may
+take a little bit of time since it's
+researching so many different websites
+and so many different sources. So,
+expanding the hamburger menu thingy over
+here, you can click into explore gems.
+Gems are specialized like customized
+versions of the Gemini chatbot that is
+used for specific task and purposes.
+There are some that are already pre-made
+by Google like a story book, a chess
+champ, brainstormer, career guide. So,
+let's like click on story book for
+example, and you can write create a
+story book
+of a sad watermelon. Don't comment on my
+examples today. Right. All right. While
+it's doing that, looks like the deep
+research has come back. So it says
+freelancers edge in the AI native
+economy, a guide to high return
+investment trends and skills. Gives you
+an executive summary and different
+chapters. Like chapter one is the AI
+joint transformation to freelance labor
+market, winners and losers. Uh there's
+like table of contents as well. So you
+have chapter one uh chapter 2 earning
+potential, high return investment,
+technic specializations, chapter 3 and
+chapter 4. So etc etc. There is a lot
+over here. You can they have like tables
+and like text and a lot of other things.
+And also the the great thing is that I
+also list all the sources that it has
+over here. So you can read through it,
+try to understand more, follow up with
+it if you want to and always make sure
+to check the sources if you're using it
+for any other purposes to make sure that
+it's not hallucinating. Gemini tends to
+be pretty good at not hallucinating. Uh
+but still there are times in which it
+does hallucinate. So just do double
+check your sources. Okay, let's now look
+at the story book of a sad watermelon of
+Wall-E the watermelon by lonely free.
+Wall-ally the watermelon was the saddest
+fruit in the whole garden. He sat all
+day big and brown and green. Feeling
+quite glum, he watched the other fruits
+and vegetables. The carrots were always
+racing to see who had grown the tallest.
+The strawberries were busy turning the
+brightest shade of red.
+Okay. Etc., etc. Oh, okay. Okay. I think
+it meets like a little friend. and and
+oh no and then he got eaten.
+I guess that made him happy.
+I have no idea what's happening over
+here. Anyways, that's an example of a
+gem. Little pop quiz, put in the
+comments. What is the pop out thing that
+we have over here that was able to
+generate this story book feeling and
+sliding effect? Put it in the comments.
+I did cover this feature already.
+Anyways, you can also make your own gems
+like a interesting
+ice cream flavors. You are an ice cream
+crafter that comes up with the coolest
+combinations for ice cream flavors. Make
+sure that you give real rationale for
+why it makes sense and site your sources
+too. Yeah. And now you have your
+interesting ice cream flavors gem. And
+you can be like, "Make me ice cream
+flavor that is very sour."
+Yeah. And it says, "Black lime and
+passion fruit with a hint of saffron."
+Yes. A beautifully pale yellow ice
+cream. Generate a picture.
+And this is what it would look like.
+Wonderful. Okay. So, forgive me, but I'm
+going to cheat a tiny little bit. All
+right. So, I really want to show you
+guys the VO model for generating video,
+but it is a paid feature. So, all I'm
+going to say is Gemini does usually
+offer um like a one month free trial
+that you can actually try out so that
+you can have access to premium features,
+including the VO model. So, yeah, it
+counts. All right, cuz I really want to
+show you this. The video generation
+model is really cool. All right. So,
+assuming you're on the one month free
+trial, then you would also have access
+to creating videos with VO and you can
+say something like
+create
+video with sound of a keyboard hovered
+in honey. How many of you guys have seen
+the viral AI honey keyboard trend on Tik
+Tok? Can listen to it.
+ASMR.
+Pretty cool, isn't it? Oh, yeah. You can
+generate videos now as well, and they're
+really good. Okay, going back to free
+model. I want to show you guys a Google
+Workspace integration. How's my inbox
+looking? It is going to connect to
+Google Workspace. And then it will say
+that your inbox contains a forwarded
+email from Hong Kong hikers about a mood
+tracker preparation hike and also an
+email with facts about octopuses. Show
+me the contents of the email of the
+octopus facts.
+Yeah. So, this is in fact what's drawn
+out over here. So, you can do things
+like summarizing different emails if you
+actually have a lot of emails in your
+inbox. Uh, this is something that I
+really do a lot. Let me show you my
+inbox. This one has 110,266
+unread emails.
+This one has 15,763
+and this one has 29,924.
+Put in the comments if you're worse than
+me.
+So, the workplace integration is pretty
+limited on the free version, but if you
+do get the paid version, it can also do
+things like draft emails for you. And
+within the Gmail itself, it has like an
+Ask Gemini little button thingy, and it
+can do things like write emails for you,
+summarize things for you directly on the
+app. app. It also works with Google
+Sheets where you can ask it to calculate
+different formulas for you, write things
+for Google Doc, generate slides on
+Google Slides. Uh, but this is not
+available on the free version. So, just
+FYI. But as you can see, just on the web
+app alone, there's already so many
+things that you have access to on the
+free plan. And I'm going to list now a
+bunch of other ones. I'm put them on
+screen right now. Take a screenshot of
+this of all the other really useful
+things that you can do using the Gemini
+web app. And with that, time for our
+next little assessment. Please answer
+the questions and put them in the
+comments. Gemini and Google AI can help
+with research and brainstorming and even
+vibe coding apps which is pretty
+amazing. But when it comes to building
+truly scalable and customized software,
+I've been using a new type of dev
+environment called Warp. Warp code is
+kind of like cloud code times cursor but
+with better UX and code editing
+abilities. It's an agentic development
+environment where in ADE basically it's
+like the HQ for your AI project. You can
+work alongside your agents, oversee
+everything that they're doing and stay
+in control. They recently launched Warp
+2.0 IO and what it stands out to me is
+how natural it feels to collaborate with
+these agents in warp. It shows me
+exactly what an agent changed. And if I
+want something tweaked, I can reprompt
+without leaving the Warp terminal. Its
+intuitive user experience makes coding
+with agents a lot less overwhelming. For
+our team of engineers, it's really
+helpful to use Warp's environment to
+test and build software for our cohorts
+and for our clients. Warp is currently
+number one on Terminal Bench and 75%
+which is top three on Sweetbench
+verified and it's already being used by
+over 700,000 engineers in places like
+Netflix, Slack and Amazon. So if you
+want to try it out as well, you can
+download it for free and with my code
+Tina, you'll get Warp Pro for only a
+dollar for your first month. That is a
+very good deal. So do check it out at
+this link over here, also linked in
+description. Thank you so much Warp for
+sponsoring this portion of the video.
+Now, back to the video
+cuz next up, I want to talk about Google
+AI mode. So, if you go on just
+google.com and you type in something
+like takoyaki recipes and click search,
+you will get your, you know, takoyaki
+recipes. But there is a tab over here
+called AI mode. And this is going to
+give you a lot more information and
+details about takoyaki recipes. And it's
+also going to site all the sources. This
+is basically Google's reimagination of
+Google search integrating with AI. If
+you've used Perplexity before, this is a
+very similar product. You can continue
+the conversation and ask it what is the
+simplest recipe possible
+in the least amount of time. Yeah. And
+it would just go through like all the
+searching and things like that uh and
+tell you the results here. So a question
+that you might be asking right now is
+Tina, how is AI search mode different
+than if I just directly ask this
+question on the Gemini web app and that
+is an excellent question. It is true
+that there is overlap between the Gemini
+chatbot and Google AI mode. But the
+difference is that Gemini chatbot is
+much more multifunctional and it has
+different integrations with other
+applications. It also has more
+creativity that's involved. While for
+Google AI search, it really emphasizes
+the search functionality. So everything
+that you're getting back is going to be
+based upon the actual sources that it's
+finding on Google search and then
+summarizing everything to give you the
+best results possible. It often pulls
+directly from the source itself. So
+you're much less likely to see
+hallucinations. For example, when I was
+doing research on the different Google
+family of models, I used Google AI mode
+because I wanted it pulled directly from
+the Google website in order to get the
+most accurate information from Google
+itself. Google AI mode does have the
+ability of searching using images as
+well and also has deep search which is
+very similar to deep research but again
+more search based. I'm going to put on
+screen now some use cases and examples
+that Google AI search is really useful
+to do. So definitely check those out
+yourself.
+Moving on to our next Google AI products
+which is AI Vids. AI Vids is Google's AI
+powered video creation app. It allows
+you to do things like producing videos
+from text prompts, um, editing videos
+together, and then reimagining videos
+that already exist. Through AI vids,
+you'll be using a combination of like
+the VO model, the Gemini model, as well
+as the imagine models for image
+generation. Unfortunately, you are a
+little bit limited on the free version
+here. Like you can't go and actually
+generate like full videos. But some cool
+things that you can do is go on
+templates and click trip highlights. And
+here you can upload some of the photos
+and the clips that you have from your
+trip. Like for example, I have been in
+North America for the past 2 and a half
+weeks. I was in San Francisco, then
+Vancouver, and then New York. So, I do
+have a lot of photos from my trip and
+maybe I want to send a trips highlight
+video to my mom. So, I'm going to upload
+all of these different clips and photos
+that I have. Insert all scenes. And
+voila, here is a nice little highlight
+reel. Here are some editing
+functionalities. And when it looks like
+that it's ready to go, I'm going to send
+it and share it with my mom so she
+thinks that I have friends and I have a
+life and I'm living a good life. I'm
+going to put on screen now some of the
+other cool and useful things that you
+can do using Google Vids. Now, I'm also
+going to put on screen now the next
+little assessment. Please answer the
+questions and put it into the comments.
+Moving on to now I want to say my second
+favorite Google AI product which is
+Google AI Studio. I'll cover my number
+one favorite one in just a little bit.
+All right, let's now talk about Google
+AI Studio. So, do not be intimidated
+that there is a lot that seems to be
+going on in Google AI Studio. Um, it's
+actually very useful and I will walk you
+through it. So, the primary thing is
+that Google AI Studio is kind of like
+the counterpart to the Gemini web app.
+Like you're able to have access to the
+things on the Gemini web app and a lot
+more as well. You also have a lot more
+granularity and control. For example,
+say I have like a chat that's going on
+over here. You know, you have access to
+different models and you can do
+something like give me some slogans of
+my Venus by trap company.
+Run that. Um, and it's going to do the
+same thing over here, but you also have
+control over things like the
+temperature, which allows your response
+to have different levels of creativity.
+So, the higher the temperature, the more
+creative it is. You also have some
+advanced settings where you can add like
+stop sequences. You can limit the output
+length. Uh top P which is like another
+way of controlling like what kind of
+results that you're going to be getting
+as well. So a lot more granularity
+that's here. You can also enable Google
+Drive which will allow you to save your
+responses into Google Drive which is
+something that you can't do on the free
+plan with the Gemini web app. You also
+have stream real time where you can talk
+to Gemini live.
+>> Hello. How are you doing?
+I'm doing well, thank you for asking.
+How about you?
+>> I'm good. So, I want you to help me out
+um because I'm trying to figure out when
+is it that I need to leave to the
+airport because my flight um is at 2:50
+p.m. and it's currently 11:00 a.m.
+>> Okay, your flight is at 2:50 p.m. and
+it's currently 11:00 a.m. To figure out
+when to leave, we need to go. Basically,
+I'm right now um I'm in the meat packing
+district in New York uh in in New York
+City and I got to go to JFK airport.
+>> Okay. Traveling from the meat packing
+district to JFK airport can vary
+depending on traffic, but it usually
+takes around an hour to 1.5 hours. So,
+yeah, it has the audio functionality and
+you can converse with it in real time.
+So, you might be like, "Okay, whatever
+Tina, it's just like a chatbot like, you
+know, audio functionality." But what you
+can do is that you can actually share
+your screen and have it like direct you
+in terms of what's happening. Like right
+now you can see the map. Is that
+correct?
+>> Yes, that's correct. I can see a map on
+your screen.
+>> What about this area? Like what is this
+area over here?
+>> That area is Brooklyn, which is one of
+the five burrows of New York City. It's
+located southeast of Manhattan across
+the East River.
+>> Okay, cool. So, um, if I wanted I guess
+I don't have time to eat, but anyways.
+So, yeah. What's really cool here is
+that it's actually able to see like
+where it is that you're pointing when
+you're sharing your screen. You can also
+have like video feed and chat with it
+like showing it different things as
+well. Some of my favorite use cases like
+say I'm using Photoshop and I want to
+like erase the turtle in the back and I
+don't know how to do that. I will ask it
+like directly how do I erase the turtle
+in the back of this image and stream
+real time is going to be able to direct
+me like on where I should be clicking on
+the screen in order to get the right
+things and get rid of the turtle in the
+back.
+>> Okay. to remove the turtle in the back.
+You could use the lasso tool to select
+it, then use the contentaware fill
+option to fill in the space.
+>> So, it's great for for like directions
+like that. You can also use stream real
+time in order to narrate what's
+happening in a video. Like, for example,
+if I'm interested in knowing what's
+happening in this football game, I don't
+know anything about football. I can ask
+it to actually narrate what's happening
+in the segment of the video. What is
+happening in this clip right now?
+>> Okay. In the video, the players are
+moving around the field and a player in
+black is on the ground having just been
+tackled. It looks like the player in red
+and white has gained possession of the
+ball. Also, the score is now Arsenal
+zero, West Ham 1.
+>> There are some other things that are
+here as well. Like if you click on the
+generate media tab, you'll notice that
+you have access to the models like Nano
+Banana, but you also have the imagine
+model, speech generation, LIA, real
+time, and VO and VO. So, you can do
+something like generate a video of
+cutting glass.
+So, as you can remember, we were not
+able to have access to VO on the web app
+directly when you're just doing a using
+the free version. But on Google AI
+Studio with the free version, you have
+access to VO and also a lot of other
+different models there as well. So, it's
+a nice little hack if you want to try
+out the models. There's a lot more like
+you can build applications. There's the
+dashboard. You can try out the different
+APIs as well. There's a lot of different
+things. And I'm not going to go into
+this too much more because I actually
+made an entire video on Google AI Studio
+where I go into a lot of detail about
+all the features that you can do. It
+really is amazing and you can check out
+the video which I'll link over here. I
+also put on screen some of the use cases
+I really love when it comes to Google AI
+Studio.
+Moving on to Notebook LM. Okay, notebook
+LM is hands down my favorite Google AI
+product. As this tagline says, learn
+anything. Notebook LM is for learning
+things. And if you've been following my
+channel for a while, you know that I
+love learning things. The workflow is
+super intuitive. You add different
+sources um whether from like your drive,
+different links, websites and copied
+text and then you are able to chat with
+the sources and get to understand it
+more and then also transform it into
+different versions like audio overview
+like podcast uh video overviews, mind
+maps and different reports as well. So
+this is a way for you to dig deeper into
+information, combine them together,
+synthesize them together and really
+transform that information. For example,
+say I'm interested in learning about AI
+agents. Well, instead of having to like
+go through all the sources about AI
+agents myself, what I can do is start
+adding sources into Notebook LM. Like
+for example, this is my own YouTube
+videos that I've done. So, I have a
+bunch of different YouTube videos on AI
+agents. So, you know, I'm going to add
+those because I think that they're good
+and I don't want to watch them again
+because I think that I'm biased, but I
+think they're pretty good. So, there's
+the AI agents fundamentals. This one is
+building AI agents and this other one is
+like a practical guide for how to build
+an AI agent using NA10 as the tool. I
+can also click the discover feature in
+order to add more sources to this. So
+sources about how to build AI agents um
+and how they are used in industry.
+Right? So I'm going to find all these
+sources and add them in as well. So, I'm
+going to add in some sources like how to
+build and sell AI agents, what are AI
+agents from IBM, building autonomous
+agents, blah blah blah from Reddit as
+well. And I can decide to add the ones
+that I think are good. Like I think most
+of these are pretty good. I'm not going
+to add some of these because I feel like
+they're not as reputable. So, I'll add
+like the ones that I like and then I'll
+import the different sources over here.
+One of my favorite hacks with Notebook
+LM is that you can actually also combine
+it with deep research. Like for example
+like I go on deep research over here and
+I ask it generate a report on how AI
+agents are being used in industry and
+what is worth learning. Let it do its
+thing and when it's ready I can go and
+copy paste the results from deep
+research and add it as a source as well.
+So now I have a bunch of different
+sources that are here. I can start
+asking questions like what are the core
+components of AI agents.
+It will draw from all that information
+from the sources and I can go on and
+have conversations and dig deeper into
+all the different sources that are
+available as well. So this is really
+really powerful for digging into it. Uh
+these are the core components that um
+are part of an AI agent. So AI model
+brain blah blah blah like all these
+different things and I can go and like
+ask him more questions specific to the
+the sources here. I can also select
+specific sources to be exploring. So,
+it's really really powerful to dig into
+this and be able to really like learn
+from all these sources without having to
+like go over through it all of it
+yourself. But there's even more than
+this that you can do. If you look at the
+studio tab over here, there's things
+like audio overview that we can generate
+a full podcast. There's video overview,
+you can generate a mind map, and then
+you can also generate reports like a
+briefing doc, a study guide, FAQ, or
+timeline. These are so amazing because
+you're able to transform that
+information a different way and interact
+it in a different way as well. Like some
+people who are audio people like me, I
+really like generating podcasts and
+interacting it with like that. Um, if
+you want to like have this information
+and make it into a study guide, you can
+click study guide over here and it would
+actually like give you a study guide for
+how it is that you should go about
+learning about AI agents. We can
+generate an audio overview as well. And
+here is the study guide. So part one is
+core concepts of AI agents. uh it goes
+through all the information AI agent
+architecture and components. So it lists
+out all of the different um types of
+things. So it's like arranged in a way
+that is really conducive for studying
+and even adds a little quiz at the end
+which of course you know that I'm a very
+big fan of quizzes. Uh it really helps
+you retain all that information. Also
+gives you the answer key as well. And
+here's a glossery of key terms as well.
+>> Term AI agent just about everywhere
+these days. uh boardrooms, tech blogs,
+even just casual chats.
+>> Yeah, definitely.
+>> But what does it really mean? I mean, is
+it just a fancier chatbot or is there
+something, you know, genuinely bigger
+happening here? Something that could
+>> pretty cool. Um, you can even interact
+directly with it. So, yeah, there's like
+a lot going on. I really hope you can
+see how powerful Notebook LM is. Um, I
+really wish I can go into more of this
+right now, but this video is already
+really, really, really long. And I do
+also have a full video that I've
+dedicated to Notebook LM, which I will
+link over here. So, please do check it
+out. It is literally my favorite Google
+AI product. Just like the other
+sections, I'm also going to put on
+screen out some of the really cool
+things that I love using Notebook LM
+for. And since we are on the topic of
+quizzes, let's now do our next little
+quiz/assessment.
+Answer all the questions that I have on
+screen right now in the comments to make
+sure that you're paying attention. All
+right,
+moving on to one of also my favorite
+Google AI products. It's called Firebase
+Studio. Firebase Studio is a vibe coding
+tool for building apps. It lets you
+build and prototype full stack
+applications uh for both like mobile and
+web apps. I'm so mind-b blown that a
+product like Firebase Studio is free.
+This is what Firebase Studio looks like.
+You can just start prototyping an app
+with AI by just typing in what it is
+that you wanted to build. like an app
+that creates recipes
+from photos. You click prototype with
+AI.
+I'll start it off with a little plan
+over here. You can click prototype this
+app and it's going to generate the code
+for the first version of it. This is a
+oneshot prompt and it's able to generate
+this and it works just like that. Uh
+it's not always going to be like that.
+You know, sometimes you need to tweak it
+a little bit. There is like a whole art
+and science to vibe coding. I've made
+like several videos about how exactly to
+do vibe coding to produce the apps that
+you want to have and doing it properly.
+Uh so I'm not going to go into too much
+more detail about that either. I'll put
+them I'll link them up top and also link
+you in the description to all the I've
+literally made like at least three
+different videos on how to vibe code.
+Here's an example of a productivity app
+that's inspired by Pokemon. And here is
+a language learning app where you can
+chat with the AI and it will give you
+feedback on your grammar and your
+pronunciation and your sentence
+structure and your vocab.
+>> Hi there. Let's talk about food. What's
+on your mind?
+>> I like potato. Eating potato.
+>> Potatoes are great. Do you have a
+favorite way to prepare them?
+>> I do have a full video that covers
+Firebase Studio and all the details
+about it. So do check it out if you're
+interested in building apps linked over
+here. You can use Firebase Studio even
+if you have no idea how to code. But if
+you do know how to code, there's also
+this IDE view where you can actually go
+into the code and add things yourself as
+well. I'm going to put on screen now
+some of the apps that you can vibe code
+using Firebase Studio.
+Next up is Opel. Opel is also an AI app
+builder that lets you like build, edit,
+and share many apps using natural
+languages. The experience of using Opal
+is pretty different from Firebase Studio
+because it is like a visual builder and
+you don't actually interact with the
+code directly. It's also only available
+for beta um in the US only. So, I'm not
+sure if all of you guys have access to
+it right now, but you should. They're
+probably rolling it out to everybody
+else as well, so don't worry. So, let me
+explain what I mean by it's a visual
+builder that's different from Firebase
+Studio. So we you can check out some of
+the mini apps available in the gallery
+like a blog post writer, a book wreck,
+business profiler, citybuilder, etc.,
+etc. Uh let's say let's click on
+learning with YouTube. Let's try this
+out as a mini app. So you see that
+instead of having the code that's there,
+it shows you the workflow itself. So for
+this mini app, it's learning with
+YouTube, turn your YouTube videos into a
+quiz to help you learn. So you can get
+started and it tells you to enter the
+YouTube video URL. But let's say that
+I'm going to put a video here that is my
+video about prompt engineering. So it
+would go and extract a video transcript
+and you can actually see exactly what
+it's doing. So it will collect a URL and
+it's showing you the flow. It's
+extracting the video transcript. Um and
+then after that it's going to it's going
+to analyze the education content. Then
+it's going to generate the quiz and then
+finally it's going to display the
+report. The final thing that you get
+back you can also see the flow that's
+happening from the console view too.
+like it's calling Gemini 2.5 fashion
+now. Now it's generating the quiz and
+voila, here you go. It is able to show
+you the quiz uh that is based upon this
+video and you can test yourself using
+this. So this is what is meant by a mini
+app. You can of course also build your
+own mini apps by clicking create new
+generate a blog post and video based on
+the topic that the user provides. So you
+can see the workflow here is that the
+user will enter the topic for the
+content and then it will use that
+content to generate a blog post and it
+will also simultaneously send it over to
+generate the video instructions. Then
+here the blog post is going to go into
+the generate video clip as well as the
+generate video instruction is going to
+go into general video clips. Combine
+everything together to generate the
+combined output. So you get the blog and
+the clip. And the way that the mini app
+looks like is like this. So you can
+click start, enter the topic for your
+content, how to make chocolate,
+and it will generate this blog post as
+well as a video clip. You can also click
+share app in order to share the app with
+other people to use. So yeah, pretty
+nifty, right? Um I think actually really
+cool. It's like this like product that
+you can see it's definitely not as
+powerful as Firebase Studio is. It's
+limited in the kind of apps I can build,
+only like these mini apps, but it is
+really nice for people who don't want to
+like directly go into building a full
+product. also completely free as well,
+which is pretty crazy. Those of you who
+are based in the US and have the beta uh
+available to really recommend that you
+check it out. I'm going to put on screen
+now some of the mini apps that you can
+build yourself using Opal. And also time
+for our next little quiz. As you know,
+answer these questions and put them into
+the comment section. All right, we are
+almost done. We've covered a lot in this
+video, but there are two other um Google
+AI products that I do want to very very
+briefly mention as honorable mentions.
+I'm not going to cover them fully
+because they are a little bit niche, but
+I personally think they are really,
+really powerful. The first one is the
+Vert.ex AI platform. It contains a lot
+of things that you can do, including
+Vert.ex AI Studio, which is kind of like
+the developer version of Google AI
+Studio, and there's also agent builder
+where you can build out agents as well.
+So, Vertex AI is really, really
+powerful. There's a lot of things that
+you can access through here, but it is a
+developer tool. So, you do need to know
+how to code to be able to use it
+properly. But if you do know how to
+code, um it is extremely powerful and I
+highly recommend that you check it out.
+And the final honorable mention I want
+to tell you guys about is in fact
+YouTube Studio. So as a creator, I spend
+massive amounts of time on YouTube
+Studio. Uh and originally I wasn't
+actually going to add this into this
+video. It just so happens that I am in
+New York right now to attend Made on
+YouTube, which is a YouTube event. Uh
+they get a lot of creators and press to
+come in and tell and they told us all
+about the new AI features that they're
+developing for creators. and it is
+pretty cool. So, it's not available even
+like to me right now, but they did show
+some demos. Some of the things that
+really stood out to me include being
+able to use the VO video models directly
+through YouTube Studio to generate
+YouTube shorts. Gemini is also going to
+be integrated into YouTube Studio so
+that you're able to look at the metrics
+and the data directly through natural
+language as opposed to going through the
+data itself. Uh, for me personally, I
+love going through the data. I was a
+data scientist, but I do know that for a
+lot of other creators, they don't really
+like digging into the numbers. So, this
+will be um really really useful for them
+in order to analyze their YouTube
+channel. It would also help you come up
+with better videos based upon comments
+that are being generated, for example.
+So, overall really, really powerful tool
+for creators. So, yeah. Oh my gosh.
+Thank you so much for uh watching this
+entire video. And I have like 5 minutes
+to finish packing everything before I go
+on my flight where I'm going to be late.
+Fingers crossed. Ask me in the comments
+if I actually managed to make it on this
+flight. But here, here, here's this
+final little assessment. Please answer
+these questions and put it into the
+comments. All right, and I will see you
+guys in the next video or live stream.
+Wish me luck.
