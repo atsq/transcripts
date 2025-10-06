@@ -1,0 +1,273 @@
+at a fundamental level in terms of all
+the underlying metrics and variables uh
+that actually really do make a
+difference. The crypto market is in fact
+heating up. Uh there's some volatility
+uh over the course of that heating
+process, but that is the trajectory and
+three midcap projects in particular are
+catching our attention. One is building
+agentic AI economies. Another is
+reshaping identity big issue with
+billions in DeFi liquidity. And the
+third one is just crushing it in storage
+right now. Each one of these has fresh
+updates, strong growth, and near-term
+catalysts that are going to make a
+difference. And so, in this video, we're
+breaking down these three spectacular
+altcoin projects.
+[Music]
+Welcome to the channel. My name is
+Maddie and this is Altcoin Buzz. All the
+best of luck if you choose to invest. I
+genuinely do wish you well. But I'm not
+a financial or investment adviser, nor
+is this video official financial or
+investment advice.
+Warris is a data layer for web 3 and
+what that means is it deals with data
+storage, data availability and then with
+seal coming you can now give access
+control as well. Seal is absolutely the
+missing piece in this big step change in
+in bringing the kind of web 2 world into
+the web 3 world or just expanding the
+web 3 world.
+>> Seal is a decentralized key management
+system. It allows you to to get keys to
+encrypt data and then store that data
+either on walrus the decentralized
+storage system or on suite or wherever
+else and then define smart contracts
+that basically determine who's allowed
+to decrypt that data. Walrus is like
+Apple photographs and seal offers the
+password protection that you have to
+access those photographs.
+>> Seal really comes to complement Walrus
+and automate that process of encrypting
+data, uploading it to Walrus and then
+only giving access to that data to the
+people who are authorized to get that
+data.
+>> It's what you would expect in the
+traditional world, the web 2 world. And
+now we're just making it possible in the
+web 3 world. Our
+first midcap for today is Walrus. It is
+the decentralized data storage protocol
+on SUI SUI. Uh and as you just heard
+actually with Seal, they've added access
+control. And what this means uh is that
+it's a lot easier to give but also to
+revoke and to control access to the data
+that Walrus is storing for you on your
+behalf. If you think about the
+implications of this uh whether it's for
+things like medical records or other
+sensitive information you can restrict
+access. So for example uh let your
+specialist have access to your medical
+records uh for instance but access is
+only for 72 hours to help with a
+particular diagnosis or surgical
+consultation whatever the issue may be
+and then after that access reverts back
+only to you. So it's much more
+selective. It's much more programmable.
+And even bigger implications exist for
+AI and the management of data sets
+because you can train the model however
+you want, but you can limit who else has
+access to your data set or uh if your
+data is part of the data set, you can
+restrict who sees it in its entirety.
+And with Seals encryption on Walrus, we
+get what the Walrus team calls
+programmable privacy. Now, that is a
+huge step forward, especially since we
+expect Walrus to become a pretty big
+player in decentralized AI and the
+storage and use of AI models. The Walrus
+ecosystem is also growing rapidly. Talis
+uses Walrus to process data onchain
+quickly so that they can deploy AI
+agents faster. And then of course, RWA
+protocol Plume uses Walrus to ensure
+they can verify asset data. Open
+gradient is here and on bit tensor
+subnet as well. It uses Walrus to access
+and train AI models. And there's lots
+more. We have 178 projects that are
+listed on the ecosystem project
+directory. And it's not just AI. There
+are gaming and entertainment apps here
+and even infrastructure like CrossMint.
+That's for adding APIs to wallets and AI
+agent-based commerce. And then finally,
+we have none other than Google uh who is
+partnering with actually both sui and
+walrus on aentic payments. This is what
+we've been uh waiting for here at
+Altcoin Buzz. Full AI automations that
+include digital payments to an AI agent
+with cryptocurrency and SU is part of
+Google's AP2 protocol that's uh making
+this all happen. So Walrus very much
+wants to be the web 3 Amazon web
+services AWS and they're off to a good
+start. It looks like they are well on
+their way at a price as I record right
+now of 36.5 cents. Walrus has a market
+cap of $530 million. That is squarely in
+the midcap range, kind of right between
+100 million and a billion dollars. Uh
+its launch was in March. Circulating
+supply is 1.44 billion out of a total
+and maximum supply of 5 billion. Now,
+this is a number that's lower than we'd
+like to see as far as a ratio and as a
+percentage, but we have to also remember
+that the TGE, the token generation
+event, was recent. Uh and we do expect
+this number to improve that percentage.
+All-time high for context was 73 cents
+in May and we expect Walrus to challenge
+and surpass that during the rest of this
+cycle. Quick shout out to Serge here.
+This is our risk-free prediction game
+that's available on Telegram. And in
+this game, you just swipe left or right.
+You can kind of think hamster combat or
+even Tinder. You're swiping to guess
+whether a crypto asset pumps or dumps.
+And in the process, you earn rewards and
+actually hopefully you can pick up some
+market skills as well. While you're at
+it in the form of technical analysis,
+they've also kicked off a weekly
+giveaway. It's a contest that is super
+simple. Every week there's a coin of the
+week. This time it is BNB. All you have
+to do is swipe to find it on the Surge
+app. Once you see BNB, screenshot it,
+and then drop it under their tweet. One
+random reply wins $50 in USDT. It is
+super easy. You may as well be the one
+that wins. But of course, to win, you
+have to at least participate. So check
+out Surge, have some fun swiping, maybe
+snag some prizes along the way. Check
+out Serge, check out the links, as well
+as the competition details and the
+Twitter information, X information in
+the description below. At number two
+here, we are looking at Virtual's
+protocol and the Virtual, that's V I R T
+U A L token. This is a midcap AIdriven
+protocol. Uh we're trading right now at
+uh down on the day at $1.3 with a $680.3
+million market cap as I record. Just
+want to make sure that we're getting a
+snapshot of the price. So this puts them
+uh as you can see by ranking at number
+151 across all crypto assets as measured
+by market cap. The supply here is capped
+at 100 million tokens. And about two
+weeks ago, on September 12th, 2025,
+Virtual's co-founder shared a pretty
+ambitious goal to reach $100 million in
+agent-based revenue by year end in 2025.
+Many fans got excited by the
+announcement, of course, and Misari and
+Meme Insider both reported on this
+update. Uh, now the team highlights AI
+agents as an entirely new layer in DeFi
+economies and economics. Another
+highlight this week came from ecosystem
+partnerships. So, Backroom, a partner
+project, announced deeper integration
+with virtuals. Onchain tools now can
+access better and more AI agents. Uh, so
+partnerships like these obviously help
+to keep the momentum growing again
+despite the negative price action as of
+this recording uh on this day. But we're
+seeing more activity on X and more
+positive underlying indicators that
+relate to DeFi. As a result, ecosystem
+data is also more evidence of growth.
+Virtuals reports growing revenue streams
+on DeFi Lama which include annualized
+fees crossing $9.2 million. TVL which is
+total value locked remains small but uh
+it is rising which signals early stage
+adoption. A Gentic activity keeps
+growing uh and so these metrics do show
+positive week-over-week growth. Looking
+ahead, Virtuals aims to expand its AI
+economic layer by Q4, so the end of this
+year. And we have some short-term
+catalysts that include roadmap
+milestones and agent partnerships as
+well. Altcoins really in general across
+the board are down today, but at a$15,
+it's a good entry point for virtual in
+my humble opinion. Last but not least
+here, and we're being opportunistic and
+we're trying to take advantage of this
+dip. Morpho. This project is one of
+DeFi's most efficient lending layers.
+It's Morpho token. That's M O R P Ho.
+Trades as I record at $166. that is down
+7% on the day with a $551 million market
+cap ranked around number 173 uh right
+now. It is drawing attention from large
+holders though and part of that is we
+see supply inflows from staking have
+fueled steady growth in liquidity. Then
+uh there is this key recent development.
+Altcoin buzz listed Morpho among
+projects facing major unlocks this week.
+Uh in fact the unlock is going to be
+pretty significant. $513 million in
+circulating value in Morpho. But despite
+this, Morpho's core TVL is remaining
+pretty resilient. Investors, I guess,
+view unlocks as opportunities rather
+than pure risk. In fact, Dune Analytics
+highlighted Morpho's rise on the 8th of
+September. They showed over 220,000
+active wallets in 2025. And the
+dashboard also cites growth in weekly
+loan volumes. These are stats that show
+more adoption, at least more so than uh
+hype. So there's some solid fundamentals
+behind it here which collectively cement
+Morpho as a pretty serious DeFi
+contender. Ecosystem growth for example
+is very clear. Uh this is as per DeFi
+llama. Morpho as of right now shows a
+$7.135
+billion TVL. That is very very
+significant. Uh that's up very
+significantly month overmonth as well.
+Uh and its integrations with a compound
+are driving sustainable yields.
+governance plans include expanding to
+more chains, which is good news. And we
+know that more chains is going to lead
+to more adoption potential. Uh that's uh
+at least the high high likelihood. So
+there you have it. Three solid altcoins
+that if they aren't already really ought
+to be on your radar. And if you're in
+the market, guys, for really the only
+exchange that you need to be using in
+2025, take a look at BitGet and this
+recent video that we produced analyzing,
+reviewing BitGet. There's some great
+incentives there that you can avail
+yourself of as well. Check out the links
+in the description below.

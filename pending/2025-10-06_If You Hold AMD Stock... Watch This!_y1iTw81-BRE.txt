@@ -1,0 +1,403 @@
+Hey everyone and welcome back to another
+video for today. So let's talk a little
+bit about AMD. AMD has been around the
+same price for the last month or so.
+Actually, if we look at the year-to-
+date performance, it's been a good year
+for AMD stock, right? Comfortably
+outperforming the market. It's up 32.8%.
+But if you look at the last 12 months,
+for example, stock has done basically
+nothing. Now, that's good and bad,
+right? It's bad if you bought it a year
+ago, then you've been underperforming
+the market. Of course, it's good if you
+wanted to accumulate more and more
+shares. Why? Because throughout the last
+12 months, the business of course has
+become better. Now, right now, when I'm
+filming this video, it's the end of the
+quarter. And so, it's always good to
+look back and reflect and see what has
+happened with the stock, what has
+happened with the business, right? to
+make sure that our expectations are not
+too low and especially not too high. By
+the way, over the last three months,
+stock is up 17.7%.
+It's a company worth $262.5
+billion. Yes, the trading PE is very,
+very high. The forward one is 31.9
+times, but this is still a company that
+is expected to grow top and bottom line
+quite rapidly over the next coming
+years. Now, as I've shown you before,
+right, when AMD was back early 2024 at
+around $227 or so, this was the next
+Nvidia, right? This was the next Nvidia.
+And since then, well, since then, the
+stock has crashed 66% to the April lows.
+And then from the April lows, the stock
+has gone up by 135% to reach a peak here
+of $186. And then yes, it did pull back
+a little bit around 13% right now. And
+as we've been saying time and time
+again, these are healthy pullbacks,
+right? You want to see stocks that have
+gone up more than double in a matter of
+couple of months pull back a little bit.
+It is healthy. Previously, we were also
+overbought. So healthy pullbacks and
+then some consolidation around key
+prices is a good thing. Now, let's talk
+a little bit about MD the business. Of
+course, if you enjoy these type of
+videos, hit all the buttons. Would
+really appreciate that. Want to support
+me even further. Do check out the link
+down in the description and end up in
+comment with the top 10 best stocks to
+buy now or go to full.com/cosinvestor.
+Thank you very much. For to note that
+I'm filming this before the market opens
+after it was announced that the
+government is going to shut down. So,
+the price action on Wednesday can be all
+over the place, but it doesn't really
+matter that much. Now to get some more
+context here before jumping into the
+details of what has happened at the
+start of September there was that
+Goldman Sachs analyst conference and
+they told us of course the same thing
+time and time again. Server CPU market
+share of 41% an increase of eight points
+in the last 12 months. Data center GPU
+revenue street estimates project
+approximately 7 billion for the current
+year which is quite low if you ask me.
+Right? If we go back to I think the
+start of the year, projections were
+closer to 1112 billion. Then that came
+down to around $8.5 billion or so. And
+now we're only at $7 billion. Not going
+to lie, as a shareholder, that's quite a
+low number. Unfortunately, we don't know
+what the number is because AMD does not
+give us a number this year. They gave us
+a number last year. For this year, we're
+flying blind here. And going from just
+over $5 billion in 2024 to just $7
+billion for 25 is not great, right? Is
+not great. Especially not if we thought
+it could be doubling in 2025. They talk
+again about the 2028 AI accelerated
+total addressable market projected to be
+$500 billion data center GPU market
+share aspiration to achieve around 20%
+plus actually to be a considered a
+meaningful player. They also talk a
+little bit about the total cost of
+ownership focus MI400, MI450s and
+specifically on that they say that they
+anticipate material revenue contribution
+from the MI450 next year driven by close
+collaboration with end consumers for
+deployment preparation probably the open
+AIs and the oracles of the bunch. The
+company expects continued strong growth
+in its CPU franchise fueled by both AI
+related demand increases and ongoing
+market share gains in cloud and
+enterprise segments. AMD aspires to
+achieve absolute server CPU leadership
+in the relatively short period of time
+and aims for over 20% market share in
+data center GPUs as an intermediate step
+to establish itself as a meaningful
+player. Of course, all of that is great,
+but if we're only going to get these
+types of numbers, that's well quite
+conflicting, right? Of course, it's not
+like there is no growth potential. Uh if
+we look at the capex growth from all of
+the big players and the projected growth
+according to bet Kindic here, Amazon,
+Microsoft, Meta and Alphabet are
+expected to spend $465 billion on capex
+in 2026 up more than 21% year-over-year.
+And we're just talking about these
+players. You're not talking about Tesla,
+XAI, all the other AI labs countries and
+all of that. So the opportunity is
+definitely there. Now, they also showed
+us this, right? Nvidia and AMD free
+cash. This is something that I've talked
+about before as well. Gross profit
+margin, especially free cash flow
+margin. For AMD to be in the trillions
+of dollars in market cap, you have to
+match that trajectory, right? The
+V-shaped trajectory that we've seen from
+Nvidia. We're not yet seeing at AMD. for
+the last well since fiscal 23 all the
+way to the expected fiscal year 26
+estimates Nvidia has grown free cash
+flow by 25.9 times AMD 6.6 six times,
+which is still very, very good. But
+every time I see this stupid comparison
+that AMD is suddenly going to be worth
+trillions of dollars because Nvidia is
+worth trillions of dollars, I'm sorry to
+say, but that's more opium than anything
+else. AMD can become extremely big, but
+to start making comparisons to Nvidia,
+the numbers need to make sense. And at
+the moment, the numbers do not match
+that uh Narnia type of thinking. Moving
+on here we have actually some very
+interesting numbers and projections
+here. So first up CSP capex estimates
+2025 estimates 2026 estimates. As you
+can see across the board we are seeing
+some growth. We are well not some a lot
+of growth here but of course seeing here
+a huge huge increase. If you look at
+2026, same thing here. We are still
+seeing a lot of increases. Although
+right now the latest consensus number,
+the over increase for Oracle is just
+going to be 3%, 11% Amazon, 10% Google,
+44% Meta, 15%
+Microsoft. And so all in all across the
+board for 26, you can see here 445.8
+billion, which is a little bit less than
+what we've just seen before from IDC.
+But then again, if we look at the most
+bullish consensus, that's even higher
+than what we've seen before at $543.9
+billion. So if you want to take the
+midpoint there, that's also fine. But it
+just shows you that it's still going to
+grow quite nicely. Then if we look at AI
+revenue as a percent of CSP capex,
+Nvidia AI revenue, and that's
+interesting. So Nvidia AI revenue 425
+the estimated number is $193.3
+billion 86% mix that drops to 81% of the
+mix in 2026
+okay great for AMD yeah AMD is going to
+take one percentage point going to go
+from 4% to 5%. The huge winner here is
+actually Broadcom. Broadcom goes from 8%
+mix to 12% in 26. So they go from $19
+billion to $36.9 billion. And AMD, by
+the way, is going to go from 8.3. So not
+the $7 billion that we've seen. Again,
+these are estimated numbers from 8.3 to
+15.1 billion in 26.
+Nice growth, right? Nice growth. And
+maybe if those numbers are conservative,
+I don't know, maybe they could even
+double, right? To go and reach 1617
+billion or so in 2026 depending on the
+release of the MI400 series, how fast
+can they ramp it up, etc., etc. So,
+okay, these are the numbers right now,
+but it's quite clear that Broadcom is
+going to be the big big winner. And here
+according to those estimates, Nvidia is
+about to lose its share of revenue as a
+percent of CSP capex. As for the
+commentary that we've got from CSP
+management on 2026 capex, Microsoft
+fiscal year 26 capex growth to be
+moderated versus fiscal year 25 greater
+mix of short-lived assets, GPUs, etc.
+Meta expects another year of similarly
+significant capex dollar growth in 2026
+as they continue to aggressively pursue
+opportunities to bring additional
+capacity online to meet the needs of
+their AI efforts and business
+operations. We've just of course seen
+also the Meta Core deal for $14 billion.
+Google looking out to 2026. We expect a
+further increase in capex due to the
+demand we're seeing from customers as
+well as growth opportunities across the
+company. And then Oracle, majority of
+our capex investments are for revenue
+generating equipment that is going into
+data centers and not for land and
+buildings. And so again, for those that
+think that this AI growth cycle is
+coming to an end, I'm sorry to say, but
+no, at least not yet. Moving on here,
+we've had a truest analyst come out with
+a new price target of $213
+with a buyer rating here. The catalyst
+growing customer traction in data center
+AI markets shift from being viewed as a
+price check to a real partner and
+reinforce conviction after management
+dinner discussion. The risk factors are
+reliance on continued execution in data
+center AI adoption and competitive
+landscape versus Nvidia and Intel could
+pressure momentum because of the
+announcements between Nvidia and Intel.
+Analysts reiterate confidence in
+calendar year 2027. EPS of $789
+and growth outlook which means you're
+paying approximately 20 times calendar
+year 27 earnings at the moment which is
+not that expensive I would say for a
+company that is still expected to grow
+quite rapidly. Then quickly switching to
+something that I mentioned during a live
+stream. This is from semi analysis on X
+talking about how AMD is actually
+pushing Nvidia to produce better
+products. And then of course Nvidia
+pushes AMD to produce better products as
+well. But this is a good sign. This is a
+sign that actually AMD products are now
+so competitive and successful that it
+makes Nvidia the clear leader here think
+twice and improve their own products.
+This is very good for the market and a
+good sign that the MI450X here is going
+to be quite a competitive product.
+Lastly here we've had an announcement
+between AMD and Coher. Coher is valued
+at around $7 billion or so. Coher
+specializes in large language models and
+AI products for regulated industries,
+particularly finance, healthcare,
+manufacturing, and energy fields as well
+as the public sector. And so last week,
+AMD and Coher expand global AI
+collaboration to power enterprise and
+sovereign deployment with AMD AI
+infrastructure. Coher customers can now
+run Nord and Coher's Command A series
+directly on AMD Instinct's GPU powered
+infrastructure. AMD also announced that
+it will integrate Coher's Node platform
+into its internal enterprise AI
+portfolio, making Coher's technology an
+integral part of the AMD internal and
+engineering AI workflows at the company.
+The co-founder of Coher said the
+following thing. AMD has a compelling
+total cost of ownership proposition with
+its AI infrastructure and is a great
+option for sovereign AI initiatives in
+Canada and uh globally. So they were
+already at the AMD advancing AI event
+which we actually covered on the
+channel. So as discussed there, these
+models powered by AMD are already
+deployed across enterprises, providing
+the memory bandwidth and capacity needed
+for long context reasoning and complex
+workloads, reducing the deployment
+footprint and lowering total cost of
+ownership for customers. With Coher's
+focus on highly secure and private AI
+models combined with the high
+performance AMD AI infrastructure, AMD
+and Coher can enable sovereign AI
+deployments that respect national data
+security and compliance requirements.
+Offering coher enterprise AI models on
+AMD AI infrastructure provides a
+foundation of for governments and
+enterprises to build trusted AI systems
+with the flexibility to run on their own
+terms. Of course, this is very important
+if you really want to participate in
+those huge huge projects whether it's
+the Stargate projects or anything else
+especially when we talk about
+governments, financial sector,
+healthcare sector, energy of course all
+of them are already working right AI AI
+but these are sectors where you need
+security when you need privacy where
+they need full control of their data. So
+this of course will help with that.
+Lastly, quick reminder. We've had that
+iron announcement, of course, that they
+doubled their AI cloud to 23,000 GPUs.
+They raised their AI cloud AR target to
+over $500 million by Q1 2026. And for
+the first time, we're seeing here AMD
+GPUs pop up. So, they've got 1,100 AMD
+Mi 350X uh GPUs. Remains to be seen what
+happens going forward. Are we going to
+get more AMD GPUs or are they only going
+to increase their Nvidia fleet? What
+type of well reception? What's the
+reasoning behind offering AMD GPUs? Is
+there so much demand for that or are
+they just trying out new things? They
+say here the addition of AMD hardware
+alongside further Nvidia GPU broadens
+Iron's offering an addressable market.
+Okay, great. But now we can actually
+focus on iron and see okay are they
+expanding their AMD fleets or not and if
+they are is it because the demand is
+just so great or is it because it's
+being used for certain workloads what
+are they'll hopefully get more answers
+in the coming months maybe coming
+quarters but of course as named
+shareholder always good to see this and
+so lastly here yes while the stock has
+been flat for a while now I am not
+worried I'm actually quite happy that we
+are stabilizing around the same price.
+Although you can see some fluctuations
+right here. To go and revisit the 200
+day moving average, the stock would have
+to crash 20%. How will that happen?
+Could only happen, I believe, if there
+is a very very bad earnings report and
+bad comments during the call. Do I think
+that will happen? Probably not. All
+things indicate that not only the data
+center side of the business, but also
+the client side, right? Gaming, client,
+and embedded are all going to have more
+growth ahead. Especially gaming and
+embedded used to face quite a lot of
+headwinds. Now we are starting to see
+some tailwinds. So that should
+definitely help the overall revenue
+profile, free cash flow, and
+profitability profile of the company. So
+I remain very bullish on AMD moving
+forward. So always good to go back check
+what has happened check what has
+happened with the company and the stock
+make our expectations quite clear. My
+expectations with AMD are still they are
+going to be a bigger company in the
+future than they are today. Are they
+going to replace Nvidia? No, I don't
+think so. But that's fine. That's fine.
+Do I think they will become a trillion
+dollar company tomorrow? No. But if they
+continue to grow nicely, if they
+continue to come out with competitive
+products, I do think it's just a
+question of when, not if. So, that's
+about it for me in this video. If you
+enjoy this type of videos, hit all the
+buttons. Would really appreciate that.
+And we'll see each other in the next
+one. Bye-bye.
+[Music]

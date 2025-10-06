@@ -1,0 +1,378 @@
+It's official. Crypto is maturing beyond pure hype 
+and opium. Nowadays, leading crypto projects are
+consistently bringing in millions in revenue 
+every single month. Every goddamn month. So,
+today we're looking at five of the heaviest 
+hitters by revenue across a load of sectors from
+memecoin launchpads to lending protocols. We'll 
+dive into how they work, why the money's flowing,
+and how all of this affects token prices if 
+current trends hold. My name is Guy, and you're
+watching the Coin Bureau. First up, I must make 
+one thing clear. I am not a financial adviser,
+and nothing in this video should be considered 
+financial advice. This is purely educational
+content meant to inform you about some of crypto's 
+highest earning projects. If that sounds good,
+hit those like and subscribe buttons, smash that 
+notification bell, and let's get into it. So,
+the first protocol we'll look at is Pump.f fun, 
+which we'll just call Pump going forward. Now,
+Pump is a memecoin launchpad that was set up in 
+early 2024 by a semi anonymous trio of founders,
+Alan Cohen, Noah Tweedale, and Dylan Kura. Of the 
+three, Cohen has taken the lead in representing
+the project publicly. Now, the founders built Pump 
+with one clear mission. Turn memecoin creation and
+trading into a frictionless experience. And 
+sure enough, Pump kicked the memecoin market
+into overdrive. At its core, Pump is a launchpad 
+that enables anyone to spin up a memecoin within
+minutes. And once a memecoin is created, it begins 
+trading on a special pricing mechanism known as a
+bonding curve. Then if it gathers enough traction, 
+it migrates to Pump Swap, Pump's native DEX that
+launched back in March of this year. The platform 
+takes a cut on that non-stop token creation and
+the trading activity on Pump Swap that follows. 
+And that one-click UX plus instant liquidity has
+made Pump a huge success. In fact, since it went 
+live, users have launched over 13 million meme
+coins. Now, a quick note on terminology before 
+we continue. In crypto, fees are considered the
+total fees paid by a protocol's users, and revenue 
+is the protocol's retained portion after it pays
+out other parties like liquidity providers. So, 
+fees are a bit like a protocol's gross income,
+while revenue is like the protocol's net income. 
+For Pump, fees and revenue used to be the exact
+same because Pump used to keep 100% of the 
+fees, but recently they began sharing a portion
+of trading fees with Pump Swap liquidity 
+providers and memecoin creators using the
+Launchpad. So since then there's a difference 
+between fees and revenue. With that in mind,
+Pump's revenue continues to hit absolutely 
+mind-blowing numbers. In August, the platform
+earned $46 million in revenue. And if we consider 
+cumulative revenue since its launch, not even 2
+years ago, that sits above $810 million. Crazy. 
+And those numbers matter beyond bragging rights,
+too. In mid July, Pump introduced a very simple 
+flywheel. Use platform revenue to buy back its
+native Pump token. At the time of shooting, Pump 
+has bought back a whopping $100 million worth of
+Pump tokens and counting. And that structural bid 
+has helped lift the token to new all-time highs,
+even as the rest of the market chopped sideways. 
+And with the revenue numbers like they are, it's
+no wonder on recent high activity days, Pump's 
+daily revenue has even outrun major powerhouses
+like Hyperlid, a revenu platform we'll touch 
+on very soon. So, the key takeaway is that even
+a memecoin factory can outearn some of crypto's 
+most sophisticated trading stacks when conditions
+permit. On top of that, Pump recently went for a 
+refreshed push into the creator economy, reviving
+its live streaming feature that encourages token 
+launchers to uh well work for their backs. These
+streams ran into controversy last year, so it 
+remains to be seen how effective new monitoring
+systems will be, but activity certainly saw an 
+uptick on the relaunch. Now, with that backdrop,
+the bull case for the pump token is pretty simple, 
+just like the platform. If Salana's meme theater
+can keep holding attention, then launches and 
+trading activity stay strong, revenue stays high,
+and buybacks continue to support Pump's price. 
+On the bare side, revenue is still far below its
+January 2025 peak. In August this year, monthly 
+revenue for the entire pump operation was $46
+million, which is great, but that's about a third 
+of its record month back in January. In fact,
+Pump launching the Pump Swap Dex was primarily 
+a move to capture more memecoin trading revenue,
+specifically due to that drop off in launch 
+revenue from its peak. So questions remain
+as to whether the trend here is actually down 
+and the recent uptick is just a flash in the
+pan. Ultimately, without fresh capital, memecoin 
+volume doesn't magically reinflate. And getting
+back to January 2025 levels probably needs another 
+major liquidity wave. And there's also competitive
+pressure. With memecoins becoming so big, there's 
+a new wave of Pump competitors looking to get a
+piece of the action. For now though, Pump is 
+number one in both market share and that juicy
+juicy revenue. Now, the second cash flow rich 
+protocol we'll be looking at today is Axiom.
+Axiom was founded by Henry Jang and Preston Ellis, 
+two UC San Diego computer science grads who took
+the idea through Y Combinator. Ultimately, 
+they shipped a trading app designed for
+onchain traders who live on the bleeding edge 
+of crypto speculation. Launched in early 2025,
+Axiom is both one of crypto's fastest growing 
+trading startups and one of crypto's fastest
+growing platforms. Axiom is an onchain trading 
+terminal where users can trade Salana memecoins,
+discover freshly minted tokens as soon as they 
+launch, and even trade perpetual futures via a
+hyperlquid integration. But Salana based memecoin 
+trading remains Axiom's bread and butter, and it
+brings in the big bucks. Users pay fees for using 
+the platform. Axiom returns a cut to traders via
+rebates. More on that later, and what's left is 
+net revenue for Axiom itself. And with memecoins
+being such a major feature of onchain trading 
+this cycle, it's no wonder that Axiom's revenue
+story is grabbing headlines. Axiom blasted through 
+$100 million in revenue within 4 months of launch,
+which is crazy for any startup, let alone a crypto 
+one. In August alone, the platform brought in over
+$31 million in net revenue. That is an impressive 
+monthly hall, especially considering we're a far
+cry from the peak memecoin mania that we saw back 
+in January. And Axiom's positioning in the market
+is ideal for revenue capture, as it covers the 
+two main drivers behind onchain trading volume,
+memecoins and per. And then it bundles them 
+into a single fast and intuitive UI. As long
+as traders continue to speculate on chain, that 
+design compounds. On the other hand, though,
+the main risk, similar to pump, is a major 
+drop in memecoin market activity. That has
+happened before and it will happen again as sharp 
+swings are a feature of the sector. But for now,
+Axiom's revenue speaks for itself. And as you 
+may have noticed, there is one giant kicker here.
+Axiom doesn't have a token. But if they ever do 
+launch a token and root a share of revenue into
+buybacks or some other mechanism for token value 
+acrruel, the setup is textbook reflexivity. Cash
+flow becomes a bullish narrative for the token 
+and the terminal's activity turns into mechanical
+demand for the asset. So Axiom is looking very 
+strong and that's exactly why now is a great time
+to get set up if you're at all inclined to do any 
+onchain trading. And if you want to get started,
+then be sure to use the link in the description 
+below because using that sign up link will give
+you 10% cash back for life as well as a 2x points 
+multiplier, which will presumably help you get
+more of any potential upcoming Axiom airdrop. 
+Okay, we've teased this third one enough. The
+next highly profitable protocol we're looking at 
+today is none other than Hyperlid. Kickstarted by
+Jeff Yan, Hyperlquid's core team is intentionally 
+tiny, reportedly about 11 people, and yet they've
+scaled a self-funded DEX to hundreds of billions 
+in monthly trading volume. One distinguishing
+feature of Hyperlid is that it's not an app 
+built on another chain. It's actually its own
+L1. Hyperlid's core DAP is its DEX that runs a 
+full onchain order book for Per and Spot. And
+in addition to that, there's also Hyper EVM, 
+which lets apps build additional DAPs in the
+Hyperlquid ecosystem and plug directly into that 
+powerful DEX. That split design is largely why it
+has sex-like speed without giving up custody and 
+why wallets, vaults, and strategy apps are now
+building around it. And sure enough, with all that 
+activity comes a boatload of revenue. Now, as far
+as any distinction between fees and revenue goes, 
+almost all fees Hyperlid earns equate to revenue,
+although there are rebates in place similar to 
+Axiom. But the revenue story is simple. Hyperlid
+just posted a record month of $110 million in 
+revenue for August. That's up about 23% from
+July's tally, numbers that would make a mid-tier 
+centralized exchange blush. And that revenue
+overwhelmingly stemmed from Hyperlid's Pers 
+volume, which has been absolutely insane, hitting
+a record of just under $400 billion for August 
+alone. And what's more, this has big implications
+for the Hype coin. 99% of Hyperlquid fees are 
+rooted to an onchain assistance fund that market
+buys Hype. Now, the fund is a form of treasury 
+or backs stop. It functions as a safety net for
+the ecosystem with capital that can be deployed 
+in black swan events if needed. But dayto-day
+those buybacks act as constant bid pressure. 
+More trading, more fees, more buybacks, less
+circulating hype. You don't need a spreadsheet 
+to understand that loop. You can see it in
+Hype's price action. As hyperlquid volumes have 
+ripped, so has hype's price with media coverage
+explicitly tying the rally to buybacks funded by 
+record revenue, adding fuel to the narrative. So
+the maths is tough to argue with. If Hyperliquid 
+keeps winning market share for Per trading, net
+revenue grows and the buyback motor keeps chewing 
+through supply. If the team continues to ship
+while third-party apps pile into Hyper EVM, you 
+get more opportunities for the ecosystem to grow
+further. Another tailwind for volumes and revenue. 
+And yes, all of this spells buy pressure for the
+hype coin. But sustained revenue and dominance in 
+onchain per is hard. Competitors are always going
+after market share like Binance associated ATA is 
+right now. And leverage cycles can turn overnight.
+Add scheduled hype unlocks and critiques 
+of the protocol's decentralization,
+and you've got real risks to watch alongside that 
+monster cash flow. Similar to pump and Axiom,
+a lull in market volatility or a rotation to 
+other venues would cool volumes, thin revenue,
+and shrink the buyback bid. And as mentioned, the 
+assistance fund is literally designed to sell hype
+coins if things really get messy due to any black 
+swan event. An unlikely event, sure, but it would
+be a pretty nasty development for Hype's price. 
+But if the next few quarters look anything like
+this summer, things are looking bright. And if 
+the market takes another leg up at this juncture,
+the reflexivity writes itself. Either way though, 
+Hyperlquid is one of the clearest revenue stories
+in crypto right now. And full disclosure, I 
+hold Hype as part of my personal portfolio. Now,
+the fourth protocol on our list is something a bit 
+different. Athena. This was founded by Guy Young,
+who set out with his team to build a synthetic 
+dollar that could stand on its own cash flows
+rather than faith alone. Young has been Athena's 
+public face, defending the model in interviews and
+explaining how the system is designed to survive 
+volatility that wrecked stable coin experiments
+of the past. Mechanically, Athena's synthetic 
+dollar USDE is minted against cryptocolateral
+like BTC and ETH and then hedged with matching 
+short positions. That creates a so-called
+deltaneutral basis trade that skims yield from 
+funding rates on futures contracts. The design
+is old school finance with a modern onchain twist. 
+Long spot, short per collect the spread, repeat.
+Unsurprisingly, this model scales with market 
+activity. When crypto gets lively, funding rates
+rise higher and the amount Athena's system can 
+earn rises as well. Unsurprisingly, that flow has
+been reflected in the numbers recently. Now, for 
+Athena, these numbers show up in fees generated.
+That's because the fees generated largely act as 
+revenue passed through to users as yield and the
+remainder accused to the Athena protocol itself. 
+For August, Athena generated $54 million in fees,
+plenty of yield rewards for Athena users such 
+as USDE stakers. After that was paid out,
+Athena still managed to net a tidy $4 million 
+in revenue. So, keep in mind that this big gap
+between fees and revenue is by design because the 
+protocol is set up to directly funnel value to
+participants in the Athena ecosystem. But there's 
+an exciting twist to this story. A so-called fee
+switch. With USDE now listed on Binance, Athena 
+says it has satisfied the last requirement to
+route a slice of protocol revenue to staked ENA, 
+the protocol's native token. That opens a pipeline
+from revenue to token holders. That is bullish 
+news for ENA and it undoubtedly makes Athena
+even more community aligned. Beyond that, Athena 
+also benefits from similar tailwinds to the other
+venues we've looked at today. Volatility and risk 
+appetite. Over the summer, rising funding rates
+and fresh deposits pushed flows higher and ENA 
+rallied as a result. If that regime persists,
+USDE supply and protocol revenue should scale, 
+and any active fee share would make staked ENA a
+straightforward yield asset on top. But you still 
+have to respect the cycle. When funding goes flat
+or negative, Athena's model compresses or even 
+becomes unfeasible, a weakness in the design.
+However, USDE navigated a rough patch last year 
+when there was big volatility and frequent dips
+into negative funding and it managed it all 
+without breaking its $1 peg. Nevertheless,
+if we hit an extended riskoff period, expect 
+revenue to cool just as quickly as it heated
+up. So Athena and USDE are an innovative crypto 
+product that is a serious cash machine when crypto
+is humming along as it is now. If the market 
+turns sleepy and funding dries up, growth falls
+and yield falls with it. Either way though, 
+the model is transparent enough for investors
+to track in real time and it makes potential 
+portfolio allocations much more straightforward.
+And I'll add that I also hold ENA in my portfolio 
+just so you know. So that leads us to the final
+revenuerich protocol on today's list. Ave was 
+founded by Stani Kletchov and the developer turned
+entrepreneur has led an everexpanding team to 
+build Ave into a bluechip money market that sits
+at the heart of DeFi. At the product level, it's 
+simple. Deposit collateral, borrow against it, pay
+interest. To keep things running smoothly, loans 
+are overcolateralized. That means you can only
+borrow a fraction of what your crypto is worth and 
+that helps minimize any risk of liquidation. That
+machine runs across multiple pools and blockchain 
+networks and collectively it boasts a massive
+$40 billion in total value locked. But where does 
+Ave's revenue come from? Well, similar to Athena,
+Ave sees a majority of fees generated go directly 
+to the protocol participants that deserve them.
+Simply put, Avease's fees mostly equal 
+the interest borrowers pay to lenders or
+liquidity providers. The protocol's revenue is 
+the slice it retains for facilitating this plus
+things like flash loans and liquidation fees. 
+So, just like Athena, fees dwarf revenue here,
+but that is by design and lenders receiving those 
+interest payments could certainly consider those
+payments as revenue. And in any case, the final 
+cut that Ave does receive is nothing to sneeze at
+either. Last August alone, the protocol generated 
+$94 million in fees and saw a sizable $13 million
+in revenue. That's all while those interest 
+payments made their way to lenders in an automated
+and seamless manner. Exactly the vision crypto 
+pioneers had for smart contracts and blockchain
+networks. Now, similar to other projects on 
+today's list, the token angle sharpened this
+year. In April, the Ave community approved 
+buybacks as part of a tokconomics overhaul,
+greenlighting the DAO to purchase Ave on the open 
+market. To date, the program has accumulated 0.5%
+of total AR supply, worth about $25 million at 
+the time of making this video. Now there is more
+in store for a revamp of Ave's tokconomics in the 
+coming months which we won't dive into today but
+the trend is clear. More value will acrue to token 
+holders and of course that's good news for the Ave
+token itself. So Ave is growing and the Ave token 
+is aligned with that growth. But what moves it
+from here? Well, above all else, if crypto's bull 
+market continues and borrowing remains elevated,
+which it tends to in bullish conditions, then 
+Ave's bottom line remains juicy and buybacks
+have real fuel. Sprinkle in some tokconomics 
+tweaks that funnel more value to Ave holders
+and things look very good for the protocol's 
+token. But if we get bearish or choppy conditions,
+that story obviously gets flipped. Lower 
+risk appetites, softer demand, lower rates,
+and fewer liquidations all mean lower protocol 
+revenue. Either way though, Ave's model is another
+transparent one that we can track in real time. So 
+that's really all there is to it. And well folks,
+those are five of the major revenue generating 
+protocols in crypto. But did we exclude one of
+your favorites? Let us know down in the comments 
+if we did, and we might cover it in a future
+video. But for now, if you enjoyed this video, 
+give it a like and smash that subscribe button
+down below if you haven't done so already. 
+And if you want to learn about which Ethereum
+altcoins we're bullish on, then you can watch 
+our video on that right over here. As always,
+thank you all for watching and I'll see 
+you again soon. This is Guy. Over and out.
