@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-06T21:02:02.647163",
-  "total_transcripts": 38,
+  "last_updated": "2025-10-07T09:03:06.029009",
+  "total_transcripts": 73,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -343,6 +343,321 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-06T21:01:12.684224",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-06_You Won't BELIEVE What The BRICS Are Planning!!_7tD0hPImKNE_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_10 n8n Workflows to Automate Your Entire Business!_PhVTDydFGo0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_10 n8n Workflows to Automate Your Entire Business!_PhVTDydFGo0.txt",
+      "title": "10 n8n Workflows to Automate Your Entire Business!",
+      "video_id": "PhVTDydFGo0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:49.084072",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_10 n8n Workflows to Automate Your Entire Business!_PhVTDydFGo0_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_10 Perplexity Comet Agents to Automate Your Work (AI Browser)_lqAHw6TwLsk.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_10 Perplexity Comet Agents to Automate Your Work (AI Browser)_lqAHw6TwLsk.txt",
+      "title": "10 Perplexity Comet Agents to Automate Your Work (AI Browser)",
+      "video_id": "lqAHw6TwLsk",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:20.144300",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_10 Perplexity Comet Agents to Automate Your Work (AI Browser)_lqAHw6TwLsk_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_3 EASY Ways To Accumulate Your First $100k (FROM 0)_6SCg7CTFZyk.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_3 EASY Ways To Accumulate Your First $100k (FROM 0)_6SCg7CTFZyk.txt",
+      "title": "3 EASY Ways To Accumulate Your First $100k (FROM 0)",
+      "video_id": "6SCg7CTFZyk",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:44.344346",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_3 EASY Ways To Accumulate Your First $100k (FROM 0)_6SCg7CTFZyk_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Best Ways to Cash Out Crypto ANONYMOUSLY \u2013 Sell Crypto TAX FREE_ht9gEzBTizo.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Best Ways to Cash Out Crypto ANONYMOUSLY \u2013 Sell Crypto TAX FREE_ht9gEzBTizo.txt",
+      "title": "Best Ways to Cash Out Crypto ANONYMOUSLY \u2013 Sell Crypto TAX FREE?",
+      "video_id": "ht9gEzBTizo",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:36.390031",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Best Ways to Cash Out Crypto ANONYMOUSLY \u2013 Sell Crypto TAX FREE_ht9gEzBTizo_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_BlackRock\u2019s EVIL Plan To Steal YOUR Bitcoin EXPOSED w Simon Dixon (Part 1)_U8iQmr80HPM.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_BlackRock\u2019s EVIL Plan To Steal YOUR Bitcoin EXPOSED w Simon Dixon (Part 1)_U8iQmr80HPM.txt",
+      "title": "BlackRock\u2019s EVIL Plan To Steal YOUR Bitcoin EXPOSED w/ Simon Dixon (Part 1)",
+      "video_id": "U8iQmr80HPM",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:40.510116",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_BlackRock\u2019s EVIL Plan To Steal YOUR Bitcoin EXPOSED w Simon Dixon (Part 1)_U8iQmr80HPM_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Chipping vs Pitching What's the Difference_pIApjTRlhFg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Chipping vs Pitching What's the Difference_pIApjTRlhFg.txt",
+      "title": "Chipping vs Pitching: What's the Difference?",
+      "video_id": "pIApjTRlhFg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:33.371642",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Chipping vs Pitching What's the Difference_pIApjTRlhFg_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_CLARITY Act What It Means for Ethereum, Solana & Altcoins_qQIvYw1mNKg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_CLARITY Act What It Means for Ethereum, Solana & Altcoins_qQIvYw1mNKg.txt",
+      "title": "CLARITY Act: What It Means for Ethereum, Solana & Altcoins",
+      "video_id": "qQIvYw1mNKg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:24.762375",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_CLARITY Act What It Means for Ethereum, Solana & Altcoins_qQIvYw1mNKg_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Claude Code 2.0 On The Edge #3_NV4uUknDt5g.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Claude Code 2.0 On The Edge #3_NV4uUknDt5g.txt",
+      "title": "Claude Code 2.0 | On The Edge #3",
+      "video_id": "NV4uUknDt5g",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:45.298366",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Claude Code 2.0 On The Edge #3_NV4uUknDt5g_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Crypto Alert Urgent Update As We Break Out!!_cSGPZf1_1jM.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Crypto Alert Urgent Update As We Break Out!!_cSGPZf1_1jM.txt",
+      "title": "Crypto Alert: Urgent Update As We Break Out!!",
+      "video_id": "cSGPZf1_1jM",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:12.229471",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Crypto Alert Urgent Update As We Break Out!!_cSGPZf1_1jM_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Did Crypto Really Just Become Tax-Free in Australia_XVcM4IFBX3Q.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Did Crypto Really Just Become Tax-Free in Australia_XVcM4IFBX3Q.txt",
+      "title": "Did Crypto Really Just Become Tax-Free in Australia?",
+      "video_id": "XVcM4IFBX3Q",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:08.586754",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Did Crypto Really Just Become Tax-Free in Australia_XVcM4IFBX3Q_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Financial Expert Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!_jFlnRBO8mcg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Financial Expert Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!_jFlnRBO8mcg.txt",
+      "title": "Financial Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
+      "video_id": "jFlnRBO8mcg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:20.674110",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Financial Expert Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!_jFlnRBO8mcg_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_How I Got to 14% Body Fat Eating This Daily (Not What You Think)_JDjvR5HfuKg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_How I Got to 14% Body Fat Eating This Daily (Not What You Think)_JDjvR5HfuKg.txt",
+      "title": "How I Got to 14% Body Fat Eating This Daily (Not What You Think)",
+      "video_id": "JDjvR5HfuKg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:48.526498",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_How I Got to 14% Body Fat Eating This Daily (Not What You Think)_JDjvR5HfuKg_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_How To Build AI Agents To Automate EVERYTHING (n8n tutorial)_L09kacrneOc.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_How To Build AI Agents To Automate EVERYTHING (n8n tutorial)_L09kacrneOc.txt",
+      "title": "How To Build AI Agents To Automate EVERYTHING (n8n tutorial)",
+      "video_id": "L09kacrneOc",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:00.988721",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_How To Build AI Agents To Automate EVERYTHING (n8n tutorial)_L09kacrneOc_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_It\u2019s Official He\u2019s Preparing For A Crash (Here\u2019s Why)_3w2VEJifbfI.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_It\u2019s Official He\u2019s Preparing For A Crash (Here\u2019s Why)_3w2VEJifbfI.txt",
+      "title": "It\u2019s Official: He\u2019s Preparing For A Crash (Here\u2019s Why)",
+      "video_id": "3w2VEJifbfI",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:21.773952",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_It\u2019s Official He\u2019s Preparing For A Crash (Here\u2019s Why)_3w2VEJifbfI_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Major Banks Predict the Property Market is About to Change Forever (2026 Forecasts) DPU EP 38_zFNZoXo1Yro.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Major Banks Predict the Property Market is About to Change Forever (2026 Forecasts) DPU EP 38_zFNZoXo1Yro.txt",
+      "title": "Major Banks Predict the Property Market is About to Change Forever (2026 Forecasts) | DPU EP 38",
+      "video_id": "zFNZoXo1Yro",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:09.340543",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Major Banks Predict the Property Market is About to Change Forever (2026 Forecasts) DPU EP 38_zFNZoXo1Yro_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Michael Burry's Biggest Bet Just Made Him a Fortune__XzOYh1t_5Y.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Michael Burry's Biggest Bet Just Made Him a Fortune__XzOYh1t_5Y.txt",
+      "title": "Michael Burry's Biggest Bet Just Made Him a Fortune",
+      "video_id": "_XzOYh1t_5Y",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:17.866907",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Michael Burry's Biggest Bet Just Made Him a Fortune__XzOYh1t_5Y_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_No. 1 Sugar Expert You've Been Sold A Lie About Healthy Food!_ZE_H7rijrVk.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_No. 1 Sugar Expert You've Been Sold A Lie About Healthy Food!_ZE_H7rijrVk.txt",
+      "title": "No. 1 Sugar Expert: You've Been Sold A Lie About \"Healthy\" Food!",
+      "video_id": "ZE_H7rijrVk",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:53.195955",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_No. 1 Sugar Expert You've Been Sold A Lie About Healthy Food!_ZE_H7rijrVk_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Not Looking Good For These Altcoins!!! \ud83d\udcc9 Crypto News Today - LTC, LINK, AVAX, ICP & ONDO_MrBL2H2RzP0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Not Looking Good For These Altcoins!!! \ud83d\udcc9 Crypto News Today - LTC, LINK, AVAX, ICP & ONDO_MrBL2H2RzP0.txt",
+      "title": "Not Looking Good For These Altcoins!!! \ud83d\udcc9 Crypto News Today - LTC, LINK, AVAX, ICP & ONDO",
+      "video_id": "MrBL2H2RzP0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:24.003316",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Not Looking Good For These Altcoins!!! \ud83d\udcc9 Crypto News Today - LTC, LINK, AVAX, ICP & ONDO_MrBL2H2RzP0_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Outperform CoQ10 Human Trials Reveal A Superior Mitochondrial Supplement_HgYFyCXRA_M.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Outperform CoQ10 Human Trials Reveal A Superior Mitochondrial Supplement_HgYFyCXRA_M.txt",
+      "title": "Outperform CoQ10? Human Trials Reveal A Superior Mitochondrial Supplement",
+      "video_id": "HgYFyCXRA_M",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:41.238315",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Outperform CoQ10 Human Trials Reveal A Superior Mitochondrial Supplement_HgYFyCXRA_M_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Retire at 50 with Strategy Preferred Stock Dividends_MUE_DbA7cc0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Retire at 50 with Strategy Preferred Stock Dividends_MUE_DbA7cc0.txt",
+      "title": "Retire at 50 with Strategy Preferred Stock Dividends",
+      "video_id": "MUE_DbA7cc0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:16.597069",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Retire at 50 with Strategy Preferred Stock Dividends_MUE_DbA7cc0_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The #1 complaint about AI Coding (solved in 7 minutes)_-l-DKcQ0z2A.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The #1 complaint about AI Coding (solved in 7 minutes)_-l-DKcQ0z2A.txt",
+      "title": "The #1 complaint about AI Coding (solved in 7 minutes)",
+      "video_id": "-l-DKcQ0z2A",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:04.826168",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The #1 complaint about AI Coding (solved in 7 minutes)_-l-DKcQ0z2A_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The 1 Simple Trading Strategy I\u2019ve Used to Make Millions_PpRFlJ61UwU.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The 1 Simple Trading Strategy I\u2019ve Used to Make Millions_PpRFlJ61UwU.txt",
+      "title": "The 1 Simple Trading Strategy I\u2019ve Used to Make Millions",
+      "video_id": "PpRFlJ61UwU",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:04.415816",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The 1 Simple Trading Strategy I\u2019ve Used to Make Millions_PpRFlJ61UwU_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The king of supplements just got even better._3hdlxNzLlQY.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The king of supplements just got even better._3hdlxNzLlQY.txt",
+      "title": "The king of supplements just got even better.",
+      "video_id": "3hdlxNzLlQY",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:56.401549",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The king of supplements just got even better._3hdlxNzLlQY_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The Next Palantir AI Stock to Buy BEFORE Explosive Growth!_vpOUFs0jk0o.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The Next Palantir AI Stock to Buy BEFORE Explosive Growth!_vpOUFs0jk0o.txt",
+      "title": "The Next Palantir? AI Stock to Buy BEFORE Explosive Growth!",
+      "video_id": "vpOUFs0jk0o",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:16.248230",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The Next Palantir AI Stock to Buy BEFORE Explosive Growth!_vpOUFs0jk0o_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_the secret crypto plan to reset $37T of debt (that should worry you)_xtMr5VoaY5Q.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_the secret crypto plan to reset $37T of debt (that should worry you)_xtMr5VoaY5Q.txt",
+      "title": "the secret crypto plan to reset $37T of debt (that should worry you)",
+      "video_id": "xtMr5VoaY5Q",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:08.328077",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_the secret crypto plan to reset $37T of debt (that should worry you)_xtMr5VoaY5Q_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days Ben Azadi_BQoxFKzBMA4.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days Ben Azadi_BQoxFKzBMA4.txt",
+      "title": "The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days | Ben Azadi",
+      "video_id": "BQoxFKzBMA4",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:57.163548",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days Ben Azadi_BQoxFKzBMA4_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_The U.S. Is Planning a $37 Trillion Crypto Reset_bdb5f4eSFIQ.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The U.S. Is Planning a $37 Trillion Crypto Reset_bdb5f4eSFIQ.txt",
+      "title": "The U.S. Is Planning a $37 Trillion Crypto Reset",
+      "video_id": "bdb5f4eSFIQ",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:12.744532",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_The U.S. Is Planning a $37 Trillion Crypto Reset_bdb5f4eSFIQ_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Think You Should Hit Up With Driver Think Again\u2026_khrxMRQLp9M.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Think You Should Hit Up With Driver Think Again\u2026_khrxMRQLp9M.txt",
+      "title": "Think You Should Hit Up With Driver? Think Again\u2026",
+      "video_id": "khrxMRQLp9M",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:29.396353",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Think You Should Hit Up With Driver Think Again\u2026_khrxMRQLp9M_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA.txt",
+      "title": "This $6 Stock Might Soar to $25 Soon! \ud83d\udd25",
+      "video_id": "mX9OMe5cNtA",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:32.542843",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This $6 Stock Might Soar to $25 Soon! \ud83d\udd25_mX9OMe5cNtA_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_This Altcoin Stock Is Like Buying XRP At 1 CENT (HIGH RISK)_Q8Q08DdVk8I.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Altcoin Stock Is Like Buying XRP At 1 CENT (HIGH RISK)_Q8Q08DdVk8I.txt",
+      "title": "This Altcoin Stock Is Like Buying XRP At 1 CENT (HIGH RISK)",
+      "video_id": "Q8Q08DdVk8I",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:13.657798",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Altcoin Stock Is Like Buying XRP At 1 CENT (HIGH RISK)_Q8Q08DdVk8I_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_This Stops 99% of Traders Making Money_Pe-5xFpYvmk.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Stops 99% of Traders Making Money_Pe-5xFpYvmk.txt",
+      "title": "This Stops 99% of Traders Making Money",
+      "video_id": "Pe-5xFpYvmk",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:28.581735",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Stops 99% of Traders Making Money_Pe-5xFpYvmk_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_This Weird Move Will Fix Your Driver Swing_qAT5MFG9Q2s.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Weird Move Will Fix Your Driver Swing_qAT5MFG9Q2s.txt",
+      "title": "This Weird Move Will Fix Your Driver Swing",
+      "video_id": "qAT5MFG9Q2s",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:37.273853",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_This Weird Move Will Fix Your Driver Swing_qAT5MFG9Q2s_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_TRUMP CRASH! These 7 NEW Cryptos Will 50x In Oct_lpi5bsQFWy4.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_TRUMP CRASH! These 7 NEW Cryptos Will 50x In Oct_lpi5bsQFWy4.txt",
+      "title": "TRUMP CRASH! These 7 NEW Cryptos Will 50x In Oct",
+      "video_id": "lpi5bsQFWy4",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:00:25.727149",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_TRUMP CRASH! These 7 NEW Cryptos Will 50x In Oct_lpi5bsQFWy4_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_What Stage Are YOU In The Secret Evolution of Every Trader_5qqv_TMBkwg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_What Stage Are YOU In The Secret Evolution of Every Trader_5qqv_TMBkwg.txt",
+      "title": "What Stage Are YOU In? The Secret Evolution of Every Trader",
+      "video_id": "5qqv_TMBkwg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:02:00.401594",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_What Stage Are YOU In The Secret Evolution of Every Trader_5qqv_TMBkwg_metadata.json"
+    },
+    {
+      "filename": "2025-10-07_Why The Stock Market Hasn't Crashed Yet What Banks Don't Want You To Know..._fYiFMkkQrYs.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Why The Stock Market Hasn't Crashed Yet What Banks Don't Want You To Know..._fYiFMkkQrYs.txt",
+      "title": "Why The Stock Market Hasn't Crashed Yet? What Banks Don't Want You To Know...",
+      "video_id": "fYiFMkkQrYs",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-07T09:01:52.481341",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-07_Why The Stock Market Hasn't Crashed Yet What Banks Don't Want You To Know..._fYiFMkkQrYs_metadata.json"
     }
   ],
   "archived": []

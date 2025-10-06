@@ -1,0 +1,362 @@
+Back in July, Congress passed the Genius Act to 
+regulate stable coins. And the result was that ETH
+rallied up by 50% with Soul experiencing explosive 
+growth a few weeks later. Since that time,
+everyone has been wondering what catalyst will 
+cause the rest of the crypto market to experience
+the same explosive growth. The answer could be 
+the Clarity Act. That's why today we're going
+to tell you everything that you need to know 
+about the Clarity Act, including what it is,
+when it could pass, and why altcoins could 
+be doomed if it doesn't. My name is Louis,
+and I'm a new host here. You will have seen me 
+on the Coin Bureau News, as well as many videos
+on more Coin Bureau. I'm excited to be part of the 
+Coin Bureau team and bring you many of the videos
+that you know and love. But for now, let's dive 
+into the Clarity Act. Now, before we get started,
+nothing in this video is financial advice. It's 
+for education and entertainment purposes only,
+intended to inform you about the Clarity 
+Act. If you find content like this helpful,
+then do us a favor by smashing that like 
+button because it really helps us out. Now,
+let's begin with a bit of context and explain what 
+the Clarity Act actually is. In a nutshell, it's
+a market structure bill that aims to provide some 
+clarity, shocking, I know, about which regulator
+should be calling the shots when it comes to 
+crypto, the Securities and Exchange Commission or
+SEC or the Commodity Futures Trading Commission or 
+CFTC. To determine this, the Clarity Act sets out
+the legal definitions for things like blockchain, 
+digital assets, digital commodity, and mature
+blockchain systems. Basically, if a digital asset 
+like a token is tied to a centralized project,
+then it's a digital security regulated by the SEC. 
+If it's part of a decentralized mature blockchain,
+then it's a digital commodity regulated by the 
+CFTC. But here's where things get interesting.
+The Clarity Act also introduces something called 
+investment contract assets. What this means is
+that tokens can switch categories over time. 
+If a project starts centralized, it's under
+SEC's oversight. But once it meets the criteria 
+for being mature and decentralized, it becomes
+a commodity and shifts to the CFTC's oversight. 
+But it doesn't stop there. The Clarity Act also
+guarantees the right to self-custody, ensures that 
+the rules around existing trade by products like
+futures, swaps, and securities are unaffected, and 
+encourages global regulators to extend existing
+anti-money laundering or AML frameworks to include 
+the crypto industry. Not only that, but the bill
+also provides long overdue investor protections. 
+For example, it increases transparency by
+requiring projects to regularly disclose their 
+financials, token supply, developmental progress,
+and risks. And under the bill, the SEC and the 
+CFTC will work together to create processes to
+remove dodgy tokens from trading platforms. If 
+all of that wasn't enough, the bill even allows
+projects to raise up to $75 million a year without 
+needing to register with the SEC first, so long as
+the project is expected to become a decentralized 
+commodity within 4 years. This paves the way for
+many altcoin projects to hit the ground running, 
+supercharged both with innovation and investment.
+As you might have guessed, the Clarity Act builds 
+on previous regulatory efforts, including bills
+like FIT 21, the Lumis Gillibrand proposal, the 
+Digital Commodities Consumer Protection Act,
+and the Securities Clarity Act. Each of these 
+bills failed, but they ultimately led to the
+Clarity Act being drafted. The Clarity Act 
+itself was introduced on the 29th of May this
+year by Representative French Hill, chair of 
+the House Financial Services Committee. It was
+one of three major crypto bills debated by the 
+House of Representatives during its so-called
+crypto week back in July. The other two bills 
+discussed during Crypto Week were the Genius Act,
+which regulates stable coins, and the Anti-CBDC 
+Surveillance Act, which prohibits the creation of
+a central bank digital currency or CBDC. Notably, 
+the Genius Act was already passed by the Senate
+the month prior and was signed into law by the 
+House during crypto week with a vote of 308 to
+122. This meant the Genius Act is now law and 
+it's the only crypto bill that has been signed
+into law so far. The House passed the Clarity 
+Act with a majority 294 to 134 vote, but it still
+needs approval from the Senate. The anti-CBDC 
+surveillance act also received bipartisan support
+in the House, but barely scraped through with a 
+vote of 219 to 217. Certainly puts the priority
+of some politicians into perspective, doesn't 
+it? In any case, these recent developments make
+it clear. It's a question of if, not when, the 
+crypto market will experience explosive growth,
+including altcoins. And if you're looking to 
+trade crypto, then you have to check out the Coin
+Bureau deals page. That's where you'll find signup 
+bonuses of up to $100,000, trading fee discounts
+of up to 50%, and deposit cashbacks of up to 75% 
+on the best crypto exchanges. All you need to do
+right now is hit the link in the description or 
+scan this QR code. Once you get on the deals page,
+you'll see all of our offers across a range of 
+exchange partners. Just click one of the sign
+up now buttons and that should take you right 
+to the deal. And remember though, these deals,
+they won't be around forever. So take advantage 
+of them while you still can using the link in the
+description below or by scanning the QR code on 
+the screen. So the Clarity Act was passed by the
+House in July, but still needs to be passed in the 
+Senate. Originally, this was expected to happen on
+September 30th. But well, this is crypto, folks, 
+and nothing is ever that simple. Put simply,
+politicians can't agree on what's best, which 
+shouldn't really be a surprise to anybody. There's
+also some disagreement about the Clarity Act, too. 
+That's because Senate Democrats are calling for
+increased collaboration on the bill, emphasizing 
+the need for bipartisan cooperation. And there's
+the usual suspects like Senator Elizabeth 
+Warren, the Cruella Deville of crypto. In July,
+Warren warned that the Genius Act and the Clarity 
+Act could quote blow up the entire economy. Her
+argument is that under the Clarity Act, companies 
+of any kind could avoid SEC scrutiny by simply
+digitizing themselves on the blockchain. On top 
+of this, the Clarity Act faces further delays
+due to the leader or lack thereof of the CFTC. 
+Brian Quinten's was Trump's top pick as chair of
+the agency and was expected to fill the role by 
+the end of July. However, Quinten's appointment
+was stalled reportedly thanks to the Wlvoss 
+twins, who you'll recognize as the billionaire
+founders of crypto exchange Gemini. Basically, the 
+Winklv spoke with Trump, basically arguing that
+Quintens wouldn't shake the CFTC up enough. This 
+leadership vacuum created uncertainty around the
+AY's regulatory approach and capacity. Note that 
+Quintens was a strong proponent of the Clarity Act
+and the delay in this confirmation casts doubt 
+over the act's momentum in the minds of many
+investors. It's not just politicians that could 
+hinder the Clarity Act, though. And that's because
+the Senate also has other competing bills, notably 
+the Responsible Financial Innovation Act or RFIA.
+The RFIA offers a different approach to crypto 
+regulation with a narrower scope and emphasizing
+SEC authority over CFTC authority. The good 
+news though is that even with these delays,
+the setbacks won't significantly impact the 
+Clarity Act, which is still set to be written
+into law before the end of the year. So when could 
+the Clarity Act realistically be signed into law?
+Well, the general consensus is that the delays we 
+just mentioned won't be all that significant with
+many predicting that the act will still pass the 
+Senate by the end of October. However, it's quite
+possible that this is a tad optimistic given the 
+legislative hurdles that remain. Senator Cynthia
+Lumis had previously named Thanksgiving as a 
+target date, but in early September said that this
+quote might be too optimistic, suggesting it might 
+not happen until 2026. However, she also added
+that quote, "It's really important to me that we 
+get this done by the end of the calendar year.
+It's like being pregnant for 4 years, you know, 
+please let it happen." Interesting way of putting
+it. Senator John Kennedy echoed this sentiment, 
+saying that lawmakers shouldn't be rushing to
+advance a crypto market structure bill. In his 
+words, quote, "I don't think we're ready. People
+that I talked to still have a lot of questions. I 
+know I still have a lot of questions." Meanwhile,
+Senator Kristen Gillibrand is reluctant to put a 
+deadline on the bill due to the looming government
+shutdowns that will inevitably cause delays. She 
+says that quote, "The most important issue that
+Congress has to deal with right now is the fiscal 
+cliff and added that it will be a time-consuming
+process." Translation: Crypto isn't really the 
+priority right now. To add to this uncertainty,
+a planned markup hearing for a draft bill by the 
+Senate Banking Committee was pushed back from
+September 30th to late October. Meanwhile, the 
+Senate Agriculture Committee has yet to publish
+any draft legislation. And this is significant 
+because both committees need to be able to
+support any bill addressing market structure 
+before it can move to the Senate or the House
+of Representatives. All of this is precisely 
+why analysts are less confident. According to
+Poly Market, the chances of the Clarity Act being 
+signed into law by the end of 2025 is just 31%.
+Down from a high of 87% in mid July. So then a 
+lot of mixed opinions. From our perspective, this
+could go one of two ways. If everything proceeds 
+smoothly even after the short government shutdown,
+we can realistically expect the Clarity Act to be 
+signed into law by the end of the year. However,
+if politicians continue to butt heads about 
+the bill or anything else for that matter,
+then a likely scenario would be that the bill will 
+instead pass in early 2026. If we had to guess,
+we'd say that this was the more likely 
+outcome. There is one big caveat, though,
+and that's because regardless of when the bill 
+is passed, it technically wouldn't go into force
+right away. Once Trump signs the bill into 
+law, federal agencies like the SEC and the
+CFTC will need to write the actual regulations 
+that the crypto industry will need to follow.
+This rulemaking process is complex and includes 
+drafting, public comment periods, revisions,
+and finalization. It could take several years 
+before rules officially come into force and have
+full legal effect. Now, along with all of the 
+uncertainty about when clarity will be passed,
+there's also growing skepticism that it'll even be 
+passed at all. That's because there are competing
+bills under consideration, such as the Responsible 
+Financial Innovation Act or RFIA that we mentioned
+earlier. Naturally, this raises the question, 
+what happens if clarity doesn't pass at all? The
+most immediate consequence would be heightened 
+uncertainty in the market. I mean, even without
+delving into technical details, the mere rejection 
+of a bill that's literally called the Clarity Act
+could signal to many that regulatory clarity for 
+the crypto industry is off the table, regardless
+of whether that's actually true or not. On a more 
+fundamental level though, the regulatory landscape
+for crypto in the US would remain uncertain and 
+fragmented due to the ongoing disputes between the
+SEC and the CFTC about who gets to regulate what, 
+so to speak. Whichever way you cut it though,
+the market hates uncertainty. In other words, 
+this would almost be guaranteed to cause prices
+to crash. It could even become a key catalyst that 
+kickstarts the next bare market. Yikes. For what
+it's worth though, this is unlikely to happen. And 
+that's simply because the SEC and the CFTC would
+quickly provide alternative structures to help 
+regulate the crypto industry. You might recall
+that back in July, the SEC launched Project 
+Crypto, led by Commissioner Hester Pierce,
+aka the Crypto Mom. Project Crypto was set up 
+as an initiative to modernize securities laws
+and regulations to accommodate digital assets 
+and embrace crypto innovation. Meanwhile, the
+CFTC launched a crypto sprint in August, aiming 
+to expedite rulemaking and guidance within its
+existing authority, including soliciting public 
+feedback on allowing spot crypto asset contracts
+trading on regulated exchanges. Both agencies then 
+issued a joint statement in September announcing
+that exchanges registered with the SEC or the CFTC 
+can offer spot trading of certain crypto products.
+This decision gives markets immediate clarity 
+on what's allowed under current laws. Moreover,
+the joint statement emphasizes the need 
+for collaboration between the two agencies
+while following guidance from the president's 
+working group on digital assets. For context,
+this refers to a report released in late July 
+titled, quote, "Strengthening American leadership
+in digital financial technology, which outlined 
+recommendations for establishing comprehensive
+federal framework to regulate digital assets. 
+And we actually did a video diving deep into this
+160page report, which you can watch right over 
+here. The point though is that even if the Clarity
+Act somehow doesn't make it through its final 
+stages, it wouldn't be long before a new piece
+of legislation would take its place. Thankfully, 
+crypto regulation has become a bipartisan issue,
+and politicians are hyperfocused on creating 
+fair rules for the industry. As such, they would
+quickly table new legislation that would make 
+it across the finish line as soon as possible,
+if only to avoid the wrath of the president. At 
+this stage, the most likely replacement would
+be the RFIA bill, but other draft legislation 
+could also be considered in the future. By now,
+you'll know that the Clarity Act is highly 
+anticipated and is seen as many as an incredibly
+bullish development for the crypto industry. But 
+what if I told you that actually the Clarity Act
+could in fact be a bearish development? Sounds 
+crazy, right? Well, maybe not as crazy as you
+might think. That's because the Clarity Act 
+sets the stage for TradeFi investors to benefit
+massively from the newly clarified rules on 
+digital asset custody, trading, and registration,
+allowing them to become major players in the 
+crypto ecosystem. Many would argue that having
+more involvement from TradeFi is a good thing as 
+it would mean more money flowing into the crypto
+markets. The flip side, however, is that the 
+involvement of TradeFi arguably goes against the
+very ethos of what crypto is all about, offering 
+an alternative to the traditional financial
+system. This is something that's already happening 
+with the Genius Act, which explicitly requires US
+stable coin issuers to be issued by trade entities 
+like banks, credit unions, bank subsidiaries,
+and federally regulated financial institutions. 
+Stable coin issuers also need to gain approval
+from the Federal Reserve and demonstrate their 
+ability to comply with relevant laws before they
+can issue any tokens. This effectively hands over 
+control of stable coins, the lifeblood of DeFi,
+to the very entities that crypto was designed 
+to disrupt. But it's not just stable coins.
+Mega banks including JP Morgan, Cityroup, and 
+others are actively building their very own
+blockchains and tokenized payment rails to seize 
+this regulatory moment. Many are already piloting
+private permissioned internal blockchains for 
+everything from instant settlement to programmable
+payments and tokenized asset issuance. In theory, 
+once the Clarity Act finally goes live, these
+trade giants will have their infrastructure ready 
+to scale up quickly. And just like that, financial
+institutions could become the new gatekeepers of 
+crypto. Naturally, this will be a huge turnoff for
+more than a few investors. But if we take off our 
+tinfoil hats, you'll see that it's not all doom
+and gloom. The crypto industry is in desperate 
+need for clear regulation, and the Clarity Act
+provides exactly that. Without clear rules of 
+the road, the industry's disruptive potential
+will be severely limited. Put simply, the Clarity 
+Act may not be the perfect solution for everyone,
+but it's essential that it gets passed for 
+crypto projects to freely innovate. Without it,
+many new projects will fail, and many existing 
+altcoins could be doomed as a result. Thankfully,
+it's only a matter of time before the Clarity 
+Act, or indeed any other similar legislation,
+is passed into law. Once the guardrails are in 
+place, you could bet that we'll see a huge surge
+in crypto innovation, which will send the altcoin 
+market skyrocketing. But what do you think? Will
+the passing of the Clarity Act mean sacrificing 
+crypto spirit? Or will it unleash a new wave of
+growth, innovation, and adoption? Let us know 
+your thoughts in the comments section below.
+Okay, so if you want to learn about how 
+banks are threatening the crypto industry,
+then check out that video right over here. 
+And if you want to learn more about the
+CFTC's impact on the crypto market, check out 
+that video right over here. Thank you all so
+much for watching and we'll see you again 
+in the next one. This Lewis over and out.

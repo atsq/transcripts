@@ -1,0 +1,173 @@
+In May 2025, news broke in Australia
+that the government now treats Bitcoin
+as money. For Australian Bitcoiners,
+this changed everything because if the
+ATO classes Bitcoin the same as
+currency, guess what? No capital gains
+tax. But there's more going on here than
+the headlines would have you believe.
+So, in this video, I'm going to break
+down the controversial ruling, clear up
+where the ATO actually stands on Bitcoin
+right now, and show you the tool I've
+built to keep you on the right side of
+the tax rules, even if they suddenly
+change. Plus, I'll debunk some of the
+common misconceptions around owning
+Bitcoin and crypto in Australia to help
+you better understand the rules as they
+stand today. First, some background.
+Since 2014, the Australian Tax Office
+has treated most digital assets as a
+capital gains tax asset. If you sell,
+swap, or spend crypto, that's usually a
+CGT event. For example, buy $20,000
+worth of Bitcoin and sell for 60,000,
+that $40,000 gain is subject to capital
+gains tax. And if you hold for more than
+12 months, you may be eligible for the
+50% CGT discount. Income like staking
+rewards or airdrops is typically
+accessible when you receive it. And
+later when you dispose of those assets,
+there's a CGT outcome as well. In May
+2025, a Victorian criminal case
+described Bitcoin as money. That
+surprised a lot of people because it
+clashes with the ATO's long-standing
+approach that crypto is property and
+therefore a CGT asset. Naturally, the
+question popped up. Could this mean no
+CGT on Bitcoin? Maybe even a refunds.
+But here's the nuance. This was not a
+civil tax case. It was a state level
+criminal matter. Different context,
+different weights. It doesn't
+automatically change federal tax
+administration. It's also under appeal,
+so we don't even know if the reasoning
+will stand up in higher courts yet. Four
+fast facts to keep in mind. First, a
+state criminal decision doesn't rewrite
+national tax law. Second, it isn't
+binding across Australia for tax
+purposes. Third, it's under appeal and
+may be narrowed or overturned. Fourth,
+the ATO guidance remains unchanged.
+Crypto is still treated as a CGT asset
+today. So, if you're lodging a return,
+you must continue reporting according to
+current ATO rules. Even if nothing
+changed today, the case highlights a
+bigger reality. Rules can shift quickly.
+If higher courts or parliament later
+confirm a Bitcoin as money view, the
+treatment could change fast. And if your
+records are messy, especially with
+dollar cost averaging, frequent swaps,
+and staking, trying to reconstruct cost
+bases after the fact is an absolute
+nightmare. Don't do that to future you.
+Let me explain with some examples. If we
+open up NEX here and take a look at this
+Bitcoin holding, we'll jump across to
+the trades tab. You can see we've got a
+whole lot of trades in here. Every time
+you trade crypto for another crypto,
+it's a CGT event. So in this case, we
+traded some of this Bitcoin holding for
+Ethereum, that triggers a capital gains
+tax event. Then later up here, when we
+traded back in from Ethereum, that's
+another CGT event. If you've also been
+dollar cost averaging or buying into the
+same crypto multiple times, each one of
+these trades comes with its own date,
+its own price, its own quantity, its own
+fee, and its own cost base. So when you
+go to calculate the capital gain event
+on some of these CGT events, you need to
+know what the cost base is because for
+example, when this Ethereum record came
+in, you need to be able to calculate
+whether it's a capital gain or loss
+based off all the trades you've done
+before. So that's why keeping these
+records super accurate is critical in
+making your tax return accurate for the
+ATO. Here's your four-step plan until
+the appeals finish and the ATO updates
+anything. Step one, keep reporting
+crypto under current ATO guidance. CGT
+still applies. Step two, centralize your
+history. So, pull everything from the
+exchanges, wallets, and the onchain
+activity into one system. Step three,
+back fill gaps now. Export CSVs and
+statements before platforms change
+formats or shut down. And step four, use
+a tracking tool. I use NVXA obviously so
+you can pivot quickly if legal
+interpretations change. But three
+signposts are worth watching for. First,
+the appeal outcome. That's the big one.
+Second, any ATO statement updating
+guidance. Third, possible legislation
+clarifying crypto status. If any of
+these move, tax treatment could update,
+but not retroactively guaranteed. So,
+keep your records bulletproof. Now,
+let's clear up a few common
+misconceptions because if you get this
+wrong, it can cost you big time.
+Misconception one, Bitcoin is tax-free
+if I don't cash out to dollars. Not
+true. The ATO says selling, swapping, or
+spending Bitcoin is a CGT event, even if
+you never touch AUD. If you swap Bitcoin
+to Ethereum, that's taxable. Buy
+something with Bitcoin, taxable.
+Misconception two, if I use a crypto
+debit card, I avoid tax. Nope, those
+cards are just automating disposals. So
+every time you tap, the system is
+selling a slice of your crypto for fiat.
+That's still a disposal, which means a
+CGT event. Misconception three, the ATO
+can't track onchain transactions.
+Absolutely false. The ATO has data
+matching programs with Australian
+exchanges, plus blockchain analytics
+tools. They've issued thousands of
+letters to taxpayers reminding them to
+declare crypto gains. So if you're
+assuming they won't see it, you're
+betting against the house. Misconception
+four. If Bitcoin becomes money, the ATO
+will refund my past tax. Unlikely. Tax
+law changes generally aren't retroactive
+unless parliament specifically
+legislates it. So if the treatment
+changes tomorrow, it won't rewrite your
+previous returns. So if you've heard any
+of these myths, you now know the
+reality. Crypto is taxed today under
+current ATO rules and you need to track
+every transaction until that changes.
+This is why while it might be convenient
+or exciting to believe that the
+Victorian criminal ruling has suddenly
+changed the Bitcoin or crypto rules in
+Australia, the reality is that the rules
+are pretty much as they have been since
+2014. Bitcoin is not tax-free in
+Australia, at least not yet. The
+Victorian ruling stirred the pot, but
+atto rules remain. Crypto is a CGT asset
+today like property. If you want to be
+ready for whatever comes next, track
+everything in NEXA link in the
+description. But tell me in the
+comments, do you think Bitcoin should be
+treated as money in Australia?
+[Music]

@@ -1,0 +1,313 @@
+Okay, we all know AI coding tools are
+more popular than ever, but often
+they're failing silently. I mean,
+producing code that's almost right. And
+that is extremely frustrating. I'm sure
+a lot of you can relate to me. Now, I
+actually pulled up this study and
+according to Stack Overflow, 66% of
+developers say the worst part of coding
+is the AI responses or using AI is AI
+responses because it's not quite right.
+It always gets it almost there, but it's
+never quite there. And in turn, often
+times, I don't know about you, but I end
+up finding myself not using the AI
+coding tool or trying to find a new one.
+And the amount of time that takes, it's
+almost like, why am I using these tools
+to begin with? What is the solution,
+Tiff? We get it. It's tough. We hear
+your problems. The solution is a concept
+Warp calls agent steering, which is
+guiding the AI in real time, not just
+receiving code. Now, this is a new
+concept that I or a concept that is new
+to me that I've been diving into and I'm
+really excited to share it with you
+today. Now, first before we get there
+though, let's talk about some of the
+challenges with coding with AI tools
+today. One is traditional AI tools lack
+transparency. I create the prompt and
+then I'm essentially blind to what
+happens underneath. Developers still
+need control. Code that compiles,
+follows style, I mean stays safe. Warp
+recognized that gap between prompt and
+production and that is why they created
+agent steering to fill it. Which brings
+us to our next question. What exactly is
+agent steering in warp code? Okay, this
+is really cool. So, warp code surfaces
+AI generated changes as inline diffs.
+You can review, edit, or reject
+directly. No context switching. Another
+thing I really want to highlight is you
+can refine prompts. You can interrupt
+and retry or attach context like a file,
+diff, or code selection. That's agent
+steering. I found that really cool
+because a lot of times I'm not able to
+interrupt in in different tools. I'm not
+able to interrupt the prompt and you
+have to wait sometimes when it feels
+like hours. It's only typically like,
+you know, a few seconds, but it feels so
+long. So, being able to interrupt, retry
+is huge. And with agent steering, this
+really keeps you as the author in
+control, aligning the AI's output with
+your code bases, rules, and style. All
+right, enough of me talking. Let's do a
+live demo and dive into it. All right,
+you can see here I am in Warp. And
+before we even dive into to starting to
+prompt with their agent, what I want to
+show is two things. One, I mean, first
+of all, you can see I just built this
+project uh recently. And basically what
+this project is is we are calling a NASA
+API and every day it is returning to us
+a new image of what NASA is taking a
+photo of. So I don't know if you knew
+this. This is something I learned
+recently. Maybe I'm really behind on
+times but NASA every day will release
+one image uh from space that they take
+which is pretty cool. So I thought let's
+start with that. I've been really
+interested in space and then we'll build
+upon it. But I just wanted to get that
+function working functioning first and
+then continue to build and see what we
+can do. First, you can see here, let's
+do uh make run because I want to
+see what today's image is first of all.
+All right, so let's see.
+Wow, that's incredible. How is this part
+of our you like it blows my mind.
+Anyways, different topic, different day,
+but you can see the project is working.
+So, it returns the date, media type,
+URL, and description. So, and I think
+it's really cool because the description
+it returns, you learn something new. And
+as you know, I'm all about learning
+different things every day and just
+small packets of information. Okay, side
+note, I had to share with what we're
+building. The main thing we want to
+focus about and talk about is agent
+mode, which you can see you can toggle
+between agent mode and terminal mode
+down here. Now, one is a quick side note
+for prompting. I think this is really
+cool. you can actually do voice input
+which is really interesting especially I
+find voice input to be a great place to
+start with if you are going to be like
+me and you have to really get out your
+full idea or concept or thought in just
+more than one sentence I don't know so I
+I find that really helpful for this
+though I want to start by adding some
+retry logic so I'm just going to paste
+in here what I want to achieve which is
+add retry logic with exponential backoff
+to this API call as I mentioned this I
+mean right now that might be overkill
+for what we are doing with this NASA
+project, but I know I want to build it
+out further. So, let's go ahead and try
+it out. First of all, one thing I want
+to note is I am not speeding this up at
+all. Uh, this is in real time and I am
+so impressed with how quick it responds.
+I find so many different tools out there
+take so long to think through things
+whereas with warp, it is what you see is
+what you get and it's really quickly.
+And also too, it kind of gives you
+updates I find as to the steps it is
+taking. the agent is taking and that
+makes it really feel collaborative. All
+right, so here we go. So you can see
+here it app let's see what does it say?
+I can see the current API client
+implementation. I'll add retry logic
+with exponential backoff to both API
+methods. Very cool. And it says how it
+will implement this which I think is
+really important as well. So right now
+you can refine, edit or apply changes.
+In this case I'm just going to apply
+changes. But it's once again that thing
+where it makes it more collaborative.
+You have the option to refine, edit,
+work with the agent, not the agent
+working on your behalf and sometimes
+kind of screwing it up a lot. This is
+you're working together now. Again,
+added retry decorator and constants.
+Okay, we're continuing on here. And then
+I love the comments, too. They're very
+thorough. You can pause this if you want
+to read through them fully, but just to
+give you a sense of what they are. Apply
+changes. And we're warping.
+Okay. Now I need to update the get a pod
+method to retry logic. So once again
+it's really taking us through everything
+and even updating the comments too which
+I think is really nice. Apply changes. I
+think this is a tool that obviously is
+meant for developers engineers but even
+too if you are more of a tinkerer I'll
+call it t i n k er. That's tinker. Is
+that a word? I think it's a really great
+way and you're looking to learn how to
+code even further. It's a great way
+because it isn't taking the learning out
+of coding, if that makes sense.
+All right, final implementation to make
+sure everything looks correct.
+Now, let's run the tests to make sure
+our changes don't break anything.
+All right, we got to install make test.
+That is fine. Yes. And I love how it
+always asks me to like I feel like I'm
+still in control, which is very nice.
+All right, we're warping again. So you
+can see here in a very short amount of
+time that it is working with you. You
+are collaborating together which is
+pretty cool. Okay. Now what it's doing
+is setting up a virtual environment.
+Let's do it.
+Oh, it's upgrading everything for me.
+Like this is amazing. I need a coffee or
+something just to you know hang out with
+my agent. Okay. So now what we are doing
+is making sure the test existing test
+structure uh runs properly and creating
+a specific test for this retry logic. So
+I like how it also takes what you are
+working on and builds it out further.
+All right, this is a very simple example
+of this how you can edit, refine, apply
+changes and just communicate with their
+agent. I really like too how in the
+project explorer it's really easy to
+use. The warp nd I find is super super
+detailed. The warp markdown file and you
+know especially if you're working with a
+team this is super helpful. All right,
+let me exit out of here. What do we got
+here?
+This is the retry logic.
+So, let's do refine. Say if you clicked
+on refine, you can say, well, this is
+what I want to do with this test or
+change it or you know, anything like
+that. Well, actually, I don't really
+want to change anything, but you get the
+point. You can change it. Let's say, how
+can we improve this test?
+Okay, now it is creating an improved
+test, which is really cool. So, it's one
+of those things like let's build
+together. Let's see what we can create
+together. All right, back to future
+tiff. All right, that was really fun. I
+I feel like we could keep on building
+for a long time here, but let's take it
+back a sec. Why does agent steering
+matter? Well, let's dive into some
+stats. You know, I am a numbers gal. I
+know a lot of you watching are numbers
+and datadriven individuals. So, starting
+off with Warps coding agent, it actually
+ranks number one on Terminal Bench and
+hits 75.8%
+on S. Bench verified, which is pretty
+wild when you think about it. Okay, I
+want to dive into some additional
+features. One is built-in code review
+panel for line edits and reprompting.
+Another is native file editor with
+syntax highlighting tabs and
+find/replace, Vim keybindings, which is
+huge. Also too, one thing I found really
+helpful is project initialization with
+warp.md / commands and agent profiles to
+customize agent behavior. So, there's a
+lot to unpack there. I don't know. I I
+think this is going to become my go-to.
+It is going to become my go-to platform,
+my go-to place to code. It offers that,
+as I mentioned earlier, that flexibility
+with still being so helpful. Like agent
+steering, when you really break down
+what it means, it's steering the agents.
+And I haven't found another tool to be
+able to do that cuz it doesn't exist.
+And it really makes building fun because
+you're still in control, but it's almost
+like having this assistant, if you will,
+with you. Okay, speaking of usage
+though, let's dive into some early usage
+stats. So users generate over 150
+million lines per week. 97%
+of diffs are actually accepted. And this
+is really wild. Developers are steering
+nearly 3 million agents a day on Warp. I
+mean in short, developers remain fully
+responsible. Warp emphasizes AI is a
+tool, not a scapegoat. You must
+understand all code. You actually submit
+via the agent mode, which is huge.
+You're not just blindly submitting code,
+which we've seen some tools allow us to
+do in the past. and contextual
+intelligence. Codebased indexing and
+warp.md rules ensure agent outputs align
+with your project's conventions. So
+whether you're working on a startup and
+using this, building something for
+yourself, working for an enterprise, I
+mean there is something for everyone and
+this is probably one of the most coolest
+concepts that's put into action which is
+no IDE is needed. So, Warp's Vision is
+an agentic development environment,
+which is a terminal that combines AI,
+editing, review, and context tracking,
+which I think is so cool because it was
+the first time that I I was building. I
+was like, "Wow, I I don't need an IDE."
+Which is really cool to think about. All
+right, we covered a lot in this video.
+Let's do a little recap. One is agent
+steering equals prompting AI inside
+Warp, reviewing diffs, refining on the
+spot, and shipping code you actually
+trust. Now, if you want to start
+building with this and try it out
+yourself, my friends at Warp are
+offering their pro plan for only $1 in
+your first month. You can use the code
+TIFF and start building. After you do
+that, comment on this video what you are
+going to be building. I'm really excited
+to hear cuz I don't know about you, but
+having these tools help you build makes
+me get more creative because it's things
+that part of it maybe I would get stuck
+on or I'd have to reach out or go
+through so many different articles to
+figure out a solution. And with tools
+like this, it's you don't need to. So
+you can get as creative as you want. All
+right, go check out Warp. I'll see you
+all soon.
