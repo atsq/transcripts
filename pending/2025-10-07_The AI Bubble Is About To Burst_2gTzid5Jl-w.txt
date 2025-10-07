@@ -1,0 +1,508 @@
+Hey guys, it's Sasha. The hype around AI
+exploded this week as OpenAI released
+Sora 2, its latest video generation
+tool. Tech bros and AI fans began
+dribbling all over their keyboards as
+they sang praises on Twitter. I tried to
+download and try the app out, but it is
+apparently not available outside the
+United States. So, I had to rely on the
+experiences of people who have appeared
+to be able to actually try it out. And
+distilling through the social media, it
+appears that although there are definite
+improvements, the story seems to be much
+the same as it was before. To get one
+short usableish clip, you typically have
+to go through at least dozens and dozens
+of completely unusable clips with major
+errors in them. Here you can see a
+couple of typical examples that I saw on
+Twitter. First, there's a skateboarder
+who seems to grow arms while performing
+about a dozen shoulder dislocations in
+midair. And then a boxing video with the
+typical signs of AI slop with breaks and
+continuity, weird morphing just doesn't
+look at all right. And as per usual,
+there is no way to edit existing clips
+that is not coming for some time. For
+example, making a very small alteration
+to an already generated video. Maybe
+there's one little detail that you want
+to change. No, instead you have to
+change the prompt that you put in and
+hope that the next video, which will be
+completely different to the previous
+attempt, is good enough and doesn't have
+issues. It appears that the videos that
+come out are a lot better if the type of
+video that you want can rely on very
+similar pre-existing videos being out
+there already that were used by OpenAI
+in the training data set for the model.
+So, if you just want to blatantly
+plagiarize or copy something that's
+already been done and just with slight
+tweaks, then your chances of the video
+not looking completely broken increase.
+And naturally enough, this opened up the
+usual contest on Twitter between people
+who want to defend the rights of
+copyright holders, you know, people who
+have produced the original content for
+which OpenAI does not pay them money but
+then uses, people whose work has been
+outright stolen in order to train the AI
+model so that it can then spit out near
+identical output for commercial gain.
+And by the way, I was just reading just
+before recording that apparently in the
+first few days, OpenAI is already
+restricting your ability to generate
+videos with some characters, especially
+Nintendo based characters because
+apparently Nintendo really likes suing
+people. But obviously for smaller
+creators, you can just go and get
+[ __ ] right? Nobody cares about you.
+They'll just steal your stuff and let
+the AM model train on it because you
+will never have enough dollars to sue
+them. Tech bros on the other side are
+busy shouting very loudly that copyright
+law is for boomers. AI companies are
+allowed to do whatever they want, of
+course, and completely ignore the law
+because it's the future, bro. Although a
+number of lawsuits have already been
+launched against Open AI and other AI
+companies by the likes of New York
+Times, a bunch of other ones. The
+progress of these lawsuits seems
+extremely unusually slow and there seems
+to be a complete lack of interest in any
+of this from the government including
+the Congress and the Senate. They don't
+want to do anything about this even
+though it is so brazen which of course
+is very important to remember. Very
+important has nothing absolutely nothing
+to do with the fact that all of these
+politicians stand to benefit financially
+personally from these AI companies
+seeing the valuations go to the moon
+because they were lobbyed by those
+companies. The politicians were lobbyed
+to look the other way. Anyway, a few
+days ago, we found out that OpenAI made
+$4.3 billion worth of revenue in the
+first half of 2025. That's a roughly
+$130%
+increase on the revenue run rate that
+they had in 2024, which is very
+impressive. The growth in revenues is
+doing really well. New people are
+signing up, but at the same time, they
+are still continuing to lose eye
+watering amounts of money. While they
+made the $4.3 billion worth of revenue,
+they then also spent $6.7 billion on
+research and development, another $2.5
+billion on inference apparently, and
+another $2 billion on sales and
+marketing, which means that overall they
+lost almost $7 billion while taking in
+$4.3 billion from its customers. And
+that's before accounting for capex
+spend, which is probably dwarfing all of
+the other costs put together because the
+billions upon billions of dollars that
+are being spent on building out the data
+centers and the Nvidia graphics cards
+that go into those gra data centers
+comes on top of these costs. But the
+cost of buying graphics cards, building
+all of these giant data centers just
+gets amatized over long periods of time.
+Even though the likelihood is that these
+graphics cards will get replaced over a
+much shorter period of time as new ones
+come out and as they just break and stop
+being as valuable. So in 2025 before
+accounting for the cost of all of this
+capex the graphics cards which probably
+makes the cost of inference
+significantly higher than the published
+numbers. OpenAI spent $260 for every $1
+in revenue. In 2024, using the same data
+that was shared with shareholders,
+OpenAI apparently only spent $2.34 per
+$1 of revenue. So, the gap between what
+OpenAI spends and how much money it
+makes is actually currently growing
+instead of getting smaller. And
+according to inputs from other
+companies, it is the same story with
+others as well. Economies of scale are
+not applying here because there is a
+physical cost to generating the extra
+amount of compute required to process
+queries in newer models like GBT5. And a
+big reason here is that the models are
+getting progressively better because the
+algorithm just uses more and more
+compute. It chucks more and more compute
+at every query instead of the efficiency
+of that compute increasing. So each time
+you submit a query to Open AI, it then
+generates a whole bunch of internal
+subquery. So the model has a chance to
+structure its answer. You know, when it
+says thinking, is doing all of those sub
+queries. It has a chance to
+self-correct, to doublech checkck
+things, to make sure that the answer is
+exactly what the user is using, asking
+for, etc. before it spits the answer
+back to the user. And this approach
+costs a lot of money. And every time a
+new model comes out, it does more and
+more of this other stuff, which costs
+even more money. And each time that the
+model gets better, the cost therefore of
+running that model jumps as well. But as
+everyone was busy looking at Sora 2,
+OpenAI quietly closed another funding
+round 2 days ago. OpenAI sold 6.6
+billion of shares to select investors
+and employees valuing the company at 500
+billion. They apparently authorized up
+to $10 billion worth, but only sold
+about 2/3 of that. If OpenAI was a
+public company, this valuation would
+place them just above Exon Mobile and
+Netflix as the 19th largest company by
+market capitalization in the world. Just
+for comparison, in the first half of
+this year, Netflix made 21.5 billion
+worth of revenue, exactly five times as
+much as OpenAI. And Netflix has a net
+margin of 28%, which means that their
+net profit is well positive and growing
+instead of minus 130%. and going lower.
+Open AAI says that they have 17.5
+billion dollars worth of cash as of the
+end of the first half of the year. And
+at the rate of capex and general cash
+burn, they will probably need to do more
+funding rounds in the next 12 months, 24
+months, and so on. And this is precisely
+where this story about AI hype gets
+seriously weird and interesting. But
+just before I dive into this bit, trust
+me, it's crazy. I wanted to briefly
+mention that my investor playbook course
+is on sale right now, today and tomorrow
+only. If you're watching this later than
+that, I'm sorry. You'll have to wait for
+another opportunity. The course is all
+about analytical investing. It teaches
+everything from technical investing
+knowledge, all the jargon, a full
+breakdown of how to read financial
+statements in a lot of detail. There's
+literally many hours, multiple hours of
+content just on that alone. And then the
+course covers how to build valuation
+models, good practices, investing
+tactics, and a lot more. You only pay a
+one-off fee to join. There's no monthly
+subscription, but then you get access to
+all the new content as it comes for
+free. I am expanding the course. I have
+some big plans for the next couple
+months. And you get to join live
+sessions with me where you can ask me
+questions. You can listen to a deep dive
+on a different topic every week. And if
+you can't join the live session, you can
+always watch those later as they get
+recorded. If you want to sign up, make
+sure you use the code flash10 at the
+checkout to get your 10% discount.
+That's only available today and tomorrow
+only. And thank you so much in advance.
+I really look forward to seeing you in
+the live sessions, including next week.
+So, here is the bit that I found really
+interesting about OpenAI. Just a few
+days ago, Nvidia announced that they
+will invest $100 billion into OpenAI. On
+September 22nd, 2025, Nvidia announced
+this $100 billion investment in OpenAI
+to build 10 gawatt of AI data centers, a
+scale that would require 4 to 5 million
+GPUs, nearly double of Nvidia's annual
+output. So, here is the way this works.
+Early investors go and give a bunch of
+money to OpenAI in funding. Open AAI
+then goes and hands over that money to
+Nvidia to buy a bunch of graphics cards
+because that's their business model.
+They use those graphics cards. Those
+graphics cards are currently selling at
+four to five times the price that they
+were before the AI boom started. But it
+still costs Nvidia the same amount of
+money to produce them. So Nvidia sits
+there printing cash. They make a giant
+boatload of money. Nvidia's balance
+sheet explodes. Their current assets go
+from $16 billion to $12 billion in just
+four years. But wait, even after that
+meteoric rise, Nvidia still doesn't have
+a hundred billion to invest in OpenAI.
+Their total amount of cash and cash
+equivalents and short-term investments
+is $57 billion in their most recent
+filing. So, what's happened here? Well,
+it's a circular game. Imagine you have
+this imaginary, completely non-real
+company called company O. Company O
+wants to raise their valuation so that
+the founders can make a ton of money by
+cashing in and selling their shares.
+Their valuation is based on hype and a
+essentially a multiple of the amount of
+capex investment that they make. The
+bigger the data centers, the more
+graphics cards are in there, the more
+their shares are worth. And you can see
+how huge these data centers are getting.
+OpenAI is already using more energy than
+entire countries like Slovenia. And the
+energy usage is only going up in a
+vertical line. But we're of course not
+talking about Open AI. We're talking
+about this completely imaginary company
+called Company O. So Company O loses a
+lot of money. The amount of money they
+lose goes up over time per user, per
+dollar that they make. and doesn't the
+company doesn't have enough cash to keep
+buying millions of graphics cards to
+stick into all those data centers that
+they're building. So, the boss of
+company O goes and has a little chat
+with the boss of company N that makes
+the graphics cards and they say, "Look,
+we don't have enough cash to keep buying
+your cards, and we're not expecting to
+have the cash in the next few years, if
+ever. So, how about we do a bit of
+collusion and we give you shares in our
+company in exchange for an investment of
+$100 billion. We know that you don't
+have $100 billion, but check this. You
+give us just $1 billion to get us
+started. We take it and then we give you
+the $1 billion right back to buy the
+graphics cards. You then take the $1
+billion that we just gave you and you
+give it back to us again, the second
+billion. And we just rinse and repeat
+this. a hundred times over and over
+until the total investment is a h 100red
+billion. In the end, shares of company O
+are going to go absolutely through the
+roof because we're going to have the
+biggest data centers stuffed with
+millions of company N's graphics cards.
+And then company N can sell those shares
+of company O that would make way more
+money for them than by just selling the
+graphics cards in the first place.
+That's basically roughly what's
+happening here. Nvidia is now not only
+selling the picss to the people going up
+the mountain in search for gold, but
+they figured out a way of also making a
+load of money from the Klondike hype
+itself as well. Yeah, good for them. And
+if you thought that it's really
+beginning to take the piss, just listen
+to the most recent Jeff Bezos interview
+from 2 days ago.
+>> One of the things that's going to happen
+in the ne it's hard to know exactly when
+it's 10 plus years, but I bet it's not
+more than 20 years. We're going to start
+building these giant gigawatt data
+centers in space. So these giant
+training clusters,
+those will be better built in space
+because we have solar power there 24/7.
+Uh and it's and and the solar power
+there is there no clouds and no rain, no
+weather. So you can build we will be it
+will we will be able to beat the cost of
+terrestrial data centers in space in the
+next couple of decades.
+>> So according to Jeff Bezos in the next
+few years companies will be building out
+entire data centers like huge vast
+buildings with millions of graphics
+cards in them in space because you get
+solar power 247 there. This of course
+makes complete sense and is in no way
+completely [ __ ] delusional. The fact
+that you can use energy storage, nuclear
+power, our other forms of power such as
+wind or tidal for a fraction of the
+price that it would cost to lift all of
+the stuff you need into orbit and then
+keep it in orbit. That fact is just
+irrelevant. If you ever wonder if there
+is a bubble happening at any point in
+time, if you hear leaders in the space
+not only continuously generating hype
+because that's generally what they do,
+but also making these types of
+statements that are just clearly
+insanely stupid. And when you hear at
+the same time large volumes of fanboys
+amplifying this and clapping wildly when
+they hear this [ __ ] that's a pretty
+shorefire way of knowing that you're
+entering some kind of peak hype
+territory. The problem with stating the
+obvious, as I am right here, is that you
+inevitably attract the tech bro crowd.
+Just go and read the comments who will
+loudly complain that you don't know what
+you're talking about. You know, you
+don't understand the future. It's the
+technology, man. In fact, I am a really
+big fan of AI technology. I use it every
+day, just like I was a big fan and an
+active user of the internet during the
+com crash. And at the same time as being
+a fan, I could also appreciate that the
+company valuations and the hype around
+those valuations was complete nonsense.
+The two can happen at the same time. As
+more people are posting clips of short
+videos generated by Sora, you know that
+one good clip that they generated after
+generating hundreds of unusable clips,
+the cost of generating these clips is
+only going up. And there is a weird take
+from everyone that soon there is going
+to be entire movies created by AI. I
+think we're nowhere close, but soon is
+happening. It's happening soon. And we
+will all want to watch these movies
+apparently because you'll just be able
+to watch exactly what you want. And we
+will want to go and look at art
+generated by AI. And we will want to
+listen to music generated by AI. But
+here is an interesting thoughtprovoking
+example for you. Chess AI is complex but
+way simpler than things like generating
+a video. So chess AI has basically been
+solved. It's been here a lot longer. It
+happened a lot earlier. It became better
+than humans of playing chess somewhere
+around 20 years ago and today it's not
+even remotely close. On every online
+chess platform, there are chess bots
+that you can play against. There are
+chess bots for different skill levels,
+for different types of games, chess bots
+that imitate the style of famous chess
+players or even famous non-chess
+personalities, just celebrities, and you
+can play against them whenever you want.
+You don't have to wait for them to move.
+You don't wait to have to be matched to
+another player. You can take as long as
+you need. They won't drop out of games.
+They won't act like a dick to you
+because they are a bot. They will always
+say nice things. And you know what?
+Absolutely nobody plays bots. There are
+millions of people who play chess
+online. None of them want to play bots.
+All of the humans on these platforms
+prefer playing other imperfect humans
+because humans like and enjoy and seek
+out the raw imperfection and the random
+nature of how the human mind works. They
+enjoy interacting with the real human at
+the other end. Even if there is almost
+no visual difference in terms of how the
+chess game online looks on your screen,
+I think about this a lot. These new
+generations of AI are going to be
+absolutely revolutionary in increasing
+the productivity of humans. A good
+developer can produce much higher
+volumes of code at a higher quality than
+before using AI. A CGI artist will
+probably be able to do a lot more good
+work in a shorter space of time by
+incorporating AI in their workflow. It's
+like the personal computer and the
+smartphone revolution all over again.
+But it can also be true at the same
+exact time as acknowledging this that
+the hype around the technology far
+surpasses even these very lofty benefits
+that are definitely coming. And the
+valuations of companies in this space
+can also be in a massive bubble even
+though long-term AI is here to stay. It
+will be here for decades and it will
+benefit all of us long term. The S&P 500
+is once again at all-time highs thanks
+to this ongoing growing AI hype wave.
+The Shellipe ratio has just broken 40
+for the only the second time in history.
+The only other time, the only previous
+time being just before the dot crash
+happened. Investors, the majority of
+whom have only ever seen bull markets
+and have never seen an actual stock
+market crash. The two months in 2020
+doesn't count. The last one happened in
+2008, are tripping over each other.
+These investors are just wanting to
+invest in lossmaking companies at
+increasingly absurd valuations. It will
+be very interesting to see how all of
+this unravels. Stay tuned. I will be
+here to share my thoughts unfiltered on
+everything to do with the economy and
+with the stock market. I know I've been
+busy over the last few months. Sorry. I
+will make more content. Remember, my
+course is on sale until midnight
+tomorrow, Sunday, midnight New York
+time. If you want to get get live weekly
+sessions where you can ask me any
+questions that you want or suggest
+topics for deeper dives. If you want to
+understand more about how to do
+analysis, how to build valuation models,
+how to look at companies as an analyst,
+investing strategy in the good times and
+the bad, you can get 10% off my investor
+playbook course. Use the code flash 10
+to get 10% discount. Only available
+today and tomorrow. And thank you to
+those of you signing up. It means a lot.
+I really do appreciate it.
+I will see you in the next live session
+next

@@ -1,0 +1,337 @@
+What's up everyone? This is Gabby Trades
+here and welcome back to the Coin Bureau
+trading channel. Today I'm going to show
+you the tools that I'm using on my
+Trading View charts. It was a highly
+requested video actually from you guys
+because you don't understand the tools
+that I'm using. So that's what we're
+going to look at today. But before we
+dive in, don't forget to smash that like
+button. As usual, make sure to subscribe
+if you're new here. welcome and click
+this small bell notification so you
+always get notified when either me,
+Aaron or Dan are on the channel here
+with you giving you the latest crypto
+alpha. All right, so uh we're going to
+jump straight into it.
+Okay, so the indicators that I'm
+referring to, you can actually find them
+in the description box. I was lucky
+enough to develop them with Lux Algo. Um
+so it's it's called the Liquid Edge Pro
+Suit that I'm specifically using. You
+can purchase them on a monthly basis,
+whatever, or yearly basis. It's just
+it's a very very tiny fee to it. But
+anyway, so the indicators are the sweep
+signals and then you have the liquidity
+and you have the fair value gaps, order
+blocks, and breaker blocks. All right.
+So, um I'm going to give you an example
+of how I use this tool. So, we're going
+to start with the fair value gaps, order
+blocks, and breaker blocks. So, um what
+is a fair value gap first of all, right?
+So, we discussed that in the previous
+video that I did for you uh within uh
+the strategy video that I did for you
+guys, but again, I'm gonna say it. So,
+it's a very impulse move. So, it's
+basically a three candle formation in
+which the middle candle has been very
+impulsive and it has pretty much no
+wicks in between the first and the third
+candle. So, that is going to mean that
+this is our fair value gap over here. So
+I used to mark these ones manually but
+with the help of the indicators I can
+just get them marked on the chart
+immediately. So with the order blocks
+and breaker blocks what does that mean?
+Well basically if you have an impulsive
+move to the downside that breaks
+previous structure that is going to mean
+that you're not now interested
+in the last bullish candle in case the
+move was bearish.
+And then in the bullish scenario, you
+you are going to be looking at the last
+bullish candle that broke structure to
+the upside. So when you put the
+indicator on, you can see all of these
+areas that are of interest to you
+depending on the time frame that you set
+um the order blocks to be at. So for
+example, I have mine on a daily time
+frame, but if I like go around time
+frames, they're still going to show me
+the daily areas that I'm interested in.
+So, for example, right, I'm going to
+show you an example of an area, a big
+sell area that I was interested in from
+which I caught a short on Tabbit over
+here. So, uh the short is doing pretty
+well actually. I already closed like uh
+$320
+in profit and I still have like $590
+running. So, um this is just to
+illustrate to you how I utilize the
+indicators for example in that case. Um,
+so here we have a massive we had a
+massive bearish order block and then I
+combined that also with the other
+indicators to get that entry, but we're
+going to get into that. All right, cool.
+So, that's that's pretty much a first
+example that I wanted to give you a
+quick explanation as well. Um, I know
+that the chart is busy with other stuff,
+but we're just focusing on the fair
+value gaps and on the um order blocks.
+And I just want to illustrate you the
+previous price action so you guys
+understand how these areas are very very
+important. And one thing that makes the
+the areas even more valid is when you
+have a buy zone or when you have a sell
+zone in combination with a fair value
+gap. So that is going to mean for an
+example we're looking at this area over
+here. You see how price nicely bounced
+from it. So usually what I tend to do is
+I tend to mark these areas
+as a buy zone. So this is what you see
+when I uh when I chart right I say okay
+this is my buy zone and over here at the
+time of the price action there was a
+fair value gap over here you can see it
+it is not marked right now because the
+indicator is going to show you only the
+ones that are most relevant uh currently
+but this one has already played out. So
+there was a fair value gap within these
+three candles and there was also a buy
+um order block. So as you can see the
+buy from here was very very nice. Now uh
+with the current price action we can see
+that price has left more sell zones. Um
+so yeah that is how you pretty much use
+u these order blocks and breaker blocks.
+It is really really simple you guys. I
+have a more in-depth video on that also
+on my main channel which you can find in
+the description box as well. So this is
+going to be very brief. I have a more
+in-depth one on my main YouTube channel
+you guys. All right, cool. Um, so that's
+that. We're gonna now look into the
+sweep signals. So the sweep signals work
+on a 4 hour time frame mainly, right? So
+on a 4 hour time frame. So literally
+like minutes before I started recording
+this video, uh the 4hour
+um sweep signals are going to give you
+usually a current target. So earlier
+when I was just planning to start this
+video, the target was this low over
+here. Now, let's see for Ethereum if we
+can actually still see the target to the
+downside or is it Oh, yeah. Okay. So,
+for ETH, you can still see it right down
+here. Let's clear the chart a little bit
+more
+over here.
+Hold on. Like that. So, this is what you
+would usually see. So, that's that's an
+indicator that is going to show you
+where is price currently drawn to. So,
+in that case, the 4hour time frame is
+going to show you that Ethereum still
+would like to come down and take the low
+at 3,822
+at the time I'm filming this video. Now,
+this is based on uh on a very basic
+strategy that utilizes the fractal
+candle. So, as you can see, some candles
+have this little triangle at the top or
+at the bottom. That essentially means a
+fractal candle. A fractal candle
+formation,
+just for quick explanation, is usually a
+five candle formation on a on a lower
+time frame. So, for example, if you're
+looking at the 4 hour and if you turn
+around, you look at the 30 minute time
+frame, you are going to see a five
+candle formation at very each fractal
+low or fractal high. For example, for
+this low that was created with five
+candles and they look something like
+that.
+You would have two candles with u higher
+highs over here
+or higher lows in that case and then you
+would have two more. So essentially the
+formation is going to look like that and
+this is what is going to make this a
+fractal candle. So usually fractal
+candles like that tend to be a draw on
+liquidity within the current price
+action in that case the 4hour time
+frame. So this indicator is going to
+utilize when a fractal high or low has
+been taken and then it's going to
+consider the subsequent close of the
+4hour candle. In that case uh that was
+probably bearish over here. You can see
+it that probably is actually pretty much
+happened. So over here you have a sweep
+of the fractal low and then you have a
+bearish close after that which means
+that price is going to target the
+following um fractal candle. In that
+case, it was within the current price
+action that occurred. And if that wasn't
+the case,
+usually price is going to price was
+previously targeting this low, right?
+But when price is strong, it tends to
+develop fractal candles as it is
+trading. So now that is not only showing
+us that this is the target to the
+downside instead of all the way down
+here but it's also showing us that price
+is starting to regain some sort of
+strength some so all of this are uh very
+important datas for us to consider. So
+that's why I really love this indicator
+and it's giving me a very quick
+orientation bias related in terms of
+price action. if I'm trading let's say
+the 15minut time frame. All right, so
+that's with the sweep signals. Now my
+favorite one actually I love all of them
+but I really really like the liquidity
+indicator.
+So the liquidity indicator is basically
+going to show you formations of weak
+highs and weak lows and that is just
+such an amazing extra confirmation of
+when you know price is dropping to the
+downside but it leaves liquidity to the
+upside. So for you to know, okay, this
+is a very very strong draw on liquidity.
+And usually, by the way, if you go ahead
+and look at the liquidations area, this
+indicator is going to actually be so
+precise in where the massive
+liquidations areas sit on the chart. So
+I don't even need to look at um the heat
+maps anymore.
+Um all right. So basically, how is this
+formed? Well, uh it's a triangular
+formation where um the low was a higher
+low for example in um in the up scenario
+and then that makes u this a weak high.
+Now why is this a weak high? Well, we're
+going to look at it a little bit more in
+depth. So basically this low was
+responsible for this high and then once
+we had this high responsible for this
+low, this low didn't take the previous
+low. So that now automatically makes
+this high a weak high. You're going to
+see the same example to the downside and
+you're going to always see how these
+areas are targeted like um almost
+immediately and when they're not such as
+for Ethereum for example we're seeing
+that around 5,000 that's a liquidity
+that's left behind. It is a very very
+good signal. Now uh something that's
+very very cool is that you can see these
+indicators working on a higher time
+frame as well right so like very very
+higher time frame so let's say I want to
+give you an example of a double
+formation liquidity which I know AVAC
+has uh which is very exciting you can
+also see it on for example on polka dot
+like on dot there is a high time frame
+double liquidity formation so for
+example when you see the double
+liquidity formation like This
+what happens mostly the knob is that
+price tend to come and pick one side
+right is picking one side of the
+liquidity whether the upside or the
+downside in that case price decided to
+come and sweep the lower liquidity and
+now this is a confirmation to some
+extent of course price can just come
+down and retest that area many times
+that price is going to bounce back and
+come to seek the liquidity at around
+65.7
+levels for AVAX. So, that is pretty cool
+because you can see it on a higher time
+frame and on a lower time frame as well.
+But one thing that I really really love
+about the liquidity indicator is that
+it's going to give you areas of support
+and resistance which are very very
+important. So, for example, when these
+formations happen,
+right, let's clear this chart a little
+bit. When these formations happen,
+price is going to leave support and
+resistance areas. So when you see on my
+chart that I have levels like that
+marked, what I tend to do is mark them
+on a daily time frame using the
+liquidity indicator. Mark them on a
+weekly time frame, always a high time
+frame if I'm looking for an overall,
+let's say, weekly bias, monthly bias, or
+whatever. So these support and
+resistance areas are going to be
+extremely important for me. So over here
+for example, we can see that we had one
+on the weekly time frame.
+So what I tend to do is I usually mark
+them like that. And I know that this
+area is highly likely to be a holding
+area right for price. Same thing applies
+for for example for up here when we had
+this liquidity uh formation and now this
+turned into support/resistance
+area for us for continuation buys and
+then the colors of the um of these lines
+are going to show you the scenarios as
+well. Um let's not focus on the colors
+too much. You just need to focus on the
+areas. And as you can see here, I had an
+entry on AVAX that was pretty much super
+sniper because I was looking for a
+retest of the most recent liquidity, not
+one that was left months ago. They're
+equally important, by the way, whether
+they're from five months ago or whether
+they're from five weeks ago. Um, it's
+pretty much the same thing, but then
+this is what I was looking at. I was
+looking at for price to break this
+liquidity and then to retest it nicely
+so I can enter into a long position over
+here. All right, so these are pretty
+much the three indicators that I wanted
+to show you guys and again
+most importantly you can find them in
+the description box and like I said make
+sure to check Tabbit as well. They have
+amazing bonuses for up to $32,200
+in bonuses. Of course, Coinb is getting
+the best deals for you guys. So, make
+sure to check in the description box.
