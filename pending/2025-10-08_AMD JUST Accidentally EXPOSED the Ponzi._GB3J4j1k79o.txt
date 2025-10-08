@@ -1,0 +1,431 @@
+same day that AMD makes a major deal
+with Open AI, leading a lot of people to
+say this is peak bubble and peak
+circular, which we'll talk about exactly
+what's going on there. There's a note in
+Bloomberg about comparisons from today
+all the way back to 1929.
+See, in 1929, the Dow Jones fell 17% as
+we started entering the Great
+Depression.
+A lot of people are like, "Ah, 7%. Who
+cares?" The market was up double in just
+the year prior to that. And we're only
+up 73% on the S&P 500 since 2023. So,
+we're not up as much. And it took two
+years. So, you know, we're not we're not
+well, of course not. But, of course,
+well, we fell 17% in 2029. That was just
+the beginning of a slow, drawn out death
+of the stock market. And the circular
+financing of what's happening today with
+the AMD deal has a lot of people
+scratching their heads wondering, "OMG."
+After all, in 1930, the Dow was down
+33%.
+By 1931, it was down 50%, by 1932, it
+was down 80%
+from its peak. Imagine you're investing
+in the Q's today at, you know, 607 and
+it falls 80%. Well, 607 * 0.2 would
+bring you down to $121
+on the cues. Just to make that relatable
+to some of the numbers that we're facing
+today, if you take the S&P 500, which is
+trading for 6,4 $6,741,
+multiply that by 0.2, you'd be at $1,348
+on the S&P 500 if we had an 80% decline,
+just like what happened in 1929 to 1932.
+Now, that ended up leading to an
+explosion of bank failures. You had
+these crazy tariffs that were instituted
+in 1930. Good thing we don't make stupid
+moves like that.
+We had a belief in new technologies like
+electrification, vacuum cleaners,
+movies, radio, cars. You had radio
+stocks going from a $150 per, you know,
+stock per share to $85 per share. You
+can look up RCA and those companies are
+dawn today.
+Uh, and of course back then you had a
+lot of fraud and insider trading. Like
+back then you had a lot of painting the
+tape. Fortunately today you don't have
+painting the tape because it's illegal.
+But I I guess insider trading some say
+is exactly still what happens given that
+the Kabesi letter says here on October
+2nd users on X began noting unusual
+options activity in AMD.
+Over $6 million worth of longdated call
+options were purchased and flows into
+AMD stock were strong. One user
+explicitly said they bet AMD just signed
+a multi-billion dollar deal to support
+GPUs to OpenAI.
+4 days later, OpenAI and AMD announced a
+deal that will generate tens of billions
+of dollars in new revenue. Of course, I
+I thought the grifting was only possible
+in a certain property on Pennsylvania
+Avenue, not all over the stock market.
+But apparently, it's possible all over
+the stock market. And this is where we
+got to talk about the potential circular
+nature of these investments. And is
+there any risk to all of this? Well,
+let's figure it out. So, here we go.
+Let's understand exactly how this all
+breaks down. So, I'm going to try to
+walk through this as simply as possible.
+So, the first thing we have to
+understand is that Nvidia
+just made a commitment that they will
+invest $10 billion into OpenAI for every
+gigawatt that is deployed. Okay, this is
+going to be a little hard to follow, so
+I'm just going to walk you through it
+here one step at a time. Nvidia will
+invest $10 billion once the first
+gigawatt is deployed. And then every
+next gigawatt they'll do another10
+billion dollars for a total of hundred
+billion dollars. Now when is the first
+gigawatt expected to be deployed? Well,
+open AAI tells us. Here's the September
+22nd press release. And if we scroll
+down right here, ah the first gigawatt
+of Nvidia systems will be deployed in
+the second half of 2026 on Nvidia's Vera
+Rubin platform. Ah, okay. Got it. All
+right. So let's write that down. So the
+first gigawatt will be deployed in the
+second half of 2026. Okay, got it. Now
+when that first gigawatt is deployed,
+what happens then? Well, then $10
+billion of investment goes to OpenAI.
+Okay, so now OpenAI gets a bunch of new
+cash. And what is Open AI now promising
+that they're going to do? Well, uh, in
+the second half, Open Door or Open Door,
+Open AAI is expecting to invest with AMD
+into a new deployment of at least 1
+gawatt of energy starting in the second
+half of 2026.
+That's because today we heard that there
+was a strategic partnership announced
+between AMD and OpenAI where they're
+going to deploy 6 gawatt of AMD GPUs.
+Listen to this. You can't make this up.
+The first gigawatt deployment of AMD is
+set to begin in the second half of 2026.
+So let let me recap that for a moment.
+Okay, AMD is not in the picture and you
+got Nvidia and Open Door. Nvidia says,
+"Hey, we'll invest10 billion dollars
+into OpenAI when we deploy this new
+gigawatt expected to be done in the
+second half of 2026." Then OpenAI is
+like, "Okay, hey AMD, you want to start
+construction once we have this inflow of
+10 billion from Nvidia into a
+gigafactory or, you know, a gigawatt
+factory? I'm thinking Tesla here. Uh, in
+the second half of 2026, we'll start
+that." It's like, "Yeah, let's do that."
+You see the circle building so far? And
+I'm not making this stuff up. These
+they're literally writing it here on the
+Nvidia OpenAI deal. We will deploy it in
+the second half. And on the AMD OpenAI
+deal, we will begin in the second half
+of 2026. It's literally like the AMD
+deal is waiting for the Nvidia deal to
+be done or progressed. So the money from
+Nvidia goes to OpenAI which can then go
+to AMD. But it gets even more crazy than
+that because after that money gets
+deployed then AMD gets revenue right
+because AMD is going to sell chips to uh
+open AAI but who also gets money well
+Nvidia is also getting money because
+their data centers are getting completed
+with open. both deals are going at the
+same time, right? But then it gets
+really circular because the more money
+Nvidia gets, the more money Nvidia can
+keep putting into OpenAI to do the
+second gigawatt, the third gigawatt, the
+fourth gigawatt, the fifth, all the way
+up to 10, right? What does AMD do when
+they get money? Well, when AMD gets
+money, AMD's stock price is going to go
+up. But what's crazy is Open AAI is
+going to have ownership in AMD.
+And if OpenAI has ownership in AMD and
+AMD stock goes up and Nvidia has
+ownership in OpenAI, then Nvidia
+directly benefits from AMD stock going
+up, which then means there's more money
+for Nvidia to do more deals, which if
+Nvidia does the second and third
+gigawatt of the more of more deals, then
+technically you could go back to AMD and
+you could go do the second gigawatt, the
+third gigawatt, the fourth gigawatt, and
+just always be like 6 months behind the
+Nvidia deal, just like they're blatantly
+telling you here again, deployed in the
+second half, starting in the second
+half, and then it'll be the second
+gigawatt, the third gigawatt, and the
+cycle is literally just a giant
+circle based on stock price at one point
+because of this AMD commitment because
+the AMD commitment Uh the deal is based
+on Nvidia hitting certain stock price
+tanches which is wild because
+AMD all right this is something like
+let's back back off the circle for a
+moment. You need to understand this
+about AMD. AMD does not have as big of
+PP
+as Nvidia. That's just the reality.
+Nvidia has much larger PB.
+Let me prove it to you.
+on screen.
+AMD has a gross margin of 39.8%.
+Nvidia has a gross margin that's nearly
+twice as large, 72%.
+That's called big pricing power. But
+then when you look at the net income,
+AMD has net income this last year of
+11.3%. So their net margin is 11.3%.
+Last year is only 4.5%. But even if we
+look at the 11.3%, it's still 1ifth of
+Nvidia's net income. Nvidia smokes AMD's
+pricing power because the margins are
+insane. The numbers don't lie. This
+isn't me judging someone else's PP. I
+don't do that. I don't judge other
+people. I just read the financials and
+the PP shows itself. I can measure the
+PP by going to sec.gov.
+It's really simple.
+So when we understand that Nvidia has
+really big pee pee here, why is AMD
+giving up 10% of their company? Because
+they have to. It's branding. Now Lisa
+Sue can tell everybody, "Hey, look,
+OpenAI, the largest AI company in the
+world, is betting big on AMD." They're
+giving up 10% of their business. But
+they're doing that because they want to
+use it as marketing to get more deals
+with other companies. Maybe Anthropic
+will be next or maybe Microsoft or what.
+Who knows? All these other companies
+will come around because of the
+branding. Some of this is evidenced by
+the fact that when Lisa Sue was on
+Bloomberg this morning, she was asked,
+"Oh, so where are these data centers
+going to be, Lisa Sue?" And she's like,
+"Oh,
+oh, where? Oh, well, the world will
+actually need data centers everywhere.
+So they will be in diversified locations
+to be determined.
+You can't make that stuff up. That's
+exactly what happened. And it's because
+you don't really have to make your plans
+yet at AMD because you're sort of kind
+of at this point it feels like
+contingent on the Nvidia buildout
+because once the Nvidia buildout
+happens, OpenAI gets $10 billion of
+cash. Now OpenAI doesn't really have
+cash. OpenAI is expecting revenues of
+about 12.7 billion this year, but
+they're also expecting to be a money
+loser between now and probably 2030,
+expecting to blow over a hundred billion
+of expenses themselves on either
+training AI or AI buildouts or whatever.
+And these are expectations we're getting
+reported by the information. So, a lot
+of these insider funding round leaks and
+more.
+So, what stage of the cycle does all
+this kind of crap put us at? Well, we
+know this is a giant circle. Again,
+OpenAI
+gets investments from Nvidia
+to go build out factories to go buy
+Nvidia chips.
+The more money Nvidia gets, the more
+they can reinvest back into OpenAI.
+OpenAI
+signs deals following those investments
+with AMD,
+giving AMD shares based on the stock
+doing well. AMD gets those share or gets
+that, you know, uh or sorry, Open Door.
+God, Open Door, it's so circular. I trip
+over this. Open AAI gets the investment.
+AMD, which is worth more as the stock
+price of AMD goes up,
+which lets OpenAI have a greater
+valuation, which boosts Nvidia's
+valuation, which lets Nvidia go do more.
+I mean, you get it. It's a giant circle.
+So, what's what's the stage of the
+cycle? Well, here's usually how cycles
+work. When people are really fearful,
+the only people who buy when there's
+fear are people with cash. A lot of
+cash. A lot. Everybody buys with cash.
+And then after people do a lot of buying
+with cash, you get FOMO buying. And then
+after you get a lot of FOMO buying, you
+get FOMO meets debt.
+I kid you not. Those are the words that
+are being circulated right now like on
+Doomberg or otherwise is that you know
+what's keeping this going is debt. You
+know here you've got Meta for example
+turn to lenders to secure 26 billion in
+financing. If you want to see debt just
+go look at Oracle. Oracle is like chalk
+full of debt. Uh, I actually give credit
+to a company like Amazon for using less
+debt than some of these other companies
+because some of the things are kind of
+starting to get scary with just the
+amount of FOMO meets debt. And
+that's the way it works. That's how you
+kind of keep fueling the cycle. Does
+that mean we're at the end of the cycle?
+Not necessarily. Because if we go back
+over here, we can see that after debt,
+we get euphoria. But then we get to a
+new special phase of the cycle. The
+special phase of the cycle is this.
+Stock prices start getting pegged to
+more euphoria.
+Huh. Okay. Well, good thing that's not
+happening yet, is it? Oh, wait.
+Vesting of AMD ownership is tied to AMD
+achieving certain share price targets
+and to open AI achieving the technical
+and commercial milestones required to
+enable AMD deployments at scale. Ah
+interesting. So, this deal is contingent
+upon AMD going to the moon tripling up
+to $600 at the highest trunch, which is
+really similar to what you've seen with
+Elon's stockbased compensation or the
+Open Door plan that oh, Open Door is
+going to go to $30 and then we'll get
+all this money in stock.
+That's a phase of the cycle where you
+start tying money being made or deals
+being contingent upon the stock price
+moving to certain levels. And then of
+course you get the mania and the bubble.
+What happens after that?
+Well, that's for a different video. We
+don't want to talk about that. That's
+that'd be crazy. Nobody wants to talk
+about bubble. Nobody wants to talk about
+1929. Although apparently there's like a
+new book out now on the 1929 Andrew Ross
+Sorcin slapped together. I wonder how
+much GPT he used on it. But uh I thought
+the article was fascinating. Bloomberg
+did a whole write up on it. And it is
+interesting because valuations today,
+they're not technically as high as what
+we saw in the dot bubble, which means
+there's still room to go. Here's the
+screeny of it right here. S&P valuation
+still below.com highs. This is crazy
+because I kind I hate comparing anything
+to the com era, but if you look at the
+Warren Buffett indicator, we are at the
+highest level we have ever been
+in valuations
+uh for the Warren Buffett indicator.
+We're like 213%
+or whatever as a percentage of GDP. It
+was very interesting if I Warren Buffett
+indicator
+current valuation current market
+valuation.com strongly overvalued
+Buffett indicator US stock market
+divided by annualized GDP 217%. The
+highest we have ever seen in history
+possibly driven by some of the madness
+of these circular deals but whatever. I
+do wonder what kind of escape hatches
+companies like Microsoft will end up
+having. You know, Microsoft has like a
+$19 billion deal with Nebas. And I
+wonder like what escape hatches the big
+companies have because usually they they
+have some. The big companies are usually
+able to negotiate escape hatches because
+they're big. And the small companies
+want to work with the big companies, so
+they're able to get and negotiate exit
+clauses where the small companies are
+like, "Well, we'd be dead anyway if the
+bubble pops, and so we may as well take
+the upside now and then cash out while
+you can." That's typically what happens
+in a bubble. But anyway, it's worth
+noting that right now there are
+estimates that we will need $2 trillion
+of artificial intelligence revenue to
+fully fund the buildout by 2030 of
+artificial intelligence that markets are
+expecting. The problem is revenues are
+only expected to be $1.2 trillion, which
+is a 40% miss. And of course, my big
+fear is that much like in 1929 where we
+started, you know, bailing out
+companies, it won't be enough.
+We'll cut rates to zero. We'll start
+printing money. And it won't be enough
+to get people back to work because we
+won't have created AI jobs yet. We'll
+still be in an environment of not hiring
+people because of artificial
+intelligence. It's kind of scary, but it
+is what it is. Now, you know, in the
+short term, I mean, prices will move all
+over the place. I mean, this morning in
+the uh course member live stream, I
+argued that we're probably close to a
+top and the highest we would go is what
+I said would be 232 on AMD. We stopped
+out at about what 228 over here and
+we're talking the course member live
+like it's the the highest pricing is
+probably going to be in the pre-market.
+It almost always is. So, but that's in
+our course member live stream. So,
+anyway,
+welcome to the AI bubble.
+>> Why not advertise these things that you
+told us here? I feel like nobody else
+knows about this.
+>> We'll we'll try a little advertising and
+see how it goes.
+>> Congratulations, man. You have done so
+much. People love you. People look up to
+you.
+>> Kevin Pra there, financial analyst. and
+YouTuber Meet Kevin. Always great to get
+your take.
