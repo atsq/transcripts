@@ -1,0 +1,364 @@
+Chachi Fatig just launched their brand
+new AI agent builder. And this is by far
+the biggest update that they've ever
+released because now anybody, even a
+complete beginner, can build out AI
+agents and AI automations that you can
+sell or use for yourself. And what does
+this mean? That you have to spend less
+time doing complex or tedious tasks
+because you can now automate them with
+Chacht. By the end of this video, you're
+going to know about several mind-blowing
+use cases that you could use this for to
+both save time and make some money. Use
+case number one that I would strongly
+suggest that you use this tool for is to
+turn your chat GBT projects into AI
+agents and AI workflows that either one,
+you could have your team use, two, you
+could have your friends, family, or
+somebody else use, or three, you could
+actually end up selling this because if
+you're watching this video, I'm sure
+that you use chatbt in order to build
+out projects. For example, I have this
+YouTube script writer project right here
+that is incredibly valuable to me. This
+allows me to write my YouTube scripts
+incredibly quickly. In the past, this
+used to take me hours to do, but now I
+literally get it done in seconds because
+of this project and the way that I
+trained it. And guess what I can do now?
+I can now sell this to people or give it
+away for free because I can actually
+build this out as its own standalone
+agent that I can then put on my website
+or behind a payw wall or wherever I want
+it. Now, here's how you're actually
+going to do that. You're going to click
+into the project that you want to build
+into its own standalone agent. You are
+then going to come up here. You are
+going to click on edit instructions and
+you are then going to copy the
+instructions that you have given this
+agent. You're going to come back over to
+this agent builder right here and you
+are going to click start and then you
+are going to add in whatever type of
+agent you want. For this particular
+example, this is going to be a YouTube
+script writer. And then what I'm going
+to do is I am going to replace the
+instructions right here. And then I am
+going to add this in right here. I want
+you to be a YouTube expert script writer
+that builds me scripts based on the
+scripts from my past successful videos.
+Every single response should make a
+video that is 10 to 12 minutes long. Now
+we could come in here and we can add in
+context if we want. We can include the
+chat history. We could change the model
+that this uses if you found that other
+models give you better results. We could
+change the reasoning effort and all of
+this jazz. And we can even come over
+here and evaluate it. But what I want to
+do with this one in particular is we're
+going to click on tools right here.
+We're going to click on file search and
+then we're actually going to be able to
+upload this because what makes this
+project great is not the system
+instructions, but instead the file that
+I have actually uploaded here. So, what
+this is going to allow me to do is come
+over to my computer. I'm going to type
+in script outlines 1 through three.
+We're going to be able to do a search
+for this and then find this document.
+And then from here, I'm going to put
+this in this agent. Okay, so I found
+this right here. What I'm then going to
+do, we're going to come back over into
+this agent builder. I'm going to pull my
+finder back up. I'm going to drag this.
+And I am going to drop this over here.
+And now this is going to have access to
+this. We're going to come over here.
+We're going to attach this. And then
+from here, we could come over here and
+actually preview this and see if it
+works. So I'm going to use this the same
+exact way that I would actually use this
+over here. I'm going to come over here
+and I'm going to scroll up and I'm just
+going to grab this right here. I'm going
+to come back over here. I'm going to put
+title. I'm going to put this and then we
+can actually preview how this actually
+works and see what the agent is actually
+doing. We could see that it's searching
+through script examples. It's then
+searching through these files right
+here. And then this is going to go
+through and reason and actually build
+out a script which is pretty awesome
+here because again I'm able to train
+this with the knowledge, the data, the
+proprietary information that I have.
+Then I'll be able to give this away or
+sell this and look at this. This goes
+through and then scripts out videos
+exactly how I actually want the video
+scripted out. Now use case number two is
+going to be building out your own AI
+brain. I'm sure you've heard people talk
+about this before in the past, but
+essentially what this means is that you
+can come in here and you can build out
+an I brand. What you're going to do is
+you are going to come in to create a new
+workflow. If you don't see this
+templates right here, you might just
+have to come in and create a new
+project. For some reason, under my
+default project, it doesn't show. But if
+I come over in a new project, it does
+show. I think it's just a glitch that
+they need to work out. But nevertheless,
+you come over here into templates. You
+will be able to come down here and find
+internal knowledge assistant. What this
+is going to be able to do is this is
+going to be able to triage and answer
+questions from employees. Now, you might
+not have employees, but you might have
+people that ask you questions. You might
+have an audience that wants to ask you
+questions, or maybe you just want to be
+able to remember everything from
+everywhere. What you're going to do is
+you're going to click into this internal
+knowledge assistant, and they already
+have this built out as a template right
+here. So, we have a start. We could see
+that this then rewrites the user's
+question in order to actually be better.
+So you don't have to have your users be
+an expert at actually using this. Then
+this is going to classify this and this
+is going to then classify the question
+based on Q&A, factf finding or other.
+And then what this is going to do is
+actually handle this with three
+different types of agents. An internal
+Q&A, an external factf finding or just a
+regular agent. And what you can do is
+come in here and actually train each of
+these. So you can then upload
+knowledgebased like I showed you before.
+Or if you click on tools right here,
+guess what you can do? You can come over
+into MCP server and you could add in a
+bunch of different tools. You could give
+this access to your Gmail. You could
+give it access to your drive. You could
+give it access to your Dropbox. You
+could even give it your access to
+thirdparty servers like this. So that
+you can then have your team, you can
+have your customers, you can have your
+clients, you can have your audience come
+over here and ask questions to this that
+otherwise they would be asking you and
+wasting your time. Now for use case
+number three, I wanted to show you how
+you could actually make this 100 times
+more powerful. Because if we come back
+over here and we click back into tools
+and come back into MCP server, what
+you're going to notice is yeah, there
+are eight things here and a few things
+here, but that is incredibly limiting.
+So, what would make this more powerful?
+What if you could connect this to a free
+tool like rube.app where you can then
+come into their marketplace and be able
+to connect this to more than 800 apps
+that can take over 50,000 actions. Well,
+guess what? You could do that. And you
+could do that for free. It's literally
+as simple as you coming over here,
+clicking on install group, and again,
+this is free. You come over to this MCP
+URL. You're going to copy this right
+here. You're going to come back into the
+agent. You're then going to click on
+server. You're going to add in this URL.
+You could label this right here rub mcp.
+You can do rub mcp. And then from here,
+you just have to come over here. We're
+going to click on none. We're going to
+click on connect. And now this is going
+to go through and this is going to
+establish a connection with RP. And then
+guess what we're able to do? You are
+then able to log in to all of these
+different apps. There's literally
+hundreds of them. And then you will be
+able to have your agents on chatbt
+access all of these. And this gives you
+access to some pretty crazy things. For
+example, browser use. It also allows you
+to have complex chains. You just don't
+have to hit one of these at once. You
+could have this hit multiple things. For
+example, it can hit Gmail. It can hit
+Slack. And then it can post something on
+X all in one chain from one prompt. In
+addition to that, this drastically
+reduces the number of agents that you
+need to actually build out because you
+can go through and establish this one
+connection with Rub's MCP and then be
+able to access all these different
+tools. And the best part about Rube is
+if you go to the pin comment below right
+now, you can get started today for free.
+Immediately, you're going to be able to
+connect to more than 800 plus apps that
+can take more than 50,000 actions and
+help make your Chat GBT agents way more
+powerful. Now, for use case number four,
+you could actually use this in order to
+build out a customer service bot for
+your website or for your audience or for
+your employees. For example, if we come
+over here and click on customer service,
+we can actually see exactly how this
+works. And again, this is already built
+out as a template and you literally just
+have to go through and build out all
+these different conditions and make it
+specific to you and then also just give
+this access to your different tools. So,
+this right here is going to determine if
+the user input is going to be
+reasonable. So, it's a jailbreak guard.
+Basically, it's just trying to make sure
+that it's able to answer whatever it is.
+And we could see what actually
+determines that when we come over here
+and we could see whether or not it's
+text or if it fails, we could see why
+it's going to fail. And then we can also
+see what is actually going to happen.
+So, as we come through here, really
+what's important are these different
+agents right here. We could see that
+there's a return agent, there's a
+retention agent, there's an information
+agent. But what I would strongly suggest
+that you do is actually go through here
+and make these way more customizable.
+Because if you click in here, then you
+click in tools, then you come into MCP
+server, guess what you can do? You can
+hook this up to Shopify. You can hook
+this up to Stripe. You can hook this up
+to HubSpot or PayPal. And guess what
+this allows you to do? This allows you
+to see whether or not somebody's a
+client. This allows us to see whether or
+not there's any notes on this client.
+This allows us to actually go through
+and process refunds for people or find
+out where somebody's order is or find
+out when their refund's going to hit or
+all things like that. And you can even
+set this up to something like Zenesk
+again by hooking this up to Rube. If we
+come over here, type in Zenesk, we could
+see that this is here. And you can
+basically build out your own customer
+service agent that reduces the amount of
+time that you have to have humans doing
+customer service because this can do so
+many different things. In addition to
+that, if we come over here, we can hook
+this up to Calendarly or Google
+Calendar. So now this can answer
+questions. This can issue refunds. This
+can book calls if you want this to also
+do sales because remember the number one
+way to sell somebody is to turn somebody
+that's upset into a happy and a raving
+customer because those are going to be
+the people that are going to tell more
+people about you. And you were able to
+do that now simply by building out an
+agent inside of chatb. Now I want you to
+think about this because you don't just
+have to do this for your business or
+maybe you don't have a business that
+you're going to do this for. You could
+go through and build out these custom
+solutions for other people and then sell
+them. In fact, you could sell an agent
+like this literally for thousands of
+dollars and you could even charge them
+for upkeep on it. And guess what? Chachi
+BT literally has a template of how to do
+this. And this is so easy that a
+12-year-old could do this. Now, the last
+type of agent and automation that I
+would strongly suggest that you guys
+build out is something that uses this
+data enrichment. So, basically what this
+does is you could put something in here.
+This then calls on an agent and then
+this calls on another agent to summarize
+and display it. Now, this is incredibly
+basic, but I want you to think about
+this. If you were building out an agent
+to analyze real estate deals or section
+8 deals or somebody's tax returns or all
+the different things that you could
+upload into this because remember, if we
+come over here and click on preview, we
+can make it so you can upload certain
+things in here. You can build out agents
+that are niche for analyzing so many
+different things. Again, think about
+real estate, think about taxes, think
+about financial related things, anything
+that somebody could analyze. It could be
+Facebook ads or Google ads. What you can
+do is actually build out these agents
+that are going to enrich the information
+that is given. And then you could add
+another agent on here. And I'm going to
+use just this agent for example, but you
+could add in custom instructions. You
+could add in custom reasoning and
+basically what you're doing is taking
+advantage of the fact that people are
+trying to do these things in chatbt in
+COD in Gemini and they're not getting
+the results that they want not because
+these systems can't do this but because
+they don't have the right instructions
+or they're not calling the right tools
+or they don't have access to the right
+internal files like what I showed you
+with the YouTube script writer earlier.
+Now, if you enjoyed this video, I'd
+strongly suggest you check out this
+video right here that walks you through
+exactly how you can build out AI agents
+and AI automations with Chat GBT agent
+builder. Check it out here.
