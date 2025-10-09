@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-08T15:52:22.085109",
-  "total_transcripts": 107,
+  "last_updated": "2025-10-09T17:18:33.557201",
+  "total_transcripts": 114,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -964,6 +964,69 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-08T15:51:32.702995",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-08_Uptober Bitcoin ATH! \ud83d\ude80 When to Buy & Sell Crypto \ud83d\udcc8 (Passive Altseason Gains \ud83e\udd11) When Bull Cycle Over_eiLnMoLDbb4_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_A Loss For Blake Lively! And A WIN For The Public!!!_Hflmv4ppDZQ.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_A Loss For Blake Lively! And A WIN For The Public!!!_Hflmv4ppDZQ.txt",
+      "title": "A Loss For Blake Lively! And A WIN For The Public!!!",
+      "video_id": "Hflmv4ppDZQ",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:11.613583",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_A Loss For Blake Lively! And A WIN For The Public!!!_Hflmv4ppDZQ_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_Cenk & Ana Respond To AOC\u2019s Remarks About \u201cMAGA Men\u201d_KHC_xM9qHrE.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_Cenk & Ana Respond To AOC\u2019s Remarks About \u201cMAGA Men\u201d_KHC_xM9qHrE.txt",
+      "title": "Cenk & Ana Respond To AOC\u2019s Remarks About \u201cMAGA Men\u201d",
+      "video_id": "KHC_xM9qHrE",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:15.960599",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_Cenk & Ana Respond To AOC\u2019s Remarks About \u201cMAGA Men\u201d_KHC_xM9qHrE_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_Did ChatGPT Just Kill Zapier_oS6L-X3LcBo.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_Did ChatGPT Just Kill Zapier_oS6L-X3LcBo.txt",
+      "title": "Did ChatGPT Just Kill Zapier?",
+      "video_id": "oS6L-X3LcBo",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:24.076959",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_Did ChatGPT Just Kill Zapier_oS6L-X3LcBo_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_How To Create and Sell Digital Products Online in 5 Steps_9tcEooAB0Ug.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_How To Create and Sell Digital Products Online in 5 Steps_9tcEooAB0Ug.txt",
+      "title": "How To Create and Sell Digital Products Online in 5 Steps",
+      "video_id": "9tcEooAB0Ug",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:32.287496",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_How To Create and Sell Digital Products Online in 5 Steps_9tcEooAB0Ug_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_New Recording Drops Bombshells !!_ysSgNaC6Yz0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_New Recording Drops Bombshells !!_ysSgNaC6Yz0.txt",
+      "title": "New Recording Drops Bombshells !!",
+      "video_id": "ysSgNaC6Yz0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:07.430378",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_New Recording Drops Bombshells !!_ysSgNaC6Yz0_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_The Next Big Quantum Stock is Here... & It's a STEAL.. (URGENT)_AyO2RrGcNG4.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_The Next Big Quantum Stock is Here... & It's a STEAL.. (URGENT)_AyO2RrGcNG4.txt",
+      "title": "The Next Big Quantum Stock is Here... & It's a STEAL.. (URGENT)",
+      "video_id": "AyO2RrGcNG4",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:19.922396",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_The Next Big Quantum Stock is Here... & It's a STEAL.. (URGENT)_AyO2RrGcNG4_metadata.json"
+    },
+    {
+      "filename": "2025-10-09_These 10 Sci-Fi Series Actually Got Better Every Season_5bvzbrbmOtM.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_These 10 Sci-Fi Series Actually Got Better Every Season_5bvzbrbmOtM.txt",
+      "title": "These 10 Sci-Fi Series Actually Got Better Every Season",
+      "video_id": "5bvzbrbmOtM",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-09T17:18:28.021771",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-09_These 10 Sci-Fi Series Actually Got Better Every Season_5bvzbrbmOtM_metadata.json"
     }
   ],
   "archived": []
