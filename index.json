@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-10T10:10:13.806043",
-  "total_transcripts": 145,
+  "last_updated": "2025-10-10T13:00:17.073093",
+  "total_transcripts": 148,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -1209,6 +1209,15 @@
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_How to Outsmart Anyone Without Saying a Word - Nietzsche_VVnOivN1GYA_metadata.json"
     },
     {
+      "filename": "2025-10-10_I Cheated At Tennis Using An Exoskeleton!_q8aD-3J3Ads.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_I Cheated At Tennis Using An Exoskeleton!_q8aD-3J3Ads.txt",
+      "title": "I Cheated At Tennis Using An Exoskeleton!",
+      "video_id": "q8aD-3J3Ads",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-10T13:00:07.573767",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_I Cheated At Tennis Using An Exoskeleton!_q8aD-3J3Ads_metadata.json"
+    },
+    {
       "filename": "2025-10-10_REAL vs FAKE Tech_s2OccJMWwkM.txt",
       "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_REAL vs FAKE Tech_s2OccJMWwkM.txt",
       "title": "REAL vs FAKE Tech",
@@ -1216,6 +1225,24 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-10T10:09:59.594140",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_REAL vs FAKE Tech_s2OccJMWwkM_metadata.json"
+    },
+    {
+      "filename": "2025-10-10_Swing-Killing Shoulder Mistake Most Golfers Don\u2019t Realize They Make_s3PAG-9hUl0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_Swing-Killing Shoulder Mistake Most Golfers Don\u2019t Realize They Make_s3PAG-9hUl0.txt",
+      "title": "Swing-Killing Shoulder Mistake Most Golfers Don\u2019t Realize They Make",
+      "video_id": "s3PAG-9hUl0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-10T13:00:15.679378",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_Swing-Killing Shoulder Mistake Most Golfers Don\u2019t Realize They Make_s3PAG-9hUl0_metadata.json"
+    },
+    {
+      "filename": "2025-10-10_The 'Peace Deal' Reveals A Stunning Fact_NT-c_UJSbXU.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_The 'Peace Deal' Reveals A Stunning Fact_NT-c_UJSbXU.txt",
+      "title": "The 'Peace Deal' Reveals A Stunning Fact",
+      "video_id": "NT-c_UJSbXU",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-10T13:00:11.722215",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-10_The 'Peace Deal' Reveals A Stunning Fact_NT-c_UJSbXU_metadata.json"
     },
     {
       "filename": "2025-10-10_The Driver to Beat in 2026 is Here!_1Y-7J_MCQNg.txt",
