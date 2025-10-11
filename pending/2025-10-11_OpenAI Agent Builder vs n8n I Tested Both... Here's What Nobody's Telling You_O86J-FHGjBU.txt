@@ -1,0 +1,464 @@
+Open just dropped agent builder and the
+internet is screaming rip at n but they
+are not even playing the same game. I
+spent the last 48 hours building
+identical workflows on both platforms
+and what I discovered will completely
+change how you think about AI
+automation. Now one platform it's built
+for conversations the other one it's
+built for automation and understanding
+that difference it's everything. So let
+me break it down for you. What's up
+guys? My name is Nick and today we're
+just going to be settling this debate
+once and for all where I'm going to be
+comparing OpenAI's brand new agent
+builder against NN across six different
+categories. So, we're talking about ease
+of use, triggers, tools, AI models, user
+interfaces, and deployment. So, by the
+end of this video, you're going to know
+exactly which platform is going to fit
+your particular needs, whether you are a
+complete beginner, a developer, or
+running an agency. and stick around
+because I'm going to share the one
+mindset shift that matters more than any
+tool that you will ever learn. So, let's
+dive in. First, let's just level set.
+OpenAI Agent Builder launched yesterday,
+October 6th. Literally just dropped.
+It's a drag and drop visual builder if
+you're not familiar already. It's
+designed specifically for creating
+conversational AI agents. Now, Sam
+Alman, he called it Canva for agents.
+And honestly, that's pretty accurate.
+Now, N8N, this has been around since
+2019, but it exploded within the last
+year or so. So, if we look at the Google
+Trends chart, it absolutely hockey
+sticks past Zapier and also Make.com.
+Why? Well, because it's open- source. It
+is infinitely flexible and it has over
+500 integrations. And just the way that
+you build things, it just makes sense.
+But here is the critical distinction
+that not many people are actually
+talking about. So, agent builder, it is
+designed for chat first workflows and
+N8N, it is designed for automation first
+workflows. One is a conversational tool,
+the other is an automation engine. Now,
+the difference, this changes everything.
+So, let's get into the different
+categories. So, category number one,
+this is going to be the ease of use. So,
+I'm going to be brutally honest here. If
+you're brand new to AI automation, agent
+builder, it's going to feel like a
+breath of fresh air, but just watch
+this. I am going to open agent builder.
+I'm going to click create workflow. And
+boom. I get a very clean canvas with a
+start node. And beyond that, I am also
+going to get an AI agent node. That's
+it. On the left sidebar, we have 11
+nodes total. The agent, end, file
+search, guardrails, MCP servers, and
+five logic operations. That's everything
+that you are getting at least right now.
+Now, if we jump into N, I create a new
+workflow and okay, like this is
+immediately more overwhelming. I've got
+categories, subcategories, hundreds of
+nodes to choose from. If you want to add
+an agent, it's cool. But now I need to
+connect a chat model, configure memory,
+setup tools, and I'm already getting
+errors because I forgot to link
+something. Now, here is the test. I want
+to build an AI agent that searches the
+web and answers questions. In agent
+builder, I click the agent. I'm then
+going to click add tool, select web
+search, and this is done. That's it.
+There's no API keys, no setup. It's just
+it just works. And NN I need to find the
+right tool from hundreds of different
+options. And then I need to connect it,
+grab an API key for the search provider,
+grab another API key for the chat model,
+configure the connections and
+everything. So, you get it. For a
+complete beginner building their first
+agent agent builder, it wins without a
+doubt on pure simplicity. It's faster,
+it's cleaner, it's less intimidating.
+But here's the thing, that simplicity,
+it comes with tradeoffs. So, let's talk
+about them. By the way, if you guys are
+getting any sort of value from this and
+you just want to go deeper on AI
+automation or learning how to sell or
+make a business out of this, I've got a
+free school community with almost 15,000
+members who are all interested in AI
+automation and building stuff just like
+this. We do weekly calls, competitions,
+we share free resources and free
+templates and honestly just a great
+place to network and learn. Link is in
+the description. Go ahead and join. But
+let's go ahead and just keep moving. So
+category two, this is all about triggers
+and automation. So this is where things
+are getting a little bit more
+interesting because this category it
+reveals the fundamental difference
+between these platforms. So in agent
+builder you can look at this uh you know
+the plus trigger and the options. So
+you've got start. That's literally it.
+Just one node called start. And notice
+what it says when you create a workflow.
+So just build a chat agent workflow. So
+they're telling you exactly what this
+is. It's a conversational agent that you
+are talking to. The only way to trigger
+this agent is by sending it a message
+either through the chat interface or by
+calling it through an API. There are no
+scheduled triggers, no app events, no
+web hooks that are going to be firing
+when something happens in your CRM. And
+if you want to build an agent that
+automatically responds to Gmail
+messages, well then you would just have
+to build a separate system to watch
+Gmail and then call this agent. It's not
+designed for that. But if we're going to
+jump into NN, what we do is we click the
+trigger node and we look at what we get.
+So, Gmail, there's like eight different
+triggers, including um on message
+received for uh we can open up Slack.
+There's going to be eight different
+triggers. Google Drive, you're going to
+have multiple different triggers as
+well. So, we have like web hooks, we
+have schedules, database changes,
+literally anything. I could build an
+agent that can automatically run when a
+lead is going to maybe be filling out a
+form or when a customer sends an email
+or when a Slack message just mentions a
+keyword or on a schedule at 9:00 a.m.
+every Monday. But here's why this
+matters is because the most value
+automations, they do not require human
+intervention. They just run in the
+background, saving time and scaling with
+your business. And if you want an agent
+that automatically nurtures leads and
+processes invoices or monitors customer
+support tickets, you need real triggers.
+An agent builder, it does not have them.
+It's built for you to have conversations
+with, at least right now. And NN, it's
+built to run autonomously in the
+background. So two completely different
+philosophies. Category 3, this is all
+about agent tools and integrations. So
+tools are essentially just what gives
+your agent superpowers. So let's see
+what each platform offers. Now in agent
+builder I can click the add tool and
+here is what I'm getting. I'm getting
+web search which is builtin and works
+great. File search for any documents
+client tool which sends data to chat
+widgets and the MCP servers. Now out of
+the box agent builder only connects to
+about eight different apps. I covered
+this in my last video so feel free to go
+check that out. So we have like Gmail,
+Google Calendar, Drive, you know the
+very basics. And that's useful for
+simple stuff, but it's extremely limited
+if you're trying to build something that
+actually solves real problems. But
+here's where it gets interesting, and
+this is something that most people are
+completely missing, is that you can
+connect agent builds to over 500 apps,
+all using something called Rube. So Rube
+is essentially an MCP, you know, model,
+context, protocol, if you're not
+familiar with it already. And this is
+just giving your agent access to over
+500 apps and 50,000 different actions.
+And we're talking about Slack, Notion,
+Air Table, HubSpot, Salesforce, Stripe,
+Basana, ClickUp, literally everything.
+You connect it once through this MCP
+server option and it works across all
+your agents. Now, if you want to see
+exactly like how to connect agent
+builder to these 500 plus apps, all
+using Rube, I actually made a full video
+breaking down that step by step. So,
+make sure to check out the proceeding
+video. I literally just uploaded it
+yesterday. But yeah, it's a game changer
+for making agent builder actually useful
+for real business workflows. And with
+that MCP connection, agent builder, it
+becomes way more powerful. But even with
+Rube, there are still limitations. Now,
+N8N, if we are to open the tools panel,
+and yeah, over 500 native integrations
+just built right in there. So, we have
+Gmail, Slack, you get the idea. I'm not
+going to name all them. If you can't
+find what you need, you just use an HTTP
+quest node. And with this single node,
+like you can connect to any service that
+has an API. That is thousands of
+possibilities. But here's the real power
+move in N8N is the subworkflows. So if
+you watch this, I can build a
+specialized email agent workflow with
+its own tools and its logic. Then I can
+call that entire agent as a tool from
+another agent. So that means I can
+create modular reusable agent systems.
+Now an orchestrator agent that delegates
+to specialist agents. So that is the
+next level automation architecture and
+when it is coming to really just using
+tools and integrations both platforms it
+can connect to a bunch of different apps
+but N8N does it natively and with way
+more flexibility through subflows and
+HTTP requests. So the architecture
+possibilities they are just deeper
+inside of NAN. Category four this is all
+about AI model support. So this one's
+pretty straightforward but very
+important. So agent builder, it gives
+you access to all OpenAI models. That is
+it. So we have GPT4, 40, all them, all
+the reasoning models, everything from
+OpenAI. And look, they're great models.
+You can adjust reasoning effort,
+verbosity, tool choice. It's all there.
+And since you're in the OpenAI
+ecosystem, there's zero setup, but
+you're also locked in. Like you can't
+use Claw, you can't use Gemini, you
+can't use Llama or Mistrol or any of the
+hundreds of other models out there. And
+here's why that matters is because
+different models they excel at different
+tasks. So like Claude, it is pretty
+exceptional at writing. Gemini excels at
+code. GBT4 is great all around.
+Sometimes you just want to choose the
+best tool for the specific job. Also
+what happens when OpenAI goes down and
+it does go down. There's no backup. And
+at N you're able to choose your fighter
+like Enthropic or Google Azure Coher
+whatever it may be. It's all natively
+supported. Or you could just connect to
+open router and lock literally hundreds
+of models through one API. And you can
+even use local models if you're
+self-hosting N8N. There's zero external
+dependencies, complete control, and you
+still get all the configuration options
+and temperature, top P, frequency,
+everything. The model flexibility in NN,
+it's a massive advantage. You're not
+betting on one company. You're not
+limited to one set of capabilities. You
+can experiment, you can compare, and you
+can use the best model for each specific
+task. Now, that flexibility, it does
+compound over time. Okay, this next
+category, it's where OpenAI's agent
+builder absolutely shines. And I mean
+really shines because they release
+something called chatkit alongside agent
+builder. And it's honestly very
+impressive. So, you can just watch this
+in my agent. I'm going to change the
+output format to widget. Now I can click
+create widget and I am taken to the
+widget studio. So look at this gallery.
+There's pre-built interactive widgets
+for scheduling, product recommendations,
+data visualizations, forms. It's all
+customizable. And if you don't see what
+you want, then you can just click like
+create new widget and literally describe
+what you want and it's going to generate
+a custom widget for you. And then there
+is the playground beyond this. So the
+playground I can customize the entire
+chat interface. So like light mode, dark
+mode, colors, typography, button styles,
+brand, the whole thing, you know, the
+whole the whole nine. And when I'm done,
+I am going to get an embed code so we
+could drop it on a website and boom,
+professional chat interface ready to go.
+And this is huge for anyone building
+customerf facing agents or internal
+tools because you go from idea to
+deployed interface in literally minutes.
+an N8N. Yeah, this is a bit rough, but
+you get a basic chat interface when the
+like when chat message received is being
+triggered and it looks like this. It's
+going to be functional, but it's very
+bland. There's not as much
+customization. There's no widgets.
+There's no branding. So, if you want
+something that looks professional,
+you're going to be building a custom
+front end. Now that means React or Vue
+or whatever framework that you know or
+just using like glovable or VO and you
+can use NN as the backend brain but
+you're coding the interface yourself and
+that's not a dealbreaker for developers
+or agencies because we do this all the
+time but it's way more work now agent
+builder UI capabilities they are
+legitimately impressive for anyone who
+needs a polished production ready chat
+interface all without having to touch
+code it's complete game changer. Final
+category and this one is about ownership
+and security. So agent builder, it is
+deployed entirely on OpenAI's cloud. You
+build it, you publish it, it lives on
+their servers, and that's incredibly
+convenient. There's zero infrastructure
+to manage, no servers to maintain. It
+just works. But OpenAI, they do have
+complete control over your agents and
+your data and everything. It's going to,
+you know, it's going through their
+systems. So for companies already deep
+in OpenAI's ecosystem, this isn't a
+problem. But for enterprises with strict
+data restrictions, it's a non-starter.
+Like N8N is open source. Well,
+technically source available, but close
+enough. Like you can host it in the
+cloud, which is easiest, definitely
+self-host on your own servers for full
+control, or just run it locally on your
+machine with zero external dependencies.
+And this means that you own your data.
+You control your infrastructure. You can
+even use local AI models and keep
+everything on premise. And before you
+think like that sounds complicated, NN's
+cloud does exist. It's fully managed
+hosting just like OpenAI oneclick
+deployment it's done. You get the
+benefits without the DevOps headache and
+the flexibility here it's unmatched
+because and cost control through
+self-hosting security through local
+deployment or convenience through cloud
+hosting like you choose agent builder
+it's convenient but you're renting and
+at N it gives you your ownership. So for
+agencies like building client systems or
+enterprises with compliance requirements
+that ownership it seriously matters a
+lot. Now, with all of this being said, I
+just wanted to quickly mention that we
+are running a 3-day AI agency challenge
+where we literally walk you through
+building your first automation, setting
+up your offer, and getting your first
+client. It's just $47. It's super
+practical, no fluff. Links down below in
+the description if you want in. We've
+had people book in their first calls
+with clients within the first week of
+going through it. But, let's just get
+back into it and finish this off. So,
+before we actually wrap up, I need to
+share something that is important than
+any tool comparison. Now, the biggest
+mistake that I see people make is
+getting obsessed with tools. Like,
+should I learn any or agent builder?
+Even though it doesn't take much to
+learn agent builder, but like what if I
+pick the wrong one? What if something
+better comes out? And here's what
+matters. You need to learn to identify
+where AI creates value. Businesses do
+not hire you because you know N. They
+hire you because you can save them 15
+hours a week on email triage and cut
+their lead response time from two hours
+to two minutes or just automate their
+invoicing process and save them $50,000
+annually. The tool it's just a vehicle.
+The value it's in understanding like
+where is manual work creating
+bottlenecks and where are humans doing
+what AI should handle and what processes
+should or would compound if automated.
+So become tool agnostic, master the
+thinking and learn the tools as it's
+needed because here's what's going to
+happen next month. Google will probably
+release something 6 months from now.
+Enthropic might drop their version and
+new tools will keep coming. But the
+ability to look at a business and say
+here's where AI or these systems will
+give you 10x return on investment. Like
+that skill it never expires. So yes,
+learn n learn agent builder or whatever
+comes next. But more importantly, learn
+to solve real problems. Learn to
+identify any inefficiencies. Learn to
+calculate ROI. And that is what actually
+matters. The tools they will change. The
+principles they will not. But that is
+the entire breakdown. Agent Builder and
+NN, they're both powerful. And Agent
+Builder, it's only going to get more
+powerful. You know, this initial
+release, it does have bugs, but it is
+the beta. But with that being said, like
+one's more so built for conversations,
+at least right now. The other one is
+built for agents, anything agentic and
+automations. So, choose based on your
+specific need. And remember that if you
+want to see how to connect agent builder
+to 500 plus apps using Rube, then check
+out my previous tutorial. But besides
+that, thank you guys for watching. Drop
+a comment and tell me which one are you
+using, team agent builder or are you
+team NN? And what kind of agents are you
+building? But with that being said, if
+this helped you at least just a little
+bit, make sure to like, subscribe. It
+genuinely helps the channel grow. And
+with that being said, I will see you
+guys in the next video.

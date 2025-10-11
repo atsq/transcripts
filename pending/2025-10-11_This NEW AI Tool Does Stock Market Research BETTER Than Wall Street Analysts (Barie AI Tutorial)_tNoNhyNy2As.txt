@@ -1,0 +1,366 @@
+Wall Street analysts spend millions of
+dollars every single year trying to
+predict the stock market. But what if I
+told you that there's a brand new AI
+tool that can break down stocks faster,
+cheaper, and more accurately than they
+can because I just found a brand new AI
+tool that makes stock market research so
+easy that it feels like cheating.
+Because this tool can scan the web and
+gather all the information about the
+company that you tell it, both from the
+latest news and from expert analyst
+opinions and even pulling in real-time
+sentiment in order to give you a
+complete picture before you make any
+moves. By the end of this video, you're
+going to know exactly what that tool is
+and a few other use cases that you could
+use it for. Now, that brand new AI tool
+that I'm talking about is going to be
+Barry AI because you can come over here,
+you can spin up a new chat and ask it
+something like this. Perform a detailed
+analysis of the best dividend returning
+stocks that I should invest in today.
+I'm looking for stocks with not only the
+best returns, but also that are the best
+price today. And then what I'm going to
+make sure that I do is I'm going to make
+sure that I click on deep research right
+here. And this is then going to go
+through and create a deep research
+report of exactly what I want done. Now,
+what makes Barry Aai special is the way
+that it is actually going to approach
+us. Because what this is going to do is
+this is going to go through and think
+and then ask me a few different
+questions. And I'm going to go through
+and reply to these. Then you're going to
+see exactly how this breaks this out.
+Okay. So, the first question that this
+asks is where it actually wants to look.
+For example, US, Europe, or global. Two,
+what is the definition of best priced?
+Three, what is the time horizon for your
+investment? for do you have any specific
+sectors or industries that you want to
+avoid? Then also what level of risk that
+you have. Now, I really like that it
+asked this because with us asking us to
+do this, these things are going to be
+highly relevant. So, I told it to do
+US-based best price, meaning that it's
+undervalued today based on their
+analysis. Three, I'm looking for
+long-term holdings, one plus year. I
+don't care about the industry or sector,
+and I have a low risk tolerance. Now,
+what this is going to do is this is
+going to take all that information and
+then it's going to spin up a bunch of
+different sub aents that are going to
+perform subtasks in order to actually do
+this in an efficient manner. Because if
+you ask just a regular LLM to do this,
+what's going to happen is it's going to
+go off and try to do each of these
+things one by one individually. And
+that's not very efficient and it doesn't
+lead to a very good answer. And that's
+what makes Barry AI special is the way
+that it actually approaches this
+problem. So we can actually watch this
+and see the way that it's thinking
+through things right here. And we can
+expand on this right here. So okay,
+let's break this down mentally. It goes
+through what it needs to do first and
+then what it needs to do after that and
+then what it needs to do after that with
+a bunch of different sub points at each
+of these and it also goes through
+challenges and mitigations. And now we
+could see that this is actually
+generating a plan and then it's going to
+make this happen. And then this is what
+that actually looks like when it begins
+to break everything out. We could see
+that this actually created a to-do right
+here. And then it's going to go through
+each of these in live time. And we are
+actually going to be able to watch it do
+this by looking at the console right
+here, which is pretty incredible because
+again, this allows us to in live real
+time see exactly what it's doing, what
+it's taking into consideration with its
+analysis. And we're going to be able to
+track this. And look at this. We have
+all these different tasks happening at
+one time. We have market screening and
+initial filtering. Then we have company
+level fundamental analysis. Then we have
+valuation and risk. We have growth
+analysts. We have sector
+diversification. We have portfolio
+construction. And we can see all the
+different tasks that are happening under
+each of these. And again, this is what
+makes Barry AI special. And this isn't
+only good for analyzing stocks or
+analyzing stock portfolios because there
+are a ton of other use cases that you'll
+be able to tie this to that I'm going to
+share with you in a little bit. And if
+at any point you wanted to see what it's
+actually doing in each of these, we
+could go through and we can scroll
+through all of these in order to access
+them or we could download them or open
+them up on our behalf. Or we could just
+jump over to current in order to see
+where it currently is. And as you could
+see, you could see from this view when
+it's actually finishing each of these
+subtasks and you'll be able to see
+exactly what it did at each one of these
+levels. Now again, take into
+consideration all this. Just in one of
+these, it went through and did eight
+different things. And it is doing that
+four times, four times, five times. This
+right here is 17 times, 21 times, 25
+times. So this is literally taking in
+hundreds, if not thousands of different
+little data points, different websites,
+and that is what makes this tool so
+special. And it's why this output is
+going to be so good once it's done.
+Okay, now this is almost done going
+through everything. We could see that it
+is done with some things, but it's still
+working on a few of these. But we could
+see that we now get a bunch of different
+files here. From these files, we can
+view these in order to see what this is
+actually taking into consideration or we
+could download them if we wanted to. And
+we can even bulk download them. So, we
+get all of them in one shot. Okay. So,
+now this is actually done. This is going
+through and we could see that this gave
+us a detailed analysis of the best
+US-listed dividend stocks currently
+undervalued suitable for long-term
+holding over one year with a focus on
+lowrisk options. We could see the
+executive summary here which outlines
+the screening criteria and a bunch of
+other things. We could see the table of
+contents right here and we could
+actually scroll through and see all
+these different insights and all these
+different things that this went through.
+And we can see that this is a pretty
+long, very detailed report right here
+with closing remarks and even appendices
+right here. But the coolest part is that
+if we click on this URL right here, we
+can actually see this in a visual
+manner. It shows us the top undervalued
+dividend stocks, the current market
+environment, different investment
+criteria, the research methodology, key
+risk considerations, investment strategy
+summary. This is pretty cool because we
+could send this around if we wanted to
+or we also have the final report in PDF
+format and we could see it's 14 pages
+long. We'd be able to download this if
+we wanted to. We'd be able to share this
+URL if we wanted to. Or like I showed
+you earlier, if we wanted to actually
+see all the individual things that it
+looked at and went through in order to
+actually come up with this, we could
+download all these in bulk or view them
+individually or even download them
+individually. Now, before we get into
+the three other use cases that are going
+to blow your mind with this tool, I
+wanted to remind you that you could go
+to the pin comment below and get started
+with Barry Aai today because this tool
+right here is going to make your life so
+much easier and you're going to regret
+it if you don't register for it. And I
+don't want you to think that this only
+works for something like stocks. You
+could also get this to actually code
+things for you. For example, we could
+come over here and we can say, "Please
+build a landing page for my dividend
+stock course." And now what this is
+going to do is ask us a few questions
+again. And then this is going to go off
+and this is actually going to code
+something for us. And in addition to
+just being able to code things from
+scratch, it can also clone GitHub repos,
+it can make edits to GitHub repos, it
+can debug code and it can do so much
+more. And we can see right here that
+this literally goes through and in a few
+seconds created the HTML that we needed
+right here. And then I'm going to say,
+please add all of that in. And let me
+preview it here
+in the chat. And you'll be able to see
+that very quickly and very easily this
+was able to do this, which again makes
+Barry AI have so many different use
+cases. When we actually view this, we
+could see that this is exactly what this
+looks like right here. Now, obviously,
+we would have to come over here. We'd
+have to add in our course logo. We would
+have to add in an image right here like
+it told us in the chat. But we could see
+that this generated very quickly a
+landing page for us that we can now come
+through and customize. Now the second
+use case that I wanted to show off is
+we're going to come over here and we're
+going to say please create a business
+plan for launching a men's luxury shoe
+brand sourced from China focusing on
+rebranding market research sourcing
+pricing marketing and expansion for the
+UK and EU markets. And again we're going
+to do this under deep research mode.
+This is then going to ask us a few
+questions. It is going to build out a
+plan and then we're going to have an
+incredibly detailed business plan. You
+guys saw earlier how good this was at
+doing stock analysis. Just wait until
+you see what this business plan looks
+like. Okay. So, from here, this went
+through and created an outline for what
+this business plan is going to look like
+for this men's luxury shoe brand. We
+could see that we have an executive
+summary, market research, branding. We
+see sourcing and production. And if we
+scroll down, we could see that it asks,
+"Would you like me to create a detailed
+financial production or marketing
+campaign next?" And I said, "Yes, please
+do it for each of these." And then it
+went through, asked a few clarifying
+questions, and I told it that I wanted
+it for each step of this plan. Now, we
+could see that this has broken out again
+into all of its thinking. We could see
+that it's developed a real plan, and now
+it's going through, it's going to spin
+up the console, and this is going to
+start to make things happen. Now, I've
+already walked you through exactly how
+this breaks everything out, subtasks,
+how you can view it in the console. So,
+once this is done, I'm going to show you
+what the final output looks like. Okay,
+so now this is actually done. Here's
+what we've got. We got a business plan
+for launching a men's luxury shoe brand
+sourced from China for UK and UE
+markets. We have the executive summary
+here. We can see that we have a table of
+contents, which again goes through all
+the different things that you saw in the
+initial plan. And we could see that now
+each of these is incredibly broken out.
+It gives us data, gives us insights,
+gives us implications, which allows us
+to have a way more robust business plan.
+And we could see that we could scroll
+down this for each one of these. So this
+not only designed the business plan for
+us, but also went and found the data,
+did the analysis, did the insights, and
+gives us those implications. So we can
+actually deliver this to an investor or
+to a co-founder or to a team internally
+if this was something that you were
+doing inside of another company. Now, if
+we scroll all the way down, what you
+were going to notice is that this also
+went through and created a URL for us.
+So, we could see this business plan
+visually right here. In addition to
+that, it gives us the final report right
+here, which again is going to be 17
+pages long. And we could download this,
+we could share this, and we can also
+access all 21 of the different files,
+different links, different things that
+it looked at in order to actually
+perform this task. Now the third use
+case I wanted to showcase here is how
+this can actually go through and do
+pretty complex data analysis. For
+example, if I ask this to generate a
+detailed financial analysis of Netflix
+using their 2021 to 2023 statements
+highlighting its strengths, risks, and
+key performance metrics for strategic
+review. This will actually go through
+and do that. So again, per usual, it
+asks a few questions. From here, it goes
+through and actually thinks about
+exactly how it should do this, lining it
+out into a six-step plan. And then for
+13 minutes, this went through and
+processed tons of different things. For
+example, the SEC filings. It went
+through and did data quality and
+reconciliation. It went through and
+actually analyzed Netflix's financial
+plans and their trends. It developed
+KPIs and performance metrics. And then
+at the end here, we could see that it
+went through competitive benchmarking,
+market context, Netflix risk assessment,
+and even a strategic analysis and
+insights. And we could go through as
+deeply as we want and drill into
+everything that this did. And then this
+is what we have right here. We have this
+pretty complex analysis of Netflix's
+stock, their financial histories, their
+cash flows, their strengths, their
+risks, key performances, content
+spending patterns, foreign exchange
+exposure and hedging strategies, which
+is something I didn't even think about
+and a bunch of other things. And if we
+scroll all the way down here to the
+bottom, as you can see, this is
+incredibly long. Then we have this URL
+right here to the Netflix financial
+dashboard if we wanted to share this
+with somebody or if we wanted to view
+this visually very quickly. We also have
+the final report right here which as we
+could see is 15 pages long. And we have
+all the different files that were used
+in order to actually create this. Now,
+if you enjoyed this video, I'd strongly
+suggest you check out this video right
+here that walks you through seven other
+AI tools that I personally can't live
+without. I'll see you over there.
