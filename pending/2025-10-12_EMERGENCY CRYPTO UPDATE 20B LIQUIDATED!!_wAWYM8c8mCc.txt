@@ -1,0 +1,591 @@
+What's up, guys? It's Dan from Coin
+Bureau Trading. Today, we're going to
+talk about the record level of
+liquidations the crypto market has seen
+over the last 24 hours. As you guys have
+probably noticed, uh these liquidations
+are totaling roughly 20 billion.
+Everyone is wondering what's going on,
+which is why I'm kind of doing this
+emergency video. Uh apologies for the
+lack of editing and everything. Uh doing
+my best to get this out to you guys as
+quickly as I can. Uh basically, as you
+guys can see, there's been close to 17
+billion of long liquidations. Of course,
+when all is said and done, it's probably
+going to be way more. As most of you
+guys will know, long liquidations are
+basically where traders were betting
+that prices would go up. And when prices
+go down, they're basically forced to
+sell their position, which basically
+results in this kind of like automated
+selling pressure. And then what happens
+there is that you basically have force
+selling from long liquidations, which
+causes more longs to be liquidated,
+which causes panic selling, which causes
+more longs to be liquidated, and so on.
+Uh the thing that's really shocking of
+course about this long liquidation is
+that if you guys look at smaller
+altcoins like Sooie or like Aptos or Ton
+or like all these other ones, right? Not
+necessarily smaller ones, but you get
+what I'm saying. Like altcoins outside
+of any crypto outside of like Bitcoin,
+uh Ethereum and I think Salana, almost
+everything else had this massive, you
+could call it like a scam wick down
+where everyone who was going long on
+anything outside of Bitcoin, Ethereum,
+and Salana basically has gotten wrecked
+in the last 24 hours. Uh, and I do feel
+for everyone who was, you know, in that
+position. I know a lot of people are
+hurting right now and, uh, you know,
+everyone's trying to figure out what's
+going on. So, I'm going to give you guys
+my best take with the information that I
+have right now. Um, so, of course, the
+catalyst that kind of caused the
+liquidations um was basically the news
+that uh that Trump would be imposing
+100% tariffs on on China. Uh, that's
+expected to start on November 1st, but I
+think Trump said something like, "Oh, it
+could come a little bit sooner." But the
+thing is, guys, that yes, that was the
+catalyst. Like, that was the thing that
+triggered liquidations. But in case you
+guys haven't noticed, there seems to be
+seems to have been something systemic
+behind the scenes like in the actual
+crypto market exchange architecture. So
+much so that you have key players like
+the Crypto.com CEO or Chris Marzlec
+basically calling for an investigation.
+Uh if you guys follow any other top
+traders like whether it's like Bob Lucas
+or like any of these guys, uh they're
+all basically shocked or even like
+crypto OGs like Kobe, all these guys are
+completely shocked and they're saying
+like this is the biggest liquidation
+I've ever seen. Some people are calling
+for like police investigations and a
+whole bunch of stuff regarding what
+specifically happened behind the scenes.
+Again, that's still kind of being sorted
+out. I think Arthur Hayes had the best
+take here. Should probably give him a
+follow here on the Coin Bureau Trading
+X. So, I'll just read out to you guys.
+So, from Arthur Hayes, word on the
+street is that big sex's auto
+liquidation of collateral tied to cross
+margin position is why lots of alts got
+smoked on the move down. Congrats to all
+you stinky biders. We won't be seeing
+those levels anytime soon on many high
+quality alts. basically saying that uh
+prices are probably not going to have
+another scam wick like that for a while.
+But just to translate that into plain
+English for you guys. So, as some of you
+will know, like basically when it comes
+to leverage trading, there's kind of two
+ways you can do it. You like typically
+the classical way you could say is you
+deposit USDT and then that's kind of
+like your collateral, right? And let's
+say you deposit $100 USDT, you're going
+10x long on Bitcoin, hypothetically,
+Bitcoin falls by 10%. Uh then your uh
+your $100 of USDT basically gets
+liquidated. So that basically gets sold
+off, you could say. So that's like the
+classical let's say like leverage
+trading. What you what larger players
+tend to do and like more advanced
+traders tend to do is they will do
+something called cross margin which is
+basically where again hypothetically of
+the same scenario $100 going 10x long on
+Bitcoin Bitcoin falls 10%. But instead
+of liquidating your uh your hundred your
+100 USDT it basically looks at what else
+is in your crypto exchange account and
+it starts selling that if that makes any
+sense. So what what Arthur is basically
+saying here what could have happened is
+that there was probably some large
+either large trader or market maker or
+whoever uh who basically was for example
+long Bitcoin or long Ethereum and they
+had this cross margin thing enabled and
+what basically happened is that Bitcoin
+dropped like more than they expected and
+then in in some large account and it
+could be multiple accounts again no one
+really knows what's going on there but
+what basically happened is that someone
+was either long Bitcoin or long Ethereum
+or long Salana there was this
+liquidation and basically they had they
+had cross margin enabled so what did is
+it basically liquidated everything else
+in their account like all these other
+altcoins like Sooie and whatever else
+they were they were holding liquidated
+all all of that other stuff to basically
+make sure that their main positions
+their larger positions Bitcoin Ethereum
+or Salana or one of those um basically
+stayed intact and that's basically why
+uh you see that like Bitcoin and
+Ethereum and Salana they didn't drop as
+much uh as as these other altcoins. is
+kind of like basically these other
+altcoins were liquidated by someone to
+protect their large position uh their
+large long position in Bitcoin, Ethereum
+or Salana. Again, the details are still
+coming out. This is just based on the
+information that I have. I do hope that
+makes sense to you guys, but of course,
+I'm sure by this point you're wondering,
+okay, like that's all, you know, I don't
+really necessarily care why it happened.
+Uh and uh it's one thing to keep in
+mind, guys, though, like just to put
+things into perspective, this
+liquidation event, I think it's like the
+magnitude is like something like seven
+to 10 times larger than any liquidation
+event we've ever seen in crypto's
+history. So, anyone who's saying like,
+oh, like how come you didn't see this
+was happening? It's like the only person
+who actually saw this coming
+potentially, you could argue was this
+ilk capo of crypto, this trader who's
+been a bear for a very long time. And he
+was basically calling for this type of
+like scamwick move that we saw on many
+altcoins. He was calling for exactly
+that to happen for a few months.
+Everyone was laughing at him and uh I
+guess he's the one who's laughing now.
+But again, that brings us to the charts.
+So, looking at Bitcoin on the daily,
+again, I'll address this whole thing
+around the uh you know, the Bitcoin mini
+cycle. we'll talk about on we'll talk
+about that on Monday. All I want to
+highlight for the purpose of today's
+video guys uh is the fact that we're
+basically seeing a repeat of what we've
+seen uh basically since you could say
+since the since February where you guys
+can see that since February we've seen
+Bitcoin repeatedly have this type of
+pattern where it's like you know almost
+like um I can't remember what this what
+the technical term it is off the top of
+my head but I mean you can you guys can
+kind of see like based on the chart that
+you almost have like this like you know
+resistance line on the top and then you
+have this like downward sloping support
+line. Uh, and this is the structure that
+we've seen basically ever since uh,
+crypto started climbing out of those
+lows uh, in the spring. Uh, and you can
+see that what we basically saw here, as
+crazy as it sounds, is we basically just
+saw a retest of this lower trend line
+here, which is absolutely mad, right?
+Um, you know, it's anyone who like I
+think even at some point I probably had
+that line drawn and I like didn't even
+extend it all the way that far because I
+was like, there's no way that we're
+going to see something like that. And of
+course that's that's exactly what we saw
+which again it's completely
+unprecedented and there's probably only
+a handful of people who are anticipating
+something like this. Anyone who was
+betting like to basically predict this
+you would have had to been betting on
+like some tail event that's going to
+cause not only and again all this stuff
+around tariffs like people forget this
+guys like all this stuff around tariffs
+and like Trump and China this is all
+stuff that was known this is a catalyst
+like yes of course that would have
+caused in a normal circumstance that
+would have caused a pullback. there was
+something behind the scenes, some kind
+of systemic failure. Again, probably
+related to this cross margin uh that
+Arthur Hayes is talking about where
+someone was long Bitcoin or long
+Ethereum or long Salana and they had
+their basically portfolio set up so that
+if those long positions start going
+underwater, instead of liquidating the
+position, it will start selling off
+everything else to maintain that
+position. Uh and that's, you know,
+pretty scary and we're going to have to
+wait and see, you know, who the which
+dead body it is. Like people are talking
+a lot about that, you know, there's
+going to be a dead body floating to the
+surface. But, uh there's a few silver
+linings here, though, guys. is the first
+thing is that Bitcoin objectively
+speaking is still in a long-term
+uptrend. And I do want to remind you
+guys, you know, remember what happened
+back in I guess late September, like a
+couple of weeks ago when Bitcoin fell to
+108,000. Everyone thought it was it was
+over and then lo and behold, those were
+the lows and then we literally rallied
+to all-time highs like literally within
+a week later. Uh so the idea that we're
+going to see something like that again,
+I think is pretty high uh or like the
+chances of that is pretty high,
+especially when again slapping on the
+bull, sorry, slapping on the RSI, guys.
+You can see the RSI again into oversold
+territory. Every single time Bitcoin
+gets this oversold, it tends to bounce
+back. And I think even if we look on the
+4 hour, like look at this, guys. Like
+this is this RSI, it's the most oversold
+what since uh since June, even more so
+than June. I think it's the most
+oversold since the April lows. Okay, so
+there will be a bounce from these
+levels. And I'm sure that you guys are
+sick of hearing me saying like, oh,
+there's going to be a bounce. But from a
+technical perspective, there will be a
+bounce from these levels. Does that mean
+that, you know, Bitcoin could is isn't
+going to go lower? Of course, it could
+go lower in the short term, but there
+will be a bounce. And remember, last
+time there was a bounce like this back
+in late September, Bitcoin very quickly
+within a week rallied back up to new
+all-time highs. So, just just keep that
+in mind, guys. Like, I do think that's a
+there's a potential scenario that's on
+the table here because they've this was
+whether it was an intentional or not.
+All the longs of like basically
+everything outside of Bitcoin, Ethereum,
+and even then like Bitcoin, Ethereum,
+Salana, a lot of longs got liquidated
+there. Basically, everyone has gotten
+wrecked. Okay. So, all the longs are out
+of the market completely. And I'm and
+again like there's people that are
+waking up and probably still like even
+thinking like what am I even going to
+post? Should I just go for a walk?
+Right? Like people are waking up around
+the world seeing what's going on
+panicking a little bit. It's going to be
+a volatile probably couple of days
+especially over the weekend. Liquidity
+tends to be low. So you know it's not
+going to be it's not necessarily going
+to you're not necessarily going to see
+like some kind of epic recovery in the
+next 48 hours here. It's probably going
+to take a little bit of time. But uh
+with that being said again things are
+massively oversold in the short term.
+Every like there will be a bounce of
+some kind. Does that mean there's not
+going to be continuation lower? know
+there could be a continuation lower, but
+the fact is we're going to have to take
+things one step at a time. Play things
+by ear. That's a perfect segue, guys,
+here into Bitcoin dominance. Uh, of
+course, that's something I've been
+watching and many people have been
+watching. And as you guys can see,
+Bitcoin dominance saw a huge kind of
+wick to the upside here on the weekly.
+And again, is it possible that Bitcoin
+dominance could go a little bit higher?
+Sure. But from a technical perspective,
+I would say that Bitcoin dominance has
+already retested this uh this kind of
+Ballinger band moving average on the
+weekly. I've seen a lot of really great
+analysis of people arguing, look, you
+know, we saw that wash out. We saw that
+wick up in Bitcoin dominance and now
+Bitcoin dominance can can continue
+heading lower. And I believe again like
+same idea if we were to throw on the the
+RSI. I don't even have to throw it on. I
+already know it's probably going to be
+super overbought here. Like yeah. So
+it's it's back to the super overbought
+level which historically speaking once
+it's in that overbought territory it
+tends to start falling again. And this
+is on the daily now. You know I bet it's
+even more extreme on the 4 hour. Uh just
+one second guys here. You know that that
+classical sticky mouse. So like look at
+that. every single time RSI gets into
+the oversold uh sorry overbought in the
+4 hour it's the the Bitcoin dominance
+starts to roll down again which of
+course is beneficial for altcoins but
+again that doesn't mean that Bitcoin
+dominance is going to go down today or
+tomorrow of course there could be
+another couple of days higher but I
+strongly believe that by the end of the
+month Bitcoin dominance is going to be
+going down everything is going to be
+rallying again I truly believe that as
+crazy as it sounds because again these
+these liquidation events guys and
+everyone forgets this these liquidation
+events tend to be fairly short-lived and
+once they're over the recovery tends to
+be quick and we don't have to go very
+far back in time to see that. Remember
+guys, late September, that's exactly
+what we saw. A couple I think there was
+like two or three days of like uh
+multiple billion liquidations uh in that
+week of uh the late the last week of
+September, right? And again, literally
+within like a week's time or or roughly
+10 days time, Bitcoin is back to new
+all-time highs. So, just keep that in
+mind. It's me saying that something like
+that could happen again is not
+unprecedented. It literally happened
+like two weeks ago. Um so, anyways,
+going now guys to Ethereum on the
+weekly. So, this is where things of
+course also get, you know, there's
+there's there's some good news and
+there's some bad news. So the kind of
+good news is that Ethereum is still
+holding the Ballinger band moving
+average on the weekly. To me that is the
+most important level and actually I
+believe if I'm not mistaken just out of
+curiosity. I'll actually throw on the
+Ballingers here and we'll look on the
+weekly because I believe that uh Bitcoin
+also uh yeah so Bitcoin is now kind of
+like you know retesting the Ballinger
+band moving average on the weekly.
+Ideally Bitcoin will close the week
+somewhere in the 134,000 range. Ideally
+it would close the week in like 19,000
+but you know let's be realistic here. uh
+closing somewhere in like six 15 16,000
+that would be fine that would still
+foreshadow that next week would be
+bullish uh for Bitcoin and similar idea
+with Ethereum. It would be nice if
+Ethereum could close somewhere, you
+know, like just above 4,000. Uh that
+would kind of make this uh this week's
+candle kind of like neutral basically
+and like a continuation of this slow
+kind of grinding out like bull flag
+pattern which I do think is going to
+play out and I do think that by the end
+of the month Ethereum is going to be up
+you know whatever it is back up to 5,000
+5 a half thousand. Uh I do think that's
+possible. Again, is that guaranteed?
+Obviously not. But again guys, going as
+I was mentioning earlier on, it's like
+that huge liquidation that we saw in
+late September. How quickly Bitcoin and
+altcoins and everything rallied out of
+that liquidation that was literally just
+two weeks ago. We could see the same
+thing happen again, especially now that
+you know there's probably a lot of
+shorts piling on, a lot of people
+thinking it's it's over. Uh and u and
+all the longs have been completely
+liquidated. Like literally everything
+outside of Bitcoin, Ethereum, Salana has
+just been completely washed, which
+paradoxically some would say like that
+potentially gives like more advantage to
+smaller altcoins. But anyways, so the
+good news again here is that Ethereum is
+is still holding on. Like things are
+looking technically speaking, they're
+looking pretty okay. Uh but uh I mean
+we'll have to see how that weekly close
+ends. But of course the bad news is guys
+that you know if there is if this
+structure continues breaking here. Um
+it's not going to be good, you know,
+that's that's the fact of the matter.
+Like the the bad news is that Ethereum
+like got hit pretty hard. it was more
+resilient than all the other altcoins,
+you know, that took a huge hit. But, you
+know, I guess again good news that
+Ethereum could still close uh on the
+weekly like in a kind of bullish
+territory. The bad news is that, you
+know, the chances of that by no means
+guaranteed and it needs to literally
+happen in the next whatever it is 40 48
+hours roughly speaking. Um uh anyways
+guys, and then last uh last but not
+least, I do need to mention one thing
+that I find very fascinating, something
+that's definitely slipping through the
+cracks for everyone, uh is if you look
+at ETHBTC on the weekly, you can see
+that it also retested the Ballinger band
+moving average on the weekly. And it
+reminds me exactly of basically like a
+like a you could say like an inverse of
+what we saw in uh in late uh in late
+2024 where I do think that from this
+level, you're going to see ETHBTC
+continuing to climb higher. And then if
+we zoom out to the monthly, I do think
+that this pattern that we're seeing here
+is going to turn on into a bull flag on
+the monthly for ETHBTC. And by the end
+of this month, Ethereum is going to be
+rallying a lot. That is my personal
+opinion. Feel free to disagree in the
+comments. I know it sounds crazy with
+all the liquidations and everything
+going on. Bitcoin literally going down
+as I film this video. Uh but again, the
+fact of the matter is that everything is
+massively oversold, long overdue for a
+bounce. Whether that bounce turns into a
+recovery, that's something we're going
+to have to play by ear objectively
+speaking. Um, but of course my bias is,
+as you guys know, like I've been bullish
+for months and I'm going to continue
+being bullish because it's very simple,
+guys. Zoom out to Bitcoin on the
+long-term time frame here. Maybe I'll
+remove all these uh indicators here so
+you can get a a clearer picture, but
+literally like just zoom out to Bitcoin
+on the long-term time frame. Does
+anything here look bearish to you? Like
+I I don't see anything bearish here
+really in this chart. I mean, of course,
+depends on how the weekly closes, but
+maybe let's zoom out even more. Go to
+the monthly. Like there's there's
+nothing bearish about this. And in every
+single cycle, guys, Bitcoin leads and
+altcoins eventually follow. It's that
+simple. It's literally that simple.
+Bitcoin leads, altcoins eventually
+follow. That's the simple thesis that
+I'm working off of. I think that
+everyone would agree with that. And uh
+you know, when those altcoins are going
+to rally, how high they're going to go,
+that's definitely all up for debate. I'm
+not denying that. I do have my own
+opinions there. But I would say that
+objectively speaking, every single cycle
+we've seen so far, Bitcoin leads,
+altcoins eventually follow. When will it
+happen? How high how how high will those
+altcoins go? What will what will the
+exact level be for Bitcoin dominance in
+these short-term moves? That's something
+that's at the end of the day anyone's
+guess. But what is, you know, not
+necessarily guaranteed, but what history
+suggests is going to happen here is that
+altcoins will eventually catch up with
+this type of move. And people forget
+just how quickly that move can happen.
+Uh, so a little bit of hope for you guys
+there. But again, if you don't if you
+don't believe my analysis on any of this
+stuff, uh especially when it comes to
+how quickly Bitcoin could recover, then
+do check out this recent headline here
+from um from Cointelegraph where they
+basically interviewed a guy and he was
+saying, "Yeah, like in seven days, we
+could see Bitcoin rally and like recover
+by like 21% uh based on like, you know,
+historical patterns like we've seen
+after these liquidations uh you know,
+where uh where Bitcoin again just like
+at the end of September within a week or
+two roughly, Bitcoin is way is back at
+new all-time highs right when everyone
+was saying that everything is over. I
+think we're seeing a more extreme
+version of that right now. Uh and uh and
+yeah, guys, like you know, it's really
+tough. I I I can I can ad I can
+acknowledge especially anyone who was
+long basically anyone who was long here
+just got completely wrecked and I feel
+for you guys. And again, like I can't I
+can't give any like financial advice or
+anything like that. But if I was, you
+know, one of these like, you know,
+day-to-day traders, which as you guys
+can probably tell, I'm not like a day
+trader per se. I'm more like a swing
+trader. like I I have like a long
+position on Ethereum and a long position
+on a few other things, but it's it's
+it's nothing that is like, you know, at
+risk of some massive tail event like
+this. Um, so if anyone is in that
+position, one thing, the only thing I
+can say there is it looks like there's
+going to be a bounce here in the short
+term. Uh, I don't know if that's
+something worth playing and and if you
+guys think so, then definitely check out
+the link in the description. You know,
+we do have some exchange deals there.
+There might help take the edge off on
+some of those losses. Um, but uh, but
+anyways guys, yeah, if you did make it
+this far and you did find that
+information helpful, u, then be sure to
+smash that like button, subscribe to the
+channel, ping that notification bell,
+and I'll see you in the next one.

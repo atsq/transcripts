@@ -1,0 +1,375 @@
+Hey everyone and welcome back to another
+video for today. So AMD, Nvidia, other
+chipmaker stocks went down heavily on
+Friday. AMD for example went down 7.7%.
+Now as you know AMD right now year to
+date stock is up 78.4% with a huge move
+coming after that open AI deal. What's
+also interesting is that the average
+analyst price target suddenly sits at
+$218.
+Prior to the deal, the average analyst
+price target was around $160, $170.
+Sentiment of course is changing because
+well, the business profile of the
+company, the revenue profile of the
+company has changed because of that
+deal. But going back to the question,
+this China US trade war tariffs, is it
+an issue for a company like AMD? Is it
+an issue right now again for a company
+like Nvidia? Well, the short answer is
+no.
+Not really. Why is that? Well, because
+we know that the China business for both
+of these companies have already been
+hit. Literally, there is zero revenue
+coming from that right now. Guidance,
+they do not include any China revenue
+either. We've talked about that 3 months
+ago. The MI 308 or the H20 for Nvidia,
+they're not included in the guidance. So
+it is pure upside if and when they will
+recognize revenue coming from China. And
+so let's go over a couple of comments
+from both of these companies. Let's talk
+about well Lisa Sus comments on the open
+AI deal and not only the open AI deal.
+We're going to go over various analyst
+comments on both of these companies. So
+without further ado, sit back, relax,
+hit all the buttons. We really
+appreciate that. that you want to
+support me even further, do check out
+the link down in the description and in
+the pin comment to the top 10 best
+stocks to buy now or go to
+full.com/couchinvestor.
+Thank you very much. All right, so first
+up, let's have a look at the overall
+China exposure for AMD. Not just the
+MI38, but the overall China exposure for
+AMD. Last year, last fiscal year, that
+was 24.2%
+of revenue came from China. The year
+before that that was 15.1. This year we
+only get those numbers on a yearly
+basis. But you can already assume that
+this year as a percent of over revenue
+it is going to be a little bit lower.
+Now what did they tell us? What did AMD
+tell us before? Well AMD designed the
+MI38 accelerator to comply with earlier
+US performance limits for AI chips sold
+in China. However, with the new stricter
+licensing requirements, well, the MI38's
+business basically went down to zero.
+Then afterwards, they already announced
+that it's going to hurt the business.
+The new rule effectively banned sales
+without an explicit license leading to
+the $800 million inventory write down.
+The massive charge was for chips or
+parts of chips working process that AMD
+couldn't sell as planned. The single
+issue caused the 12% sequential decrease
+in data center revenue for Q2 2025. The
+total revenue hit from these
+restrictions is estimated to be even
+larger, potentially 1.5 to 1.8 billion
+for the full year 2025. And of course,
+this is what we've discussed previously,
+right? People are say, "Oh, look at this
+data center for AMD is coming down
+despite the overall industry growing.
+How is that possible?" Well, again, the
+China business. Now, what was important
+to note is that the affected inventory
+was work in process, which means even if
+a license were to be granted today, AMD
+can't ship it immediately. It will take
+a couple of quarters to turn those
+components into finished tested products
+and ship them out because the license
+approval is ongoing and the supply chain
+ramp up is lengthly. AMD's Q3 2025
+guidance excludes any revenue from the
+MI308 in China. And so again, I
+reiterate, no, the news it's just noise
+for now. Of course, we would love it. We
+would love it if the China business
+starts to grow again. Then as for
+Nvidia, well, Nvidia is a completely
+different story. If we look at the
+overall exposure to China, not just the
+H20, we can see here that well, the
+exposure to China peaked when well the
+overall business took a hit. So that was
+26.4%
+back in 2022 or fiscal 22. then 21.4,
+16.9, 13.1 and over the last 12 months,
+11.6%
+of overall revenue was China. Now, as
+you know, Jensen views China as an
+incredible important market. It's a huge
+market, of course, a market where you
+can make quite a lot of money. Now, they
+view this as a massive strategic
+necessity, estimating a $50 billion
+opportunity in this year alone. Their
+strategy to stay competitive amid the
+restrictions involves a few key moves.
+Now again, we've talked about this, but
+at the end of the day, if you don't get
+the license, you're not going to be able
+to sell your chips into China. Now,
+we've been talking about the H20, but
+they've also been talking about a scaled
+down Blackwell DB30A.
+Now, currently, same thing as AMD.
+Currently, nothing the China business is
+basically at zero. Okay. So, anything
+anything positive coming from there is
+going to be pure upside. Now, you might
+say, "Yeah, but still bad for the
+business." Yes. But I would say that now
+Nvidia, for example, AMD does get
+business from the UAE, Saudis, right?
+Okay. Yes, they also need some approvals
+here and there, which is what they got
+over the last couple of days. So, there
+are definitely other markets that could
+make up for the loss of the China
+business. But as you can see here, the
+China business for one year alone this
+year, $50 billion. $50 billion. I don't
+think either Nvidia or AMD would say,
+"Ah, actually we don't care about that
+market anymore." No, it's a huge market,
+a very very important market as well
+that both of those companies would love
+to sell to. The question here is when
+will that happen? Before moving to some
+analyst commentary to AMD particularly
+and some Nvidia as well, let's actually
+have a listen to what Lisa Sue had to
+say after the open AI deal was
+announced.
+>> You know, we have sized just the AI
+accelerator um TAM being, you know, over
+$500 billion in TAM over the next few
+years. I think some might say, you know,
+maybe I was a little conservative in
+that TAM analysis. Uh but the way to
+think about it is there's so much need
+from compute. I mean, you just heard it
+from Greg. So, you know, this is a huge
+pie and you're going to see the need
+for, you know, more players coming into
+it. And, you know, from my standpoint,
+um, uh, this is a a big validation of
+our technology and our capability. Uh,
+you know, as much as we love the work
+with OpenAI, we're working with a lot of
+other, uh, customers as well, there's a
+lot of excitement in the industry around
+MI450. So, we're ready for it.
+>> Let me replay that last part once again.
+>> You know, as much as we love the work
+with OpenAI, we're working with a lot of
+other uh, customers as well. There's a
+lot of excitement in the industry around
+MI450, so we're ready for it.
+>> And so, of course, right now, the big
+deal, the big announcement is AMD Open
+AI, but as she just said right here,
+there's a lot of excitement around the
+MI450.
+They're talking with a lot of other
+customers as well. So, yes, it's true
+that a lot of these moves, if not all of
+this move, is just because of the
+potential revenue that they could
+generate just because of that OpenAI
+deal. But I also think that because the
+MI400 series is completely different to
+what they've been releasing up until
+now, AMD is going to have a lot of other
+big customers, probably some cloud
+service providers as well. Moving on to
+some analyst comments here. Of course,
+all of them came after the announcement.
+So, a lot of them are raising their
+price target because, well, it is a
+gamecher, right? We've got here TD Cohen
+basically increasing their price target
+by 38.5%.
+Barclays by 50%. The key takeaways for
+both of those deals here are one 2027
+earnings could approach $10 under
+conservative assumptions. Fundamentals
+remain solid heading into earnings. Beat
+and raise is expected. The event focus
+here is on the 11th of November. This is
+the analyst day and of course OpenAI
+partnership is a big one right here. As
+for Barclay's OpenAI partnership
+designed to be mutually beneficial and
+drive stock higher, deal includes
+warrants issued at 1 gawatt intervals
+with final trench to $600 AMD stock.
+It's approximately a trillion dollars in
+market cap. It adds $4.5 billion
+quarterly run rate to the prior $3
+billion calendar year 26 estimate. EPS
+impact incremental $1.30 30 cent per
+quarter reaching $3 run rate total. So
+again here you can see it just changed
+the picture completely. So although we
+have seen the stock price go up just
+like with Neus it went up because the
+profile of the business has changed not
+necessarily making this name much more
+expensive because again it increases
+revenue it will increase earnings as
+well. Of course, yes, sometimes if your
+stock does continue to run up because of
+future anticipations, then yes, it will
+become way more expensive. Moving on
+here, Jeffre UBS also raising their
+price target. Jeffre actually raising it
+by 76.5%
+at the time of the release, $300 price
+target. Why is that? Again, the OpenAI
+announcement. basically an 80 to 100
+billion dollar increase in revenue just
+from that deal over the next couple of
+years. As for UBS, same thing here. It's
+the open AI announcement. All of them
+have raised their price target. I do not
+see a lot of well pricing multiples that
+they've changed, but maybe we'll hear
+more about that after the earnings
+report. Piper Sandler, Bank of America
+also raising their price target.
+Although Bank of America didn't raise
+their price target by quite a lot, but
+both of them talk about the other
+potential, right? Not just the OpenAI
+deal, but the potential of working with
+other CSP partners and how that could of
+course continue the growth here of AMD.
+In this case, Piper Sandler talks about
+the MI500 ship for 2027. already. Moving
+on to the last couple of ones, we've got
+one from Trourist, one from Stifel. Both
+of them again here raising the price
+target above 25% from the previous one.
+Trourist says validates AMD's shift from
+price check to credible AI data center
+partner. Calendar year 2027 EPS lifted
+to $925
+from $789,
+right? Previously, we've talked about
+that. Actually, AMD was previously
+trading at 20 times 2027 EPS. Well,
+since now EPS have gone up, well, it's
+not necessarily more expensive. And as
+for the stifl one, they say here,
+management hints at more such
+partnerships ahead. Yeah, I guess I'm
+not the only one thinking about that.
+Last one, Bank of America Securities
+raises the price target by 25%. and they
+previously had $200. Now that's $250.
+Price target raised following OpenAI
+partnership announcement. Multi-year
+multigenerational deals starting late
+2026. Of course, OpenAI received
+performance-based warns for up to 160
+million AMD shares. Now again, I know I
+know what everybody's thinking about
+here. Yeah, but what if OpenAI does not
+succeed? Yes, that is a risk for the
+whole industry because OpenAI does play
+a very important part here in this whole
+AI ecosystem. That is a big risk. Moving
+on to the Nvidia ones, we've got two of
+them here. Price target increases are of
+course way less than AMD, but still
+they're increasing the price target.
+They are seeing the following things. We
+have here Goldman Sachs and UBS. One has
+raised his price target because of
+updates on AI ecosystem and strategic
+partnerships, investment with OpenAI and
+others driving investor debate on deal
+structure. Potential circular revenue
+from equity finance GPU spent flags for
+scrutiny this whole flywheel. OpenAI's
+funding needs may reach $75 billion in
+2026 supported by equity and debt. And
+then Oracle's $18 billion debt raise
+shows traction in parterled funding. As
+for UBS, Taiwan September ADP exports
+were at 14.07 billion. That's down by
+16.3% month over month below seasonal.
+Second consecutive below seasonal
+September, followed by an increase of
+29% in August. This implies around $ 48
+billion exports for October, up 20%
+quarter-over-arter in line with Nvidia's
+approximately 22% model growth. Export
+data and Nvidia's results remain largely
+aligned this quarter and TSMC September
+sales were down 1.4% month overmonth,
+matching normal seasonality. positive
+catalyst year of sentiment. Macro
+indicators support inline data center
+growth outlook and as you know capex
+spending has been increasing quite a lot
+according to IDC there is about to
+increase by about another 21% in fiscal
+2026 to reach around $465
+billion. Now, as I've shown you in the
+past, the AI revenue as a percent of CSP
+capex, the estimated number for 2026 is
+that Nvidia is expected to lose share a
+little bit. Broadcom is expected to gain
+4 percentage points. AMD is expected to
+gain 5 percentage points, although that
+was before the OpenAI announcement. So,
+I would love it if we can get here a new
+estimate. And so right now what we're
+seeing here is that AMD is taking a
+little breather down 10% or so before
+the announcement. Of course AMD was
+around that 50-day moving average and
+then bam that exploded on the way up.
+Stock was of course extremely
+overbought. As for Nvidia stock was down
+around 5% from the peak. The 50-day
+moving average sits at $179
+uh this stock has also gone up
+consistently, right? Staying above the
+50-day moving average. Although
+sometimes it did drop below but didn't
+really stay under it for quite a long
+time. And so to conclude that's about
+it. The China revenue or the China
+business for AMD or Nvidia right now
+sits at zero anyways in their own
+guidance. So there's really no need to
+panic. There's a lot of upside
+potential. Yes, that is true. But I do
+also think that there is a lot of demand
+from other markets out there. So, if
+they're not able to sell their chips to
+China, they'll probably find ways to
+sell their chips somewhere else. So,
+overall, that's about it for me in this
+video. Enjoy this type of videos, hit
+all the buttons, and we'll see each
+other in the next one. Bye-bye.
+[Music]
+[Music]
