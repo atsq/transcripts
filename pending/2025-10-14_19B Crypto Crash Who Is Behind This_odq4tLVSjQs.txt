@@ -1,0 +1,218 @@
+On Friday the 10th of October, the crypto market 
+experienced its own Black Friday. In a matter of
+hours, over $19 billion was wiped from existence. 
+More than 1.6 million traders were liquidated,
+and it was all triggered by a single post on 
+social media. This was the largest liquidation
+event in crypto history, and it's left many 
+asking the same question. Is the bull market
+over? Is it over? Well, today we're going 
+to cut through the FUD and give you the full
+story. We'll break down the minute-by-minute 
+timeline of the crash and explain why it was
+so devastating. We'll dive into the geopolitical 
+chess match between the US and China that lit the
+fuse. And we'll examine the mounting evidence 
+of insider trading. Most importantly though,
+we'll tell you what this means for Bitcoin, 
+altcoins, and your portfolio as we head into a
+very uncertain week. My name is Guy and you're 
+watching the Coin Bureau. First up though,
+I'm not a financial adviser and nothing in this 
+video should be considered financial advice. This
+is educational content meant to inform you about 
+the recent crypto market crash and its potential
+implications. If that sounds good, hit that like 
+button and let's get into it. Let's get to it. So,
+to understand the sheer violence of this crash, 
+we first need to set the scene. Early last week,
+the market was pretty euphoric. Bitcoin had just 
+printed fresh all-time highs above $126,000 and
+sentiment was overwhelmingly bullish. By Friday 
+morning, BTC was still trading comfortably above
+$122,000. But behind the scenes, the geopolitical 
+tectonic plates were shifting. On Thursday
+the 9th of October, China announced new 
+export controls on rare earth minerals,
+a critical component in everything from iPhones 
+to F-35 fighter jets. This was a strategic power
+play by Beijing and it did not go unnoticed. On 
+Friday morning, President Trump fired his first
+warning shot on Truth Social, threatening a quote 
+massive increase in tariffs on Chinese goods. This
+initial threat was enough to rattle the markets 
+with Wall Street's fear gauge, the VIX, soaring
+32%. And Bitcoin began to bleed, dipping from 
+the $122,000 level to around $117,000. But that
+was just the appetizer. The main course arrived 
+later that afternoon. In a second decisive post,
+Trump declared that the United States would 
+impose a 100% tariff on all Chinese imports,
+quote, over and above any tariff that they are 
+currently paying. Trump hit the send button and
+the floor fell out of the crypto market. Bitcoin 
+fell $3,000 almost instantaneously, but that was
+just the beginning of a historic liquidation 
+cascade. Within hours, BTC flash crashed to
+lows of $14,500, even touching $12,000 on some 
+exchanges. In a single day, the world's biggest
+cryptocurrency had dropped by $20,000. Altcoins, 
+meanwhile, were absolutely eviscerated. Ethereum
+plunged 21% from its highs, while majors like XRP, 
+Salana, and Dogecoin crashed between 20 and 30%.
+Others like Cardano, Chainlink, and Ave fell 
+as much as 40%. So then why was this crash so
+incredibly severe? Well, it was the perfect 
+storm of extreme leverage, very poor timing,
+and failing infrastructure. For weeks, leverage 
+had been building up to precarious levels. Just
+before the crash, Bitcoin open interest had surged 
+to a record high of over $94 billion. Think of it
+like a skyscraper built on shaky foundations and 
+Trump's post as the earthquake that brought the
+whole structure down. The announcement also hit 
+on a Friday afternoon, a period of notoriously low
+liquidity when traditional markets are closing. 
+This created a domino effect. As the price fell,
+leverage long positions were automatically force 
+sold by exchanges. These massive sell orders push
+the price down further, triggering even more 
+liquidations in a vicious downward spiral. In
+total, a staggering $19.1 billion in leverage 
+positions was wiped out in just 24 hours. Now,
+to put that into some perspective, the infamous 
+COVID crash of March 2020 saw just $1.2 billion
+in liquidations. The FTX collapse triggered around 
+$1.6 billion. So this event was nearly 20 times
+larger than the COVID panic and it impacted over 
+1.6 million individual traders. The carnage was
+amplified by the very exchanges meant to provide 
+stability. High-profile traders reported that
+major platforms like Binance, Coinbase, and 
+Robin Hood experienced technical issues with
+order books freezing and stop-loss functions 
+being disabled at the most critical moments.
+So this technical failure turned a sharp 
+correction into an allout market collapse. Now
+while Trump's post was the trigger, he claimed the 
+move came quote out of the blue. But in reality,
+this trade war has been bubbling up for 
+months. The core of the dispute revolves
+around long-standing US grievances over unfair 
+trade practices and intellectual property theft by
+China. Trump's second term has seen him reignite 
+this conflict with a vengeance. And China's latest
+move to restrict rare earth minerals was a direct 
+shot at a key US vulnerability. An attempt to gain
+leverage ahead of a planned meeting between Trump 
+and President Xi at the Apex summit at the end of
+this month. Trump publicly embarrassed after 
+previously claiming the rare earth issue was
+quote done, retaliated with his signature move, 
+massive unpredictable tariffs. It's a highstakes
+game of geopolitical brinksmanship and the crypto 
+market just got caught in the crossfire. But the
+sheer perfection of the timing of this crash has 
+led many to suspect something more sinister than
+just a geopolitical spat. So was there insider 
+trading? Well, the evidence is compelling. On
+the derivatives exchange Hyperlquid, one whale 
+wallet executed a series of perfectly timed trades
+that netted them a reported profit of nearly $200 
+million. Blockchain analysis shows this trader,
+identified as a Bitcoin OG, who has held coins 
+since 2011, began building massive short positions
+against BTC and ETH just days before the crash. 
+Then they doubled down on these shorts just 30
+minutes before Trump's tariff announcement. This 
+uncanny timing has led to rampant speculation.
+Was this simply a savvy macro trader reading the 
+tea leaves or did someone get an early whisper
+of Trump's plan? Prominent crypto attorneys are 
+already calling for a full investigation. And hey,
+who can blame them? So, with the market in 
+turmoil, the multi-billion dollar question is
+where do we go from here? Can Bitcoin and altcoins 
+recover? Well, let's start with the good news.
+Despite the chaos, Bitcoin held the critical 
+$100,000 support zone. After a brief dip below
+$12,000, it quickly bounced back and has since 
+stabilized in the $110 to $113,000 range.
+So this tells us that the crash was primarily a 
+derivativesled leverage flush, not a fundamental
+breakdown in spot market conviction. In fact, 
+onchain data shows that institutions saw this
+as a massive buying opportunity. Black Rockck's 
+spot ETF reportedly scooped up over 21,000 BTC mid
+chaos, and XRP Wales added over a billion tokens 
+to their bags during the dip. This suggests that
+the smart money believes the long-term bull 
+run is still very much alive. The fundamentals
+have not changed. Only sentiment and leverage 
+have. This event has brutally reset the market,
+clearing out the excessive greed and creating a 
+much healthier foundation for a sustainable climb.
+However, that said, the path forward is far from 
+certain for altcoins. Meanwhile, the picture is
+a lot more concerning. The carnage was so severe 
+that many are asking if altcoin season is now over
+before it even truly began. The altcoin season 
+index has fallen to 55, well below the 75point
+threshold that signals a true alt season. Bitcoin 
+dominance has spiked as capital has fled to the
+relative safety of the king. This doesn't mean 
+altcoins can't recover, but it does suggest that
+the days of everything pumps are likely behind 
+us. The next alt run will probably be much more
+selective driven by specific narratives like for 
+instance AI real world assets or upcoming spot
+ETF approvals for tokens like Salana and XRP. And 
+this brings us to the single biggest variable that
+will dictate the market's direction for the rest 
+of the year and beyond. Donald Trump. The entire
+recovery timeline is now dependent on geopolitical 
+headlines. When are these trade issues likely to
+be resolved? Well, the short answer is nobody 
+knows. Trump has set a 1st of November deadline
+for the tariffs, which does provide a few weeks 
+of negotiating room before the apex summit on the
+31st of October. And history shows us that Trump 
+often uses extreme threats as a negotiating tactic
+before later backing down. A strategy some have 
+called the taco trade. Trump always chickens out.
+So he could very well walk back these tariffs 
+in exchange for a concession or two from China.
+However, his first trade war from 2018 took a full 
+18 months to reach a phase 1 deal. Investors must
+now price in the risk that this could be a long 
+drawn out conflict. If trade tensions persist,
+the crypto sell-off could evolve into a broader 
+macro correction. If they ease, we could see a
+powerful relief rally. The market is now hanging 
+on every tweet, every headline, and every rumor.
+So, to wrap it all up, the shocking crash on 
+the 10th of October was triggered by Trump's
+100% tariff threat on China, but it was fueled 
+by the most extreme leverage buildup in crypto
+history. This created the largest liquidation 
+event ever recorded, wiping out over $19 billion
+and affecting more than 1.6 million traders. While 
+the evidence of insider trading is highly suspect,
+it remains unproven. The good news is that the 
+structural bull market drivers remain intact.
+Institutional players bought the dip and the crash 
+served as a much needed leverage reset. However,
+the recovery is now hostage to the whims of 
+geopolitical negotiations. The path forward
+will be volatile, unpredictable, and entirely 
+dependent on headlines. The bull market is not
+over, folks. But the rules of the game have 
+changed. The rules have changed. And if you
+want to learn more about how market manipulation 
+can cause events like this, then you can watch
+our video on that right over here. And if you 
+want to understand the crypto market cycles
+that could still propel us higher, then check out 
+our deep dive on that right over here. As always,
+thank you all for watching and I'll see 
+you again soon. This is Guy signing off.

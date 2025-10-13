@@ -1,0 +1,312 @@
+Today I am putting absolutely everything
+on the line for you guys and putting
+myself potentially in harm's way to
+expose something that happened which I
+believe to be either the most gross
+negligence the world has ever seen or
+some of the most insane market
+manipulation we have ever witnessed in
+our entire lives in the crypto industry.
+Now unless you live under a rock you're
+probably aware that XRP went down to
+$120 per coin. Bitcoin went from 120,000
+to 102,000 per coin and many other
+cryptocurrencies lost somewhere around
+anywhere from 60 to 90% of their value
+in a very short period of time just to
+rebound very quickly. And today I'm
+going to expose why Binance was at the
+core of this, what they could have
+actually done to stop this, and why I
+think that they actually didn't stop
+this and they actually profited
+immensely off of what just happened.
+What we've seen here was the most amount
+of liquidations the crypto market has
+ever seen in a 24-hour period of time by
+a massive amount. We're not just talking
+about like by like 2x or 3x. This is
+more than 10x the amount of liquidations
+we've ever seen in a 24-hour period of
+time in crypto history. This is the
+single largest liquidation event the
+crypto market has ever seen and probably
+the largest liquidation event the world
+has ever seen. This is absolutely
+insane.
+So, the actual number is much larger
+than I thought it was. It was just
+reported on this morning. There was over
+16.8
+billion worth of cryptocurrency longs
+liquidated in the past 24 hours. And I
+know what some of you guys might say,
+like, oh yeah, if you're trading
+leverage, you deserve to lose or if
+you're trading leverage, you're taking
+that risk. But the problem is when the
+market makers are actively rigging the
+markets and doing things to liquidate
+people to their benefit, this is not a
+fair market anymore. This is no longer
+decentralized. This is a market that
+serves the top 0.1% elite who are making
+billions of dollars at the cost of
+everyone else. all of the retail traders
+who do not have the inside information,
+who are not able to open up these shorts
+before Trump makes this tariff
+announcement, who have nothing to do
+with the market makers and can't submit
+trades because they're getting locked
+out of their exchange. This is not okay.
+So, Binance released a statement on this
+which I am not at all happy with. What
+they simply said is due to heavy market
+activity, our systems are under high
+load. Some users may experience
+intermittent delays or display issues.
+We're actively monitoring the situation
+and working to resolve it. Funds are
+safe. Thank you for your patience. Now,
+I want to remind you guys that they are
+saying this during a period of time
+where XRP is going to $1.20 per coin
+when it was trading at 280 within like
+just an hour before. People are losing
+billions of dollars at this moment. And
+this is the corporate mumbo jumbo that
+Binance is spewing on their account. And
+Binance could have been taking action at
+this time in order to stop these
+liquidations from happening, but they
+were not. And I'm going to explain
+exactly what they could have done and
+what they didn't do.
+So, as the dominant exchange and
+liquidity provider, Binance had tools to
+blunt this liquidation event. They
+should have acted faster, but the
+overload caught them flatfooted. Here's
+what they could have done and in some
+cases did but just way too late. Deploy
+proactively based on their own risk
+policies and past events. So there's
+something called, you know, a proactive
+trading halt or suspension. This is
+something that major stock exchanges do
+because it actually helps allow uh, you
+know, things to, you know, things like
+this not to happen. If people are unable
+to buy a crypto asset when it's losing
+like 80% of its value over the course
+of, you know, 45 minutes, there's
+obviously something wrong with that
+market because there are people that are
+actively able to trade that, but these
+people are probably insiders, right? And
+so basically what you're seeing is
+people that are outsiders like you and
+me, we get no opportunity to buy the
+dips or do anything while these other
+people are able to. And there are other
+people who have massive amounts of
+capital who are able to massively
+manipulate the market and liquidate
+people because they can sell massive
+amounts or open up huge shorts and just
+completely destroy the long positions in
+that period of time cuz nobody's able to
+submit any trades at all.
+So basically what this does with a
+proactive trading halt is it pauses
+future and spot for volatile pairs. For
+example, you could do this for Bitcoin,
+Ethereum, every single cryptocurrency.
+and it freezes the order flow and
+prevents cascades from DPEGs and gapped
+prices and gives times for them to fix
+the oracles in order to ensure price
+stability. There's also something called
+dynamic margin hikes and circuit
+breakers which would essentially auto
+raise margins from 5% to 20% or trigger
+a 2 to 10 minute pause on greater than
+10% moves. This is something that you
+see happen in the stock market actually
+quite frequently and this saves retail
+investors and institutional investors in
+case of insane things happening which
+the stocks can't handle. This
+essentially reduces leverage exposure
+before dumps and throttle throttles over
+optimistic longs like the 16.7 billion
+that were liquidated here. There's also
+the potential to do liquidity injections
+from reserves which would uh basically
+be pump insurance fund or market maker
+quotes to tighten spreads and DPEGs. Uh
+and then they could have done API engine
+throttling tweaks and cross margin
+safeguards. But the fact of the matter
+is they should have had proactive
+trading halts and suspensions, dynamic
+margin hikes and circuit breakers active
+before any of this happened. But they
+didn't. And this is the one market maker
+that virtually every single exchange
+uses. If you're trading on Coinbase,
+BTCC, Bitex, all of these top exchanges,
+you know, they're basically using
+Binance's liquidity for these trades to
+happen. They are the market maker,
+right? They are the guy that pretty much
+everybody goes to in the crypto space.
+And so, if they're not working properly,
+all of these exchanges are also not
+working either. And this creates an
+absolutely abysmal cascade effect where
+everybody is getting screwed over. And
+the issue with this is that there's
+nothing that we can do about it. The
+only person that can actually remedy the
+situation is Binance. Do you think this
+$16 billion just disappeared from the
+markets? No. It went over to people that
+opened up shorts that people were
+actually able to trade during this
+period of time. People that actually
+were able to close positions at this
+period of time. But 90% of you guys
+watching this, if you're trading on any
+of the top 10 exchanges, were not able
+to do any of that. I was trying to log
+into my exchange 10 times over the
+course of this period of time and I was
+unable to do it. I had to just watch my
+order get liquidated and I was unable to
+log in and do anything about it. And
+this is the case for many other people
+as well. Some people were able to log in
+but they weren't even able to close
+their position. So they just had to
+watch themselves get liquidated or some
+people were able to log in but the chart
+wouldn't load, their trades wouldn't
+load because of all of the massive
+amounts of uh activity happening in the
+markets. And probably the most insane
+thing about all of this is when we look
+at the charts, what we can see is there
+was a massive sell-off people. You know,
+there's a massive massive sell. I mean,
+look at this. Look at this. In 45
+minutes, there's three candles right
+here. There's one candle right here for
+XRP down 7% there. Another candle right
+here down 8%. This candle right here. In
+these this 45 minutes right here, we
+went from 269
+down to 219
+down to $120 on most exchanges for for
+XRP.
+We're losing like 60 70% of our value in
+like an hour of trading. That is insane.
+And then what happens immediately
+thereafter is we have this insane candle
+going all the way back up to 280
+instantly. Just like that.
+Tell me how that is okay. Tell me how
+that is fair. Nobody was able to buy
+this dip. And the people that were were
+basically the market makers and other
+people that were rigging the markets.
+And now these people are not even
+addressing the situation. They just made
+billions of dollars off of the backs of
+all of us. There were whales that opened
+up shorts and made hundreds of millions
+of dollars right over here. In fact, I
+want to show you one of those right now.
+So, here is one example of a whale we
+can track only because they were doing
+this on an open source deck where you
+can see on Hyperlid. This was just
+publicly on Hyperlid, right? And this
+guy basically uh closed 90% of his
+Bitcoin position short and fully closed
+his Ethereum short, making around $190
+to $200 million in profit in just one
+day. The crazy part is that he shorted
+another 9 figures worth of Bitcoin and
+Ethereum minutes before the cascade
+happened. And this was just publicly on
+Hyperlquid. Imagine what centralized
+exchanges could do when those
+transactions are completely hidden. This
+is what I'm trying to tell you guys.
+These guys just rigged the market. And
+there were people publicly opening these
+shorts right before Donald Trump's
+tariff announcement. Right before all
+these exchanges started to collapse,
+baking hundreds of millions of dollars
+publicly. Like they're not even hiding
+it. Imagine what they're actually
+hiding. We're talking about these people
+just making billions of dollars off of
+the back of the entire crypto industry,
+completely rigging the markets in their
+favor. And this is why I think that
+people are not angry enough. This is why
+I think that people are not, you know,
+putting enough pressure on Binance right
+now. This is not fair. This is just
+simply completely corrupt and we need
+some kind of change. If you agree with
+that, please hit that like button so
+more people see this video. And also,
+um, I am actually working with my
+partner exchanges, both BTCC and Bit
+Unix, in order to refund as many of you
+guys as possible who are negatively
+impacted by this. Cuz unfortunately,
+these smaller exchanges like BTCC and
+Bitnix, they have no choice but to use
+the market maker Binance, right? And so
+what these guys have done, they've said
+to me, "Listen, Levi, we want to help
+reimburse your users who are negatively
+impacted cuz a lot of these exchanges
+you couldn't log into, you couldn't even
+access, you couldn't even open trades.
+So if you guys signed up using my Bitex
+link or my BTC link, please make sure
+you get into my Discord, okay? You just
+simply enter in your info right here. If
+you already signed up using my link, but
+you have to have been on my link for
+this. I can only help my users." So, if
+you sign up using Milink for Bit Enix or
+BTCC, you know, enter your information
+into this form here. Get into my
+Discord. I have a a sheet in there, a
+Google sheet to fill out. I'll show you
+guys right here so that you guys uh can
+help get reimbured here. I'm sending
+this over to my contacts at the
+exchange. Um, and they're going to of
+course help you guys out, okay? So,
+please do that if you sign up using my
+link. Um, and I'm gonna help as many
+people as possible throughout this
+process. You know, I I feel terrible for
+everyone who is in affected by this, but
+we got to do something, and that's why
+I'm making this video. Thank you
+everyone uh for watching. Please
+remember to like, comment, and subscribe
+so more people can see this video, the
+word can be spread out there. Let's help
+as many people as possible. Thank you
+guys for watching. Much love. Peace out.
