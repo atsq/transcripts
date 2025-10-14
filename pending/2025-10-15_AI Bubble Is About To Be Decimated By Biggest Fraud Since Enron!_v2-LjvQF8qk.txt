@@ -1,0 +1,812 @@
+There's an AI bubble right now, but the
+problem is everyone is talking about the
+bubble wrong. It's not a bubble just
+because the companies are overvalued.
+It's not a bubble because AI isn't
+actually going to change the world. It's
+a bubble because new technology is
+really hard to interpret and the biggest
+bubbles in history have followed a
+pattern that AI is following dead
+straight right now. This bubble is tens
+of trillions big and it is going to
+burst. And in this video, I'll do my
+best to explain what is actually going
+on. how a technological bubble actually
+works, how it's different from a
+financial bubble, what happens when it
+bursts, and what you need to do to
+protect yourself from all of this as
+well. Now, let's start off with the
+basics here. There is a bubble in AI
+valuations, and I'm just going to prove
+it to you really, really quickly doing
+two things. First of all, taking a look
+at the valuations themselves, and then
+by taking a look at the circular
+investments, which are inflating the
+data that investors are out there
+looking at. So, right off the bat, it's
+not going to surprise you when I say
+that the S&P 500 is overvalued right now
+by pretty much any metric, right? Its PE
+ratio is about 28 right now. The forward
+PE ratio is about 24 right now. Both of
+those are well well above their historic
+averages between 10 and 20. The Schiller
+PE ratio of the S&P 500, which is
+basically a more useful look at price to
+earnings for the S&P because it's
+inflation adjusted over the previous
+10-year period. Well, that shows that
+the S&P is even more overvalued. As you
+can see from this graph right here now,
+it's currently sitting at 39, the second
+highest it has been in human history
+ever since stock markets have existed.
+And it's beaten only by the absolute
+peak of the dot bubble, which obviously
+burst and led to a massive recession.
+Now, every single time the Shilipe has
+been above 30, there has been a bubble
+and a crash. From the Great Depression
+over here all the way over to the COVID
+crash just a couple of years ago. But
+more specifically than just the S&P 500
+being overvalued and that indicating
+that there is an AI bubble, it's that of
+the Magnificent 7. The seven companies
+which have been dominating the global
+stock market the last couple of years.
+Apple, Google, Microsoft, Amazon, Meta,
+Nvidia, and Tesla. But frankly,
+everything we're about to say about the
+Mag 7, well, that can be repeated across
+all of the massive AI hyped companies
+like Oracle and AMD, ASML, and TSMC.
+Now, how much of the S&P 500 is made up
+of these seven supposedly magnificent
+companies? Well, right now, this graph
+shows exactly that. This red line here
+shows you the percent of uh the S&P 500
+which is made up of those top seven
+companies and it's rising rising rising
+as you can see consistently over the
+last few years peaking at about 35%
+right now. That means that of the $55
+trillion of wealth within the S&P 500
+right now that's split up between 500
+companies, so it's supposedly really
+well diversified. Well, about $21
+trillion of that or 35% of all of that
+value is in just seven companies. And
+this is obviously the most concentrated
+that the stock market has ever been
+before in human history. Now, as a
+result of that, when you invest into the
+S&P 500 right now, you buy into your
+index fund or into your pension fund and
+you know that goes into the index fund.
+Onethird of your money is going into
+these mag seven companies. So, how are
+they valued? What's the say forward
+price to sales ratio for the Magnificent
+7? Well, right now it's about eight,
+which is against 2.5 for the rest of the
+S&P 500. So about 250% higher than the
+rest of the market, which we know is
+already overvalued itself. Okay, then
+what about forward price to earning
+ratios? Well, for the S&P 500, that's
+about 20, just above 20 at the moment,
+compared to 30 for the Magnificent 7. So
+about 50% higher than the rest of the
+market. Again, even more overvalued. But
+what about something like growth or or
+the growth in valuation or share price
+of Magnificent 7 stocks in general since
+this AI bubble started? Well, it's been
+about 20 times higher than that of the
+S&P 500 itself over the last 2 years.
+And not a single one of the Magnificent
+7 companies grew slower than the rest of
+the index. Now, the real big indicator
+that yes, there is an overvaluation
+within these markets based on this AI
+hype all comes down to the estimated
+addition to market cap of S&P 500
+companies from AI ever since this bubble
+started about 3 years ago when chat GBT
+was first released. Now, in essence,
+there is an estimated pickup of 20
+trillion US in market valuation from AI
+alone over the last few years. The S&P
+500 was worth about $32 trillion when
+Chat GBT was released and this craze
+really started. Now 3 years later, it's
+worth 57 trillion with only about 5
+trillion of that or about 20% actually
+being attributable to the nonAI
+companies rising in value over the last
+3 years. So AI has added $20 trillion to
+the S&P 500's market cap in 3 years. Now
+what is that brand new $20 trillion
+worth of value based off? You know how
+much revenue has been created and booked
+on these companies to justify an
+increase in $20 trillion? Well, not
+really as much as you'd think. Revenue
+for the Magnificent 7, for example, has
+been growing by about 15% year-over-year
+for the last 3 years combined. That's
+about a 50% uplift over the last 3
+years. This here is an index on CNBC of
+the Magnificent 7's market
+capitalization over the last three
+years. Though it's indexed at zero,
+right when Chat GBT was released at the
+end of 2022 at 100 here. 3 years later,
+it's sitting at 396,
+peaking even above 400. So valuations
+have been growing for Mag 7 companies by
+about 60% per year for 3 years. That's
+300%
+increase in market valuation over the
+last three years combined for the Max 7
+based on revenues going up by just about
+50%. Now, we are finally at a point
+where the hype is getting too much for
+even sane investors to stomach and
+they're starting to speak out. We see
+this article here detailing how Morgan
+Stanley's top analyst is very concerned,
+literally quote, very concerned by the
+growth of this AI bubble. We've even
+seen it go further with the Bank of
+England, the central bank of the United
+Kingdom coming out and saying that we
+are in an AI bubble and that it could
+take down the global economy. And of
+course, we have the managing director of
+the International Monetary Fund also
+warning about this whole problem as
+well. So, I think it's clear that there
+is without a doubt a bubble regarding AI
+here, and that does go some way in
+explaining why so many investors are
+getting worried and returning to safe
+haven assets like gold instead. Now,
+we're seeing record gold prices around
+$4,000 per ounce and billionaire hedge
+fund managers, including Ray Dalio,
+comparing today to the mid1970s and
+advising us to earn more gold than
+usual. Billionaire fund manager and bond
+guru Jeff Gundlak is saying that having
+25% in gold isn't even excessive. This
+year has been a seismic shift in gold,
+silver, and copper which are very near
+their record highs as well. And for this
+new bull market, I'm profiling a gold
+and copper exploration and development
+opportunity on US soil. The sponsor of
+this video, who I've spoken about
+before, US Gold Mining Inc., ticker
+symbol USGO on the NASDAQ. Now, what
+transpired last week is one of the most
+pivotal moments in the history of mining
+in Alaska. In my view, President Trump
+announced that the administration is
+acting on their executive orders
+regarding mineral resource opportunities
+in Alaska. They gave approval to the
+Amler Road project, a proposed 211 mile
+road intended to connect the remote
+Amler mining district to the Dalton
+Highway. Now, this road is a key piece
+of infrastructure to unlock access to
+the mineral resources in the central
+north of Alaska. The important thing
+here is the market signal and this is
+why I think you should take a look at US
+gold mining. Alaska is clearly important
+for Trump's administration. He issued an
+executive order on day one of his
+presidency called unleashing Alaska's
+extraordinary resource potential. He
+then issued a second executive order
+called immediate measures to increase
+American mineral production. These
+executive orders direct government
+agencies to maximize mineral production
+in the US including copper and gold. And
+in addition to federal support, state
+support couldn't be any stronger either.
+The governor of Alaska has visited US
+gold mining's project, Governor Dun Levy
+is a strong proponent of economic growth
+and the infrastructure to support mining
+in his state. The Whistler project
+mineral resource estimate comprises 294
+million tons at 68 g per ton gold
+equivalent for 6.48 48 million ounces of
+gold equivalent indicated plus 198
+million tons of 65 g per ton equivalent
+for 4.16 million ounces gold equivalent
+in third. Now, you should review US gold
+mining's latest annual report on form
+10K and the technical report summary
+incorporated in it and it's Canadian
+technical report titled NI43-101
+2024 updated mineral resource estimate
+for the Whistler project South Central
+Alaska with an effective date of
+September the 12th, 2024 for information
+on the company, the project and the
+mineral resource estimate. These are all
+available under US gold miners profile
+at www.sec.gov
+and www.cedaplus.ca.
+Now US gold mining has a really unique
+ownership structure as well. 78% of the
+outstanding shares are held by the
+parent company and another 4.5% are held
+by management and insiders. So more than
+80% of the shares are very tightly held.
+A pivotal catalyst is now underway as
+well which is why I'm telling you about
+US gold mining. We just had a historic
+Fed rate cut cycle start. Gold is
+trading at all-time highs and Trump's
+administration has issued two executive
+orders on Alaska and the state is moving
+forward with a road system, the west of
+Sitna access project to connect the
+Whistler project with Anchorage. And now
+US gold mining has begun the process of
+a preliminary economic assessment, a
+study which reviews economic factors and
+the timing couldn't be any better with
+gold about $4,000 per ounce and copper
+around $5 per pound. Of course, do your
+own research and due diligence, but make
+sure you review US Gold Mining's annual
+report and their other filings with the
+SEC when you research this opportunity,
+and I'll leave some links down below in
+the description for you. But definitely
+take a closer look at US Gold Mining,
+Inc. trading under USGO on the NASDAQ
+today. Okay, so why is the risk of a
+bubble so huge within this AI space
+completely ignoring just the pure
+valuations right now? Well, it's all
+because of excessive hype and the
+ridiculous levels of what we call
+circular investments, which are giving
+the illusion of an incredibly mature and
+profitable AI business market. Now,
+what's a circular investment? Really
+simple. It's something like company A
+buys a product from company B. Company A
+buys shares of company B and becomes a
+shareholder. And then company B buys
+shares of company A and becomes a
+shareholder. And so revenues for company
+A benefit shareholder company B which
+benefit company A and company B. And it
+goes around and round all over. A
+traditional example would be something
+like Porsche and Volkswagen, the
+European car makers. VW is a car brand
+just like Audi and Porsche and Bentley
+and Lamborghini, and they all make their
+own cars and sell them to customers. And
+then Porsche AG is the actual company
+that owns the brand Porsche. And then VW
+AG is the company that owns Porsche AG
+and the other car brands. And Porsche SE
+is a holding company that owns both
+Porsche AG and VW AG. But there's all
+sorts of different revenue streams that
+are split between the companies. And
+it's this really messy, convoluted mess
+basically. But what we're seeing now in
+2025 and actually for the last couple of
+years is a ridiculous degree of circular
+investments within the AI space. And
+there are loads and loads of really big
+players in the aerospace. Some are doing
+more AI than others and most are doing
+slightly different things, but they're
+all very related. And the big players
+that I think are most important here are
+OpenAI who make the actual AI software
+that does that supposed thinking. You
+then have companies like Oracle who are
+building big data warehouses full of
+computers basically that the AI can
+actually run itself on and do the
+processing power. Then you have Nvidia
+or other competitors to Nvidia who are
+making the hardware computer components.
+They're called GPUs that a company like
+Oracle uses in their massive data
+centers for running the AI that's made
+by OpenAI. So you see we're starting to
+get into the length of this supply chain
+here and why there are so many big
+companies in this space. Then we have a
+company like TSMC who are making the
+microchips that go into the GPUs that
+Nvidia make for Oracle to use to run the
+processing for the AI that's made by
+OpenAI. And then we have ASML which is
+the company that makes the machines that
+TSMC use to make the microchips that
+Nvidia use to make the GPUs that Oracle
+use to run the processing for the AI
+that open AAI use to actually run the
+AI. So we have a really really long
+complicated supply chain there and there
+are sort of five degrees or levels of AI
+boom going on right now and there's a
+load of big players at different stages
+here but say open AI they're worth about
+500 billion right now Oracle about 850
+billion Nvidia 4.5 trillion TSMC 1.2 2
+trillion and ASML about 400 billion. All
+of them in pure number today. Just pure
+figures alone are overvalued with PE
+ratios as high as 50 for Nvidia or
+literally infinite for OpenAI since
+they're losing, you know, $20 billion or
+so a year and not making any earnings.
+But the reason I say this is all
+circular is because a lot of the revenue
+and the massive deals that are being
+signed by these AI companies are
+actually coming sort of from themselves
+and from other AI companies in this
+great big incestuous mess. They all sort
+of inflate each other trading money on
+paper between each other. And so they're
+inflating revenue and then they're
+inflating their earning potential and
+causing their market caps to rise based
+on hype and speculation. But none of it
+is really real. So, what's an example of
+this? Well, OpenAI signed a great big
+deal and they agree to use tens of
+billions of dollars worth of AI chips
+from AMD, a competitor to Nvidia. And
+AMD gets to invest into OpenAI and
+become a 10% shareholder, so one of the
+biggest shareholders in the company. So,
+AMD gets out of this an extra $50
+billion in revenue over the next few
+years. And their market cap jumps by $60
+billion on this news alone at 34% in a
+single day. Open AAI then they basically
+sell those shares to AMD as AMD becomes
+a new 10% shareholder and it uses AMD's
+own money to buy stuff from AMD. So
+OpenAI basically gets $50 billion worth
+of computer chips for free and AMD
+basically gets to buy 10% of a $500
+billion company for free. And so they
+both somehow end up $50 billion up and
+both of their valuations skyrocket as a
+result even though nothing's really
+improved for them. We then have Nvidia
+announcing a partnership with Open AAI.
+Now Nvidia with this partnership can
+invest up to hundred billion into OpenAI
+over time. And OpenAI will use that
+hundred billion in investment to buy
+GPUs from Nvidia. So Nvidia gets to own
+part of a huge company. Open AAI
+basically gets to end up with hund00
+billion worth of computers for free and
+Nvidia ends up with an extra hundred
+billion in revenue. So both companies
+skyrocket in value based on that news.
+Then we have a company like Coreweave
+which is another new AI company that
+competes with Oracle. Basically they're
+running big data centers for AI and
+they're funded using some debt from
+Nvidia's GPUs as collateral. So if they
+don't repay this debt then they lose the
+GPUs which are worth billions. Now
+Nvidia also own shares of Coreweave and
+Nvidia have another deal with Coree to
+use any of its spare capacity computing
+power for years into the future. So
+Coree is buying GPUs from Nvidia secured
+against the GPUs from Nvidia to buy more
+GPUs from Nvidia and Nvidia owns part of
+Coreweave. So coreweave grows its
+revenue and its valuation as a result
+and Nvidia grows its re revenue and its
+valuation as a result as well. Now this
+expands far beyond just the companies
+I've mentioned so far. Microsoft is a
+part owner of OpenAI and OpenAI by chips
+from Nvidia who work in close
+collaboration on cloud processing with
+Microsoft. Nvidia designs its chips.
+TSMC actually builds them. ASML actually
+build the machines that are needed to
+build those chips. One company buys GPUs
+from India and suddenly the market caps
+of all three of those companies jump up.
+We have Oracle running that cloud
+infrastructure using GPUs boosting
+revenue valuations for Nvidia, AMD.
+Oracle partners with other AI startups
+and gives them cheap access to cloud
+infrastructure to run their AIs and then
+Nvidia invests into those AI startups
+and then they use that money to run
+computing power which results in more
+GPUs being sold. It's like the most
+incestrous family in all of Alabama had
+just this great big massive family orgy.
+There's so many parties and deals going
+on that it's impossible to keep track of
+it all. But this wouldn't be that much
+of a problem if investor sentiment were
+rooted in reality and in profits. But
+it's not. It's actually incredible
+incredibly similar to what we saw happen
+with the global financial crisis and the
+housing collapse in 2008, right? Because
+person buys a house, right? He gets a
+mortgage and the bank now has an asset.
+the mortgage. The person now has an
+asset as well, the house. But the
+mortgage asset was invented out of thin
+air because of fractional reserve
+banking. The bank didn't actually need
+to have the money to hand to lend it.
+They printed it to lend it. So the total
+value of assets in the economy has
+increased out of nowhere. Then the bank
+takes a hundred of those mortgages and
+they package them up into a group of
+mortgages. And now there's loads of
+mortgages. So the perceived risk is
+lower. So the value is going up. So the
+value of the mortgages that's packaged
+up is greater than what's inside. And so
+again, more value has been created out
+of thin air. And then the bank takes a
+collection of those packaged up
+mortgages and creates a CDO
+collateralized debt obligation. They put
+some extra debt in there, leverage it up
+even further. And so even more of the
+value has been created out of thin air.
+And suddenly something like $100 million
+in real estate has turned into $1
+billion in value in financial
+instruments. So, no one really knows
+what's going on or where the value comes
+from. And as long as the lines keep
+going up, everything's fine. But when
+people stop paying their mortgages, the
+house of cards all comes crashing down.
+And we're seeing a really, really
+similar thing happen here with these AI
+circular investments. Because revenue
+for an AI company is seen as something
+ridiculously valuable because supposedly
+this technology will change the world.
+And so adding something like a billion
+dollars of revenue can add 10, 20, even
+$30 billion in market valuation. So
+company Agrees to buy a billion dollars
+worth of AI stuff from company B.
+Company B agrees to invest $1 billion
+into company A. And so we have this
+imaginary $1 billion that doesn't even
+need to exist being passed from company
+B to company A and then back to company
+B. Neither company has any more cash
+than they had before. But now company B
+has an extra billion dollars in revenue
+and it's worth an extra 10 billion in
+market cap. And that extra market cap is
+then used to raise more funding from its
+investors and pay for the initial $1
+billion. So it never even really needed
+to have the cash in the first place. And
+suddenly $1 billion is printed out of
+thin air purely because investors got
+excited about a supposed deal. The
+insane valuations in this AI space mean
+that these circular investments pay for
+themselves and then some on top as well.
+So all in all, an AN company, all they
+have to do to grow infinitely is just to
+keep announcing these circular
+investments that don't even really need
+to be funded. And half of these
+companies are supposed to be
+competitors, but they're all working
+with each other like a cartel because
+they know that if they compete, they
+both lose. And if they collude, they
+both win. Now, there are two bubbles in
+history with almost perfect parallels to
+what we're seeing today with this AI
+bubble that I really want to speak about
+quickly. There's the railway bubble or
+the the great panic of the 1840s and
+then there's the dot and the telecom
+bubble in the 2000s. Now, the railway
+bubble is is far less well known about,
+but it's based on a new technology just
+like the AI bubble today, right? we go
+back 150, 170, 80 years and railways get
+invented as a brand new technology and
+some early adopters come through and
+they come out as successes in the UK and
+it's really really profitable. And so by
+the 1830s and the 1840s this uh there's
+a huge amount of hype around railways
+because they're this brand new
+technology that all the investors are
+convinced is going to change the world
+and so they're going to get rich off it.
+Government is out there approving
+hundreds of railway projects.
+Newspapers, the media are out there
+hyping railways up as the future of
+commerce and the future of
+transportation. And banks and stock
+brokers are this new invention as well,
+which make it really easy for even
+ordinary people to invest, often with a
+lot of debt. And so the share prices of
+these railway companies keep rising and
+rising in this speculative bubble until
+it all falls apart and the bubble burst.
+But why did the bubble burst when the
+technology was actually revolutionary
+and it did change transport forever?
+Well, interest rates rose and so access
+to credit worsened and so it got much
+more expensive to build out the
+infrastructure for this technology to
+change the world and then building and
+operating the railways themselves that
+ended up actually being less profitable
+than people had imagined despite how
+revolutionary the new technology was.
+And so this brand new technology comes
+along and it changes the world forever
+and every investor recognizes that and
+they want in on it. they want to get
+rich off it because the end result did
+change the world forever. So, they were
+right. But that doesn't mean that
+there's lots of money in the technology
+itself. We saw the same thing happen
+with the telecom bubble in the 2000s,
+which kind of coincided with the dotcom
+bubble in the late '9s and the early
+2000s. The telecommunications industry
+is doing really, really well, right? The
+internet is rapidly expanding along with
+the mobile phone market. And so these
+brand new technologies that were, you
+know, really, really incredible are in
+the process of changing the world. And
+every investor wants to get in on it
+along with easier access to investing
+from, you know, internet stuff like uh
+Erade that caused speculation and a
+massive share price spikes in this space
+and loads of telecom companies start
+investing billions and billions into
+infrastructure companies like WorldCom
+or Nortell or Global Crossing. Now,
+everyone thought that demand for the
+internet and mobile networks would keep
+rising exponentially, and they were
+right. It did. But they also thought
+that the companies owning that
+infrastructure and selling access to the
+internet would have huge pricing power
+and would become rich with that extra
+demand, which didn't happen. The market
+was too competitive. The profit margins
+were too slim, and customers had
+basically no brand loyalty. So, when
+prices rose with one company, they would
+just leave and go to a cheaper
+competitor. So that new technology again
+just like railways that did change the
+world forever and did create huge
+amounts of wealth. Well, investors
+speculated on it and they created a
+massive bubble based on changing that
+world. But it turned out in the end the
+companies building the infrastructure
+they changed the world but they didn't
+really make much money from it even
+though the technology was genuinely
+incredible. Now, what we see today with
+AI bubbles and actually it's incredibly
+similar and funnily enough I I actually
+stumbled across this article here from
+Reuters which is about 18 months old at
+this point which is Victorian rail mania
+the 1840s the great panic that we just
+spoke about has lessons for AI investors
+and to to you know cut a long story
+short the article goes in in particular
+about the amount of capital expense
+which is being sucked up by railways
+back then and compares that to the AI
+bubble and how much capital expenditure
+is being spend and on just AI
+infrastructure right now. And it really
+really is incredibly similar. There was
+this brand new technology that looked
+like it was ready to change the world.
+And there was massive massive amounts of
+investor hype and in capital expenditure
+with investing into that technology and
+people getting rich on paper at first,
+but the companies actually building the
+AI out at the moment have yet to show
+any real success in actually making
+money, right? Just like the railways did
+back in the 1840s, OpenAI's operating
+margins haven't gotten better over the
+last year. In 2024, they spent $2.34 to
+generate $1 in revenue. In 2025, so far,
+they've had to spend more, $260 to
+generate $1 in revenue. So, they're
+actually finding it harder to grow, not
+easier. And despite this, OpenAI's
+valuation went from 300 billion 6 months
+ago to 500 billion today. So they're
+getting less efficient and yet they're
+worth 80% more over the course of 6
+months. Now OpenAI enchantt is the most
+popular AI right now. But frankly, as
+someone who uses AI a lot for my
+business and for my work, there are 20
+others out there that are just as good
+from rival firms. And so far, we don't
+really know if ChatGBT will be like
+Google with just huge degrees of brand
+loyalty or like WorldCom with zero brand
+loyalty and no ability to charge prices
+high enough for a healthy profit margin.
+Now, Nvidia are out there right now
+making huge, huge money selling GPUs,
+but it's all predicated on other AI
+companies propping each other up and not
+really making any profit yet. So Nvidia
+is actually funding a huge amount of its
+revenue itself and it's growing and
+getting really really wealthy and rich
+based off this perceived massive amount
+of demand for all of this AI
+infrastructure. But if the AI
+infrastructure doesn't turn out to be
+profitable a couple of years down the
+line, well then they're going to stop
+expanding and that capital expenditure
+is going to stop and Nvidia is going to
+see its revenue drop off a cliff just
+like we see with capital expenditure in
+railways in the 1840s. It explodes to
+this massive point here and then it
+comes crashing back down. Now AI I
+actually am really really firm in the
+belief that it will change the world
+forever just like the railways did and
+just like the internet did. But the
+railways didn't make the railway owners
+actually that rich. It made
+manufacturers who use railways to export
+their goods around the world filthy
+rich. The internet didn't actually make
+the companies laying the physical cables
+down filthy rich. It made the companies
+like Amazon or Meta who built businesses
+on the internet filthy rich instead. So
+far, there really isn't much to suggest
+that the companies winning from AI today
+will be the ones that actually come out
+on top in 10 years time. It might be the
+call centers who fire all their human
+staff and use AI instead who come out on
+top or the banks which use AI trading
+algorithms to make trillions or the
+education companies who use AI on their
+apps to to get rid of, you know,
+teachers like Dolingo for learning
+languages. So far, these AI companies
+are showing every sign of a bubble with
+huge similarities to previous bubbles
+spurred on by new technology. Now, the
+silver lining with this bubble is that
+it is a bubble based on revolutionary
+technology. Right? When the railway
+companies went bust, the railways were
+still there, right? They were still
+running, making it cheap to move things
+and to move people around. And so, the
+economy around those railways still grew
+and benefited. When the telecom bubble
+burst, the internet was still growing
+and people still used those cables and
+businesses were still built and
+benefited from that capital expenditure
+into building out that infrastructure.
+So the economy still benefited. On the
+other hand, when the housing bubble
+burst in 2008, there was no new
+technology. It was a financial bubble,
+not a industrial or technological bubble
+caused purely by speculation and no new
+technology. it didn't grow alongside
+that massive capital investment into
+this exciting new thing that's going to
+change the world. So when it burst,
+there was pretty much nothing positive
+left behind and we suffered a hell of a
+lot more for it. This AI bubble seems to
+be propagating a monstrous massive
+investment into data centers which are
+basically just massive computers that
+allow you to use a big computer without
+having to pay for it yourself. The
+amount of computing power in the world
+right now is exploding and that will be
+usable for us in the future regardless
+of whether or not this bubble pops. And
+so the silver lining here is that even
+if the bubble bursts and Nvidia can't
+sustain these revenue numbers and it
+goes down to $20 billion a year in
+revenue, well, the data centers are
+already built and they're going to stay
+there and we can still use them, then
+we'll still be able to benefit from them
+as well. Now, if you want to learn more
+about what's going on here, if you want
+to hear about financial and economic and
+geopolitical news before everyone else,
+then you can click the link down below
+in the description and sign up for my
+email newsletter here, Stoic Finance,
+for free. I don't have to record and
+edit these whole videos together. So,
+I'm able to get that content out to you
+far quicker, making sure that you're
+ahead of the crowd. And I'm completely
+uncensored, right? There's no YouTube
+algorithm that I have to pander to or or
+threat of demonetization or anything.
+So, I'm allowed to go into a lot more
+detail and often get into some things
+that YouTube might consider a little bit
+conspiratorial on there. The link is uh
+down there below in the description box
+and you can of course cancel and
+unsubscribe any questions uh any anytime
+you want, no questions asked. So, yes,
+if you want to go and have a look at
+that, then click the link down below and
+you can join Stoke Finance and see what
+you know some of the reviews say as
+well. And also make sure to have a
+deeper look at US gold mining as well.

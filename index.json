@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-14T21:42:53.227055",
-  "total_transcripts": 232,
+  "last_updated": "2025-10-15T01:00:37.344739",
+  "total_transcripts": 236,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -2089,6 +2089,42 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-14T08:46:50.258999",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-14_ZERO PLANTS I Ate Carnivore for 90 Days and THIS HAPPENED to My Body... Ben Azadi_aSSabHW_4LY_metadata.json"
+    },
+    {
+      "filename": "2025-10-15_AI Bubble Is About To Be Decimated By Biggest Fraud Since Enron!_v2-LjvQF8qk.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_AI Bubble Is About To Be Decimated By Biggest Fraud Since Enron!_v2-LjvQF8qk.txt",
+      "title": "AI Bubble Is About To Be Decimated By Biggest Fraud Since Enron!",
+      "video_id": "v2-LjvQF8qk",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-15T01:00:35.479051",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_AI Bubble Is About To Be Decimated By Biggest Fraud Since Enron!_v2-LjvQF8qk_metadata.json"
+    },
+    {
+      "filename": "2025-10-15_Garmin Venu X1 Review - The Garmin S70 Killer_Sz_GRiM3D4A.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_Garmin Venu X1 Review - The Garmin S70 Killer_Sz_GRiM3D4A.txt",
+      "title": "Garmin Venu X1 Review - The Garmin S70 Killer?",
+      "video_id": "Sz_GRiM3D4A",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-15T01:00:18.744033",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_Garmin Venu X1 Review - The Garmin S70 Killer_Sz_GRiM3D4A_metadata.json"
+    },
+    {
+      "filename": "2025-10-15_NO WAY THIS HAPPENED\ud83d\udc80...One Piece Sabaody Episodes 388-389 ReactionReview_CSRKt0PMYbg.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_NO WAY THIS HAPPENED\ud83d\udc80...One Piece Sabaody Episodes 388-389 ReactionReview_CSRKt0PMYbg.txt",
+      "title": "NO WAY THIS HAPPENED\ud83d\udc80...One Piece Sabaody Episodes 388-389 | Reaction/Review",
+      "video_id": "CSRKt0PMYbg",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-15T01:00:24.547553",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_NO WAY THIS HAPPENED\ud83d\udc80...One Piece Sabaody Episodes 388-389 ReactionReview_CSRKt0PMYbg_metadata.json"
+    },
+    {
+      "filename": "2025-10-15_Trump Admits He SOLD OUT To Pro-Israel Donor_niHpK9gUy24.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_Trump Admits He SOLD OUT To Pro-Israel Donor_niHpK9gUy24.txt",
+      "title": "Trump Admits He SOLD OUT To Pro-Israel Donor",
+      "video_id": "niHpK9gUy24",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-15T01:00:30.073367",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-15_Trump Admits He SOLD OUT To Pro-Israel Donor_niHpK9gUy24_metadata.json"
     }
   ],
   "archived": []
