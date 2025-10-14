@@ -1,0 +1,1840 @@
+roller coaster from a new all-time high
+on Monday to meltdown on Friday. It's
+been a wild week for Bitcoin. Record
+liquidations. Crypto plunges as Donald
+Trump lets fly at China on social media,
+but the real villain is leverage. We
+break down what happened in a traumatic
+24 hours. What now? As the smoke clears,
+the questions pile up. Bull market over,
+alt season canled, crypto cooked. Stay
+tuned for the answers and a look at last
+week's top gainers. Yes, there are some
+tweets of the week, TA from Lewis, dates
+for your diary, and much more besides.
+This is the Coin Bureau News Live.
+I'm loving it. And welcome to the
+McDonald's drive-thru window. My name is
+Nick and I will be taking your order
+today.
+Guy, would you like some fries with that
+order of liquidation?
+Put those Put those fries in the bag,
+bro. Um my word. So, how was your
+weekend?
+Oh, it was amazingly eventful. You know,
+not looking at the screens at all.
+Completely touched grass. What happened,
+guy? Oh, well, you know, nothing big.
+Nothing big. Cryp crypto took a little
+bit of a wobble. Little bit of a wobble.
+Just a normal weekend. I tell you, on
+Friday night, me and Mrs. Guy, we went
+out for We went out to dinner on the
+Palm with some friends. Quite a lot of
+wine was consumed. Our host was
+I'm surprised you could afford a dinner
+on the Palm given what happened.
+Well, you know, if I'd known, actually,
+we were going to someone's house, but uh
+quite a lot of wine got open. By the
+time we got out, I hadn't check checked
+my phone all evening and you know, I'd
+had a few and I sort of looked at the uh
+looked at the news in the taxi on my way
+back. It was like, "Oh,
+I can't deal with this."
+I winced my way up from my phone in the
+mornings cuz I saw it crashing overnight
+and I was like, "This is not going to
+end well." But, uh, it was a crazy
+weekend. One of the biggest liquidation
+events ever in crypto. I mean, it's it's
+like we saying that every single second
+month here. It's it's crazy. Seems like
+leverage traders just don't get the just
+don't get the memo, right?
+Yeah. Yeah. I mean, the amount of
+leverage this time is absolutely insane.
+I mean, this is, you know, when you look
+back to when you look back to FTX, when
+you look back to COVID, you know, those
+were big crashes, but in terms of actual
+leverage liquidations, they got nothing
+on on what happened on Friday.
+Absolutely. They don't they don't even
+come close. And that is crazy.
+Open interest completely got smoked. But
+we'll be covering all of that, guys.
+We'll be taking a look at the week of
+Bitcoin last week in terms of exactly
+what happened and what led up to that
+massive cascading liquidation. We'll
+look at those exact liquidations and why
+it was so vicious and what what exactly
+happened to the altcoins as well?
+Yeah.
+And then most importantly, what happens
+now?
+Yeah.
+What does this mean for now?
+Is altcoin season basically just a dream
+in route to basically just a dream and a
+hope you know. Um so we'll be taking a
+look at all of that of course guys. So,
+and let us know how you feeling. Your
+sentiment is very important to us
+because it helps keep us hopeful.
+Yeah. I mean, you know, after after the
+weekend we've had, I've been looking
+forward to the comments today. Comments
+always uh raise a smile. So, uh do your
+best work down there, folks. And we
+should also say, don't forget to hit the
+like button as well.
+Give us a good old thumbs up. Now, last
+week uh we did get the requisite number
+of likes and we did share some portfolio
+alpha alpha with you for all the good
+that did. Um, but uh we're going to do
+something a bit different this week,
+right Nick?
+Yes, we are, guys. So, look guys, if we
+manage to get 1,000 likes during this
+stream, in the next stream, we will get
+Guy to wear.
+What do we think?
+Well, given all the given all the crime
+that's clearly been going on over the
+last few days, what else could I wear?
+Um, so yes, if we get a thousand likes,
+uh, I will do next week's stream, uh,
+dressed as Sam Bankman Freed. You know,
+got the wig already. Got the prison
+jumpsuit as well.
+Will you speak like Sam the whole
+stream?
+Yeah. How does Sam speak again? No.
+That would make me want to uh want to
+get you to eat like a corette or like a
+zucchini during the stream like Sam
+does.
+A raw zuci. Oh, horrible. Uh, yes. So,
+hit that like button if you want to see
+me do next week's stream as Sam Bankman
+Freed. Um, and uh, yeah.
+Come on, guys. We need to see that. We
+need to see that. Come on. Let's break
+the internet with Guy and his SPF
+impression.
+Yes. And don't worry, we will think of
+an interesting thing for Nick to dress
+up as in a in a in a future stream as
+well. Don't think he's going to get off
+the hook for this one, folks. Um, but
+uh, yes, let's Well, let's So, hit that
+like button. Let's dissect what was a
+mad week. Well, if you'll cast your mind
+back to last week, Monday, it was a
+quite euphoric day, actually, because we
+broke through a new all-time high of
+$126,000.
+That
+feels feels like a few years ago.
+Oh, man. Uh anyways, we Yes, we did. We
+broke through $126,000 and some people
+were saying, "Wow, this is caught us by
+surprise. I wonder if this is a scam
+pump." Well, we'll see. Um it was also a
+massive day for ETF inflows. We had
+$1.19 billion of inflows on that day.
+That was the second largest inflow day
+ever since the ETFs launched. So,
+so everything was just everything was
+just going fine. Everything was going
+according to plan.
+Um, there was a bit of a pullback though
+on Tuesday. Uh, and this was, you know,
+Harold the pain there, hiding the pain.
+It was mainly driven by shortterm whales
+who were taking profits on their large
+unrealized profits. Uh, and we've seen
+this a lot really where as Bitcoin's
+been making new highs over the last few
+months is a lot of whales, a lot of a
+lot of OGs often and short-term whales
+now have been taking profit.
+It did not deter those ambitious trad
+predictions.
+JP Morgan came out with a 165k
+prediction and standard charted 200K.
+Okay. Uh and um what's also pretty crazy
+is
+how Bitcoin's volatility had uh has been
+coming down lately. It's not as volatile
+as it once was or so we thought last
+week.
+Yes, that that chart is a little out of
+date, but it is interesting in in in the
+context of what what came next.
+It is to be fair though it yeah usually
+if you have like a compression of
+volatility that could mean that means
+something could be coming. Generally the
+market's underpric in volatility but
+that's the realized volatility on 180
+days rolling and it had been it's at
+record lows
+Wednesday price continued to go lower
+given there was the Dixie with the
+dollar index was increasing so that
+basically impacts on risk assets and
+then also the Japanese government bond
+yields hit their highest level the
+10-year yield hit its highest level in
+over 20 years so this is obviously
+leading to led to a pull pullback in
+risk assets. Yeah, interesting. There's
+some fascinating stuff going on in Japan
+at the moment. I was recording a video
+uh this morning uh which we'll be
+putting out fairly soon um about all the
+stuff happening over in Japan because it
+is relevant not just to not just to sort
+of wider macro economics but also to
+crypto as well.
+The first ever Japanese female prime
+minister, right?
+Yeah.
+But spoiler alert, she she may not last.
+Okay.
+They they are going
+crust is going to last longer than a
+head of lettuce or
+Well, I don't know. I don't know if a
+Japanese tabloid is doing a similar
+thing, but maybe they should because um
+yeah, it's it's all looking a bit dicey
+for the Japanese prime minister. Anyway,
+what happened on uh Thursday?
+Thursday, well, the uh slight pullback
+in Bitcoin did not deter the bullish
+Luxembborgers
+uh because they were the first Eurozone
+country to purchase Bitcoin, invest in
+Bitcoin. and Morgan Stanley which opened
+its crypto access to all its clients
+amid amid Wall Street shift to digital
+assets you know opening up the the
+floodgates to all the pensioners and
+people who wanted to invest in a
+relatively good risk return asset
+well yes well certainly risk um I I kind
+of feel at the next EU summit the uh the
+Luxembourg finance minister is probably
+going to be sort of there in a corner
+just like don't don't let anyone see you
+yeah the Czech central bank governor
+like we dodged a bullet there not buying
+Bitcoin Yeah.
+Um,
+so that takes us to Friday. Bitcoin was
+kind of trending up again.
+Yeah, exactly. And the Lux and Borgers
+and the Morgan Stanley clients are
+probably feeling good that they bought
+the dip.
+Mhm.
+But then it came out of nowhere.
+You knew we were going to have the goat
+in this stream, folks. Don't pretend you
+were. Don't pretend you were in denial.
+The goat was looking at the Bitcoin shot
+to be fair.
+I mean, look at it. I mean, come on. I
+mean, that that's pretty much the noise
+I made on Friday night. So,
+um
+Oh, man. Yeah. So, obviously, as as Nick
+alluded to at the beginning of the
+screen, the stream, this was the largest
+liquidation event in crypto history. Um,
+and what's kind of wild is uh that
+there's a lot of speculation from, you
+know, well-informed sources that it
+could actually have been a a way a way
+lot bigger than we than we actually
+know.
+Exactly. Well, for yeah, because
+basically how these liquidations are
+recorded on track on on tracking
+websites such as Coin Glass, they rely
+on APIs, right, that have access to the
+exchanges and these a these exchanges
+generally have API limits and they can't
+fire off enough notific um you know um
+sending it out to the basic to the coin
+glass websites etc. and as a result it
+doesn't get a full picture of all the
+liquidations. So many except many have
+estimated that it was way larger. But
+this is of course caused by Trump, you
+know, um in terms of the the old tariff
+uh the old tariff thing popped up again.
+Tariffs we they they've been they've
+been messing with us all year. They've
+been screwing us up all year and we keep
+forgetting about them, don't we?
+We keep thinking, "Ah, that's fine. It's
+all being handled. They're dealing with
+it." And then it comes
+Why does he do it on Friday after
+markets close going into a low liquidity
+weekend? Can't you choose any other day
+of the week? I know. I know. It's sort
+of like, you have to be really would
+like to have a word with him about that.
+It's like, could could you at least drop
+these absolute bombshells when, you
+know, the markets are still open and we
+can maybe do something about it.
+But it was absolute carnage, man. I
+don't know if you guys tracked some of
+these coins, but like the likes of Atom
+went to like zero at some exchanges.
+It's madness.
+I mean, yeah. What you know, what you
+see looking at Coin Gecko is not what
+actually happened on some of these
+exchanges. you know, the the the prices
+plunged way way lower. I think Suie went
+to about 55 cents or something like
+that.
+Stealing a steal at that price.
+I mean, I was I I didn't I didn't know
+the dip was happening. I was too busy I
+was too busy getting onto the third
+bottle of wine.
+It's talk about ignorance being bliss, I
+tell you.
+But and then on the weekend, there was a
+swift recovery out of the the worst of
+the liquidations, right? We pulled up
+from the massive, you know, that candle
+as well.
+Managed to pull out some.
+Yeah, exactly. Uh was a bit of sideways
+action and it was slightly recovering
+over the weekend,
+but now it's beginning to retrace a bit
+a little bit. It's now trading at about
+114.6K.
+Yeah.
+So, what's coming this week? Well,
+there's lots of sped sped speeches.
+Still no government data because hey,
+the government is still closed.
+Remember that government shutdown.
+This is what happens. Trump has it. you
+know, Trump's bored. He's got anything
+else to do. So, he starts tweeting.
+But don't worry um that uh don't worry
+about China. It was just a bad moment he
+had. It was just a little bad moment.
+Yeah.
+Don't worry about China. It will all be
+fine.
+So, so he causes all this carnage to the
+crypto markets over the weekend just to
+tweet. Sorry guys, don't worry. It's
+just had a bad moment. Just a little
+Well, you imagine someone having a word
+and it's like, uh, Mr. President, people
+are people are very upset. The the
+crypto the crypto bros are beside
+themselves.
+Yeah, man. Your crypto portfolio is down
+big. What? What? No. Okay, I need to
+recover that. Um, anyways, on the
+charts, let's take a quick look at some
+charts. On the charts, this is the
+long-term monthly chart, which I've
+shared a few times before. This
+basically is a trend line draw on the
+monthly chart since it's marked the top
+of the cycle in 2018, in 2017, 2021. And
+in the past few months, we've basically
+been close to breaking above uh this
+long-term trend line. But we've for the
+past 3 months the breakouts have been
+rejected and we've closed the month
+below the trend line. Uh so that's not a
+good sign. Hopefully this month we will
+be able to close above it. And if we do
+that's a breakout but if not the bulls
+are losing control here. Um I'll also
+note that the MACD the moving average
+convergence divergence indicator at the
+bottom is going through lower highs
+which is shows that momentum is slowing
+on the monthly long-term monthly chart.
+Okay.
+On the daily chart. Now this is
+interesting. We clearly, you know, were
+rejected. We're rejected from that
+resistance at the
+quite a significant rejection. It's like
+that's like a massive L. That was a
+massive L on that rejection.
+That is a sort of resistance you need
+counseling to get over. Yeah.
+Yeah. Yeah. We were rejected. Yeah.
+Yeah.
+We rejected from that resistance.
+Um and um we now fall into like I said
+about 114K. Now where to from here? I
+will note that the 68.1 the 61.8% which
+is the golden Fibonacci retracement or
+golden Fibonacci extension ratio is at
+about 110K from the retrace from the
+extension up from the lows in July.
+Okay.
+And what else is over there at the um
+110K level that is the CME gap and ah
+yes
+yes we have still not cleared that gap.
+Even though we took a massive dump over
+the weekend the CME was also closed. So
+the gap still exists over there. Um so
+we should ideally close it. Um one more
+chart I will want to show you guys. This
+is basically the long short bias over on
+hyperlquid
+and um it showed that there was a steep
+rise in net shorts just prior to the
+liquidation which we'll get on to in a
+bit.
+But it has also stayed cautiously in in
+so the net shorts are still out
+outweighing the longs. So the market on
+hyperlquid in terms of per is still very
+much positioned to the short side.
+So,
+okay. So, still a lot of fear out there.
+Yeah. But if you guys want someone to
+guide a guide in hand throughout these
+market conditions, we will of course
+refer you to Coinb Trading. And
+congratulations to the guys because last
+week they broke 100K. And as you were
+saying, Guy, um, AL season officially
+starts when Coin Bureau Trading breaks
+100K.
+Did I say that?
+And funnily enough, it broke we broke
+100K on Friday.
+just before everything completely
+collapsed.
+God, this is awkward. Um, look, yeah,
+you know, it's it's that final flush
+before we go higher.
+So, hit 1 million viewers, then if Coin
+Bureau Trading hits 1 million, it's all
+over.
+It's all over. We'll all have to we'll
+all have to get into Pokémon cards or
+something.
+So, uh, yeah, hit that subscribe button
+for Coin Bureau Trading. But seriously,
+um, congratulations to Dan, Aaron,
+Gabby, and everyone else on the team
+there. They've done a fantastic job and
+continue to do so. So, all the best to
+them.
+Speaking of someone who actually did
+predict the massive flush out we saw
+last week Friday. This is our new host
+over on Coinbro Espanol and this is
+Crypto Cedric. He's a new trader over
+there. He's a seasoned trader and he's
+won numerous competitions as well on
+crypto exchanges. Um, so YouTube
+actually does autodub Spanish to English
+now. So you guys can actually go and
+also watch Quir Espanol and and hear his
+AI voice teach you some cryptota. So you
+just scan that QR code, go and sign up
+and subscribe to Co Espanol if you're
+Spanish and if you're not because you
+can go and follow Crypto Cedric's
+insights over there.
+Or you could not use the dubbing and
+practice your Spanish if you're learning
+it. What better way to learn Spanish
+than from Cedric and Mar
+and some Cryptota. Yeah, exactly. You
+have to pay attention otherwise you'll
+get wrecked.
+Absolutely. Absolutely. We we like to
+give you we like to give you as much as
+we can. Um
+how's the comments? How's the sentiment
+looking?
+Okay, I've got I I got to hand it to our
+our people in the comments. Generally,
+they are very very positive. Crypto rich
+Rick will go back to 120K plus. I got to
+say, Crypto Rich Rick, I kind of agree
+with you on that one. I don't know how
+what time frame are we talking about
+this cycle?
+Yeah, I I don't know. I I'm feeling
+positive about it. Um Oxford Road coach,
+welcome back, sir. First it was Wall
+Street, then the banks, now crypto.
+Handcuff to the ready. Next stop, hell.
+Okay, slightly bearish. I I I think
+we're I think we're laughing about it.
+Jean Francis, good agent. Sending
+positive vibes from Swindon, even though
+I was properly shafted this weekend.
+Well, nothing but positive vibes ever
+came out of Swindon, Jean. So, that's
+good to hear. Um Joe uh says, "Guy looks
+rough as ever." Thank you, Joe.
+Well, I mean, what after the weekend
+we've had, what do you expect? Um, wow.
+Um, okay.
+All those bottles of wine, not the
+liquidations.
+I mean, yeah, I did look like I did look
+like crap on on Saturday. And it wasn't
+all crypto's fault.
+Waking up with a hangover and then
+seeing the market.
+I tell you, it's a double whammy. I was
+just sat there at my computer like, "Oh
+god, why?" Um, left work early for um
+for this this morning. GMCB, that's for
+spirit, not your day. Um, I hope your
+boss isn't watching. Um, and uh, so when
+I suggested uh, um, what Nick, you know,
+that Nick could dress up for a future
+stream.
+God,
+Caroline,
+I've got to say, investigains, I would
+pay good money not to see that,
+dude. I don't even think I can replicate
+that. How could I replicate that look?
+I don't know. I think I think you're
+sort of the polar opposite
+of Caroline Ellison. Um, and uh, a lot
+of people, including uh, Crypton
+Knight's cat, uh, got scared by the
+goat. Guys, you know, we sensed you
+might be we sensed you might be nodding
+off, so we reintroduced the goat. Yeah,
+it'll come for you.
+Um, and, uh, Shaw, uh, makes a good
+point. So, Pers trading, right?
+Yeah, that is kind of the elephant in
+the room, but we are going to talk about
+that in just a minute. Um, but yes, uh,
+thank you for all those comments. Keep
+them coming and keep those likes coming
+as well. If you want me to do next% to
+watching guy next week as SPF
+not bad not bad but we can do better.
+Let's go guys.
+Okay Nick, what's
+what the
+what happened?
+WTF? What happened? Okay.
+Well, let's roll back quickly. October
+10th afternoon about 2 to 4 p.m. P uh
+p.m. Eastern time. Trump decided to fire
+off an official tweet that said he'd now
+impose 100% tariff on China starting on
+November 1st. Obviously, this caught the
+market by surprise. Mhm.
+Not least of which the crypto mo market.
+Yeah.
+And crazy in terms of what happened,
+right?
+Yeah. I mean, yeah. So, Bitcoin, as
+we've discussed, lost about 5 to 7% down
+to 110K within minutes, 13% in a single
+hour.
+Um, ETH, as you can imagine, didn't do
+much better. Um, and the less said about
+altcoins, the better. It was an absolute
+bloodbust.
+The stocks also tanked with the NASDAQ
+down 3.6%, Dow down 900 points, etc. So
+wiping out $1.6 trillion in US equities.
+Yeah. But what I what I think is
+important to point out here though is
+that I think maybe one of the reasons
+why crypto got so badly hit is obviously
+because it's crypto and extremely
+volatile. But I kind of think because it
+was, you know, getting on towards market
+close. The markets were winding down for
+the weekend. I think crypto being
+perhaps the only market that was open
+in, you know, for for mo a lot of the
+hours following the crash and obviously
+the the liquidations on exchanges. I
+wonder if that kind of played a part as
+well as people kind of sold off what
+they could sell off.
+Yeah, this is it indeed. But of course
+the liquidations did precipitate it
+quite aggressively.
+So speaking about those liquidations,
+they were massive. Obviously the
+reported numbers as we said were
+probably probably lot lot large much
+larger than we expected. Um and this
+this is because of two reasons. One of
+these is because of cross margin issues.
+So basically when you have a pers
+account on an exchange you have what's
+called isolated margin and cross margin
+with isolated margin your position your
+individual position with a particular
+altcoin you have your margin allocated
+to that particular position right so if
+you get if your position goes towards it
+depletes all your available margin you
+get liquidated on just that position
+with cross margin they cross it across
+all your different positions right so if
+you have multiple different altcoin
+positions and you've chosen to cross
+margin across your accounts what will
+happen is if you have one position
+that's going increasingly negative,
+right? And you not be you're not going
+to only be liquidated on that, it's
+going to also go into your other
+accounts, right? But liquidate those
+positions because you aggregating all of
+those positions into one. So that's what
+happens when you have a cross margin
+liquidation. And that's why many of the
+different altcoins of people who held
+many different positions across
+different altcoins got liquidated all at
+once.
+Okay. Okay. So there were kind of
+structural factors at play quite beside
+the fact that so many people were leave
+it up to the eyeballs.
+Exactly. That's it. And another issue on
+the exchanges which is actually very
+interesting because it's quite rare and
+many people don't really know about it
+and this is what's called auto
+deleveraging or ADL and this is a risk
+management mechanism on exchanges.
+Basically when they're on usually when
+you have longs you've got shorts an
+equal amount of shorts. you know the the
+the longs pay the shorts and if a long
+is losing the shorts will be winning.
+But in a particular situation like this
+when it's so precipitous and you have
+all the longs being flushed out and then
+there's no longer anyone to uh come into
+the market on the opposite trade of the
+shorts then they have to automatically
+delever the shorts and close out of
+these positions. So imagine if you held
+a short position overnight and you were
+expecting to wake up in the morning and
+see that your position was nice in
+profit and you learned that the night
+before and it was automatically
+deleveraged for you. You'd be very
+angry.
+Yeah.
+And it's even worse for those people who
+who run sort of pairs trade strategies
+where they go long one alcoin and short
+another. Basically, imagine if you were,
+for example, you went long, you went
+long Bitcoin and then short ETH or
+something and then your ETH position was
+deleveraged and your short position was
+deleveraged, but then your long position
+was kept on. So, you were liquidated on
+your long
+and then your short position wasn't even
+open.
+Yeah.
+So, you got completely screwed. Anyways,
+that also happened. So, ADL happened
+across many different exchanges.
+Okay. So, there were a lot of there were
+a lot of different factors at play all
+regarding this leverage. I mean, I
+think, you know, obviously people should
+trade with leverage knowing the risks.
+I'm sure a lot of people who were using
+leverage this time around probably
+weren't aware of risks like that uh you
+know of things like auto deleveraging.
+Um so this will have uh I mean this is
+you know not a good look. This only
+reinforces the sense that in a lot of
+people's minds that the market is kind
+of rigged against them. And you know
+whether that is whether that is true on
+a sort of overall um view or not uh the
+fact is that per trading is is kind of a
+losers game. You've really really got to
+know what you're doing otherwise you
+chances are you will lose money.
+Yeah. Exactly. You should you should
+have stops in place. you should never
+really look to get liquidated and and if
+you are going to be liquidated use
+isolated margin so you know it's just
+for that particular position. Um but
+Hyperlid you know the perex met the
+perpex that's taken the market by storm
+surprisingly no downtime zero downtime
+it operated just as is
+which is amazing
+um not so much for the sexes though for
+the centralized exchanges
+yeah Binance in particular uh has been
+um under fire and talked about a lot um
+and that was because well it's from what
+I've been seeing it's kind of inaccurate
+to call this a deping
+of of USD de on Binance. Um, and we can
+we might get into the into the wise and
+wherefors of that in a little while, but
+basically at some point on USD on
+Binance, there appears to have been uh
+what people are calling a coordinated
+attack which saw USDE dip to around 65
+cents albeit brief.
+Whether it was an attack, we don't know.
+I mean, that's just speculation. But
+what did happen was that on Binance
+itself, USDE and and including WB ETH um
+which is like an ETH wrapped version and
+then BN soul as well uh they fell a lot
+and that's because Binance referenced in
+terms of price. They didn't reference
+external oracle price feeds. They
+referenced the price that was being
+presented on Binance itself which is
+determined by the order books. Right?
+And in this extreme scenario when you
+have these massive liquidations they're
+referencing potentially an inaccurate
+price and as a result E I mean USDE did
+on Binance fall to 65 cents and in this
+in this case the exchange engines
+realize oh well now we've got no we have
+to liquidate other positions because the
+collateral has fallen by you know 40%.
+So essentially this led to also help
+precipitate these massive liquidations.
+Um and uh also part of the reason come
+down to the fact that although Binance
+is referencing the price feeds on its
+own exchange, the USD itself didn't DPEG
+because on the primary exchanges, the
+primary venues like Bybit and also on
+Curve where it's done in the DeFi space,
+there wasn't a there wasn't a big um
+move away from the actual $1 peg. Yeah.
+So that's part of the reason why it
+happened there. Um and as a result of
+this, Binance has agregate
+some users after these diggs.
+Yeah. And rightly so. I mean, you know,
+in the aftermath of something like this,
+obviously, it's a disaster, but if if
+lessons can be learned from it, then at
+least, you know, all is not lost. So,
+you would hope that Binance and, you
+know, any other exchange affected by
+this are currently going over, you know,
+their um their protocols, etc. because
+this, you know, this can't happen again.
+we know it that crypto is volatile but
+if we don't have the proper structures
+in place um and obviously this news
+about USDE I mean Athena Athena's ENA uh
+token um which happens to be one of the
+ones in my portfolio uh was one of the
+hardest hits um but I should point out
+that Athena and every other DeFi
+protocol continued working as normal and
+that is a really important thing to
+remember this is something we were at
+pains to point out when FTX happened a
+few years ago crypto itself self did not
+break. This was an external factor. You
+know, in the case of FTX, it was Sam
+Bankman Freed um doing crime and in this
+case it was too much leverage. But I
+think it's really important to underline
+the fact that crypto protocols continued
+to work as they should have done.
+Did as always indeed.
+Um speaking of hyperlquid, some traders
+did get completely wrecked, including
+some of the biggest traders there. Uh so
+we saw multiple accounts with that were
+completely zeroed including one who lost
+full 19 million in their account. O
+but someone did win.
+Yes. Suspiciously.
+Yes. There there is there is there does
+always seem to be a at least one winner
+these days, doesn't there?
+Um yeah, this was um so this was on
+Hyperlid again. Someone had opened large
+shorts on BTC and ETH. I think it was a
+few days prior to this.
+Not days. Not days, literally minutes.
+But I Well, I think the position I think
+they had short positions a few days
+prior, but then like literally half an
+hour before Trump's truth social post,
+they suddenly added to those positions
+big time. So, you know, there's defin
+there's definitely something very sus.
+Very sus about it. Such such crimeing,
+guys. Uh
+you know, we do miss some regulations.
+Let's be honest. Um I must admit it.
+I the tables have turned. I don't
+normally I don't normally spend time
+wondering what's going on in Gary
+Gendler's head, but I would give I would
+give a pretty penny for his thoughts
+right now because I'm sure he has I'm
+sure he has
+sitting there at MIT with his cushy job
+saying, you know, you didn't if you
+don't like me at my at my worst, you
+don't deserve me at my best. He's just
+sitting there like, you know what, guys,
+you chose to call it quits. You know, I
+was going to come bring some security,
+safety to your life, but uh you know,
+went rogue, you know, to the streets
+with you.
+One for the streets.
+Yeah. Meanwhile, there's a certain
+irony, isn't there, that the that the
+SEC and indeed all other agents,
+government agencies are currently closed
+during this whole thing as well. So, I
+imagine
+I could be dealing with a shoo
+I imagine all the regulators are kind of
+sitting at home going like,
+"What do you want us to do?
+What do you want us to do?"
+Yeah. Oh, man. Anyways,
+if you guys are looking to well indeed
+potentially buy the dip or trade this
+chaos and you want an exchange that
+isn't going to auto delever your
+position
+or or un you know then take a look at
+BitGet.
+Yes,
+this is our brand partner Bitgat. Um all
+you need to do if you we also still have
+this iPhone competition going on. So, if
+you guys want to enter that competition,
+which will be given, we'll basically
+select a winner from the first 100
+traders uh and we'll give away an iPhone
+during a stream. So, all you need to do
+is sign up with that link over there.
+And not only will you be entered into
+the competition, but you'll also uh can
+uh avail yourself of up to $50,000 in
+sign up bonuses.
+Mhm.
+And uh not just that, of course, there's
+many other reasons why you'd want to use
+Bit.
+Yep. They're one of the fastest growing
+exchanges in the world. They've got some
+of the highest spot volume out there.
+They've got all the trending coins,
+tokens, shitcoins that you need. They've
+got great liquidity in spot and futures
+market. Very important nowadays. Um, and
+they've also got tons of cool and
+innovative features like copy trading,
+AI tools, etc.
+Yeah. Cool.
+What happens now, Nick?
+Now, now what?
+So, now we answered the question WTF
+happened. And now we answer the question
+WTF happens now.
+Yeah.
+Uh, so let's take a look at a few
+markets. Firstly, on the Bitcoin side,
+we we look at we looked at the short to
+medium term. Um, of course, we've got
+today uh ETFs market should have opened
+in the US right now. It'll be
+interesting to see because all the
+people who held the ETFs couldn't sell
+their shares over the weekend.
+Yes.
+So, we'll see how the inflows will look
+today. Keep an eye on that. Um, but in
+terms of the longer term, it's worth
+mentioning the parallels with the crash
+we saw after co and it's interesting
+that we had a massive rally after that.
+Now whether you think it's analogous or
+not, you know, is up for debate, but
+that's what happened after co and also
+in past October, right?
+Yeah. Um it it's not always October. Um
+and yeah, October we have seen some big
+uh crashes before. There's slight
+diminishing returns over time, but um
+yeah, it's it's not un it's not unheard
+of for a crash of this magnitude to be
+followed by by a healthy rally.
+Exactly. in October there was all out of
+the four there were three you where you
+did see a big rally after that.
+Yeah.
+Um and now when it comes to ETH right I
+think that um people do expect a rebound
+soon because it hit a bull market
+support including our friend over there
+from uh the into the cryptoverse Mr.
+Benjamin Khan right
+now. Now this is huge because Ben has
+been very vocal um you know talking
+about the need for Ethereum to go home
+and congrats to him because he has been
+he has made some very very accurate
+calls recently. Um and yeah he is out
+there now on Twitter and YouTube saying
+that next stop is an all-time high for
+Ethereum.
+So Ben Cowan is bullish is bullish ETH.
+That's a sign
+he is. Ben is not someone who throws uh
+price predictions around um willy-nilly.
+So that is a very interesting uh angle
+to take and we'll be keeping a very
+close eye on that. So we could see a
+kind of V-shaped recovery like we saw
+after COVID. I'll remind you then that
+ETH went from around $90 to $4,800.
+Yeah. So we dream
+u now on the altcoin side. Well, I mean
+they were the hardest hit, right? So
+many were 70% or more down
+but some are seeing this as a kind of a
+reset. So leverage was stretched across
+longtail tokens. So when liquidity
+vanished the wipe out was severe but it
+of course cleared the decks for a faster
+reset. And this is actually a chart from
+Glass Node and it shows that uh of
+course it was the one of the biggest
+liquidation events since 2022. But it's
+also now showing that because a lot of
+the funding rates have been reset, we
+can potentially continue the rallies in
+altcoins without these speculative uh
+per funding rates being extremely high
+and as a result holding up all the
+leverage in the system. So one could say
+we could have now an organic rally in
+altcoins. There there is a there is a
+definite there is a definite argument to
+be made that you know a leverage flush
+is a good thing in the long run you know
+and we kind of need
+a little bit of blood letting you know
+just get it out
+a little bit of a little bit of colonic
+irrigation
+just flush flush all that nonsense out
+of your system um yeah
+uh speaking of what getting flushed out
+the others to BTC pay was completely
+annihilated you can see that candle down
+there that's look that's a lightsaber
+the lightsaber indicates the lightsaber
+candle
+uh that really really took it down
+there. Um but uh yeah, I mean it's seems
+to be recovering right now. So this is
+the others to BTC chart. The others
+being all the other coins below 10 in
+market cap. So are we still on track for
+a bull run and al season?
+Well, um co uh there's this article in
+Cointelegraph that seems to um that that
+seems to be calling for that Bitcoin
+slump may rebound up to 21% in seven
+days if history repeats.
+Yes,
+like big if.
+A big if. Um history doesn't always
+repeat, but it does rhyme. So there is,
+you know, there is uh historical
+precedent for what could happen uh for
+what could happen next. Um and yeah, a
+lot of people, us included, have kind of
+called this a healthy pullback. Um, so
+not the end of the cycle by any means.
+Obviously pulled back. Yeah, that was
+healthy.
+Yeah.
+Um, detox. Big detox. Uh, but so so
+guys, when in doubt to zoom out, eh, I
+mean,
+I I thought you were going to be more
+positive than that. Yes. Um,
+it's it's true. He's still in a car and
+he's not walking.
+He hasn't had to get out and crawl. So,
+that's good. Um, well, let's have a look
+at what some other people are saying. Uh
+Tom Lee um who's become one of crypto's
+main characters this cycle. He says
+quote this pullback is a buying
+opportunity unless structural change
+will see the market close but rebound.
+So Tom Lee is bullish. I mean I kind of
+feel he has to be doesn't he?
+Yeah he has to be and put his bet his
+entire reputation on ETH recovering.
+I kind of think if he came out and was
+like nah we're cooked. It's sort of that
+wouldn't be the best idea.
+It's wrong purpose. I should have gone
+I'm going back to Bitcoin, you know,
+Bitcoin treasury company. So all Bitmine
+ETH and go and buy Bitcoin. I mean
+just pull the red cord.
+Um fortunately though, uh we have got a
+counterpoint. I mean Peter Schiff is
+always bullish, right? You know, you
+mean
+no Peter Schiff is uh Oh, no wait. As
+bad as Bitcoin looks, Ethereum looks
+even worse. Oh, he's whailing on
+Ethereum now. While Bitcoin is only down
+about 10% from its record high price in
+US dollars, Ether is down 21%. I mean,
+these are great insights, Peter. Thank
+you for sharing this. Um, if it breaks
+support around 3,350, a quick move down
+to 1500 is a real risk. Get out now.
+Well, I mean, he is wrong to the extent
+ETH has recovered above 4,000. But I
+will give it to Peter Schiff. I mean, as
+a gold bug, he's probably probably
+feeling pretty happy right now with
+these gold investments. So,
+yeah, I think
+new alltime high today, by the way, on
+gold again.
+Another one
+and silver.
+So, we're I mean, we're now comfortably
+above 4K for gold.
+Crazy.
+Welcome everyone to Gold Bureau. Uh
+today's
+coins, are they are they better than
+bars? Um and a look at silver for all
+you
+the fundamental difference between the
+two. Let's go.
+Um so I mean Nick, what are your kind of
+before we before we move on, what are
+your kind of personal thoughts on this?
+I mean as someone who has been through,
+you know, most of crypto's ups and downs
+over the years, how does this one feel
+in relation to previous ones? How do how
+do you feel given all your years of
+experience? What uh what what's your gut
+telling you?
+I'm tired, boss.
+No, I mean I honestly think that look I
+mean uh yeah, like I've said multiple
+times, I think will rally, but it's not
+going to be broad. It's not going to be
+the altcoin season we once had. All
+these people that are crowing about
+altcoin seasons coming, get ready, get
+ready. We're going to see some alts
+rally and we're going to see ETH going
+back above all-time highs again given
+the that it's the closest from the
+rotational shift from Bitcoin and indeed
+some of the other altcoins that are
+going to get access through these ETFs.
+Yeah.
+But you have to focus very much on the
+narratives that resonate with with new
+retail, the narratives that are things
+about revenue generation narratives as
+well and coins that have easy access for
+people to buy through either ETFs or
+exchange listings. But yeah, you can't
+just go and throw uh like throw a dot at
+Coin Market Cap and hope that your
+altcoin is going to recover. Some
+altcoins you may hold may be down big.
+They may not recover if they especially
+if they're the 20 2021 special or 2022
+special. So yeah, I'm I'm still
+optimistic. Um but I think that yeah,
+it's not going to be as big and broad as
+people think. And this wash out to be
+honest, it wasn't anything wrong with
+the alcoh per se. As we said, it's just
+the it's just the leverage that caused
+this massive liquidation. I do hope that
+we don't have this event again, but
+knowing crypto traders kind of like
+goldfish, bro. And probably like a week
+or two, you'll see open interest at
+all-time highs again. And
+I wouldn't bet against it. I wouldn't
+bet against it. I think it's really
+important to to to underline, you know,
+the role of leverage in this. Obviously,
+we've seen what happened on the
+exchanges, but what I think is is
+perhaps partly responsible for just the
+sheer the sheer scale of this wipeout is
+that I think recently per leverage have
+started to become a lot more accessible
+for everyday crypto users. you know
+because a lot of people would go on to
+buy bit or you know any of the other big
+per exchanges per c centralized per
+exchanges in the past and you know it
+wasn't always very easy to understand
+and you know I think per trading was
+generally regarded as something that you
+know only expert traders could do
+however in the last few months or so
+we've seen pers become a lot more
+accessible I've talked before about the
+fact that you can use them through
+phantom wallet now and it's very easy
+meta mask introduced them last week. Uh
+I think we're going to see them in other
+kind of wallet venues as well. And
+suddenly these per have become much
+easier for the average user to use. And
+I think there's that sense as well that
+because altcoins have struggled so much,
+people are chasing those 100x those
+thousandx returns and kind of per easy
+access per along at the quote unquote
+right time or you know wrong time as it
+happens. And a lot of people are using
+them without really understanding how
+dangerous they are. Um, you know, maybe
+they get a big win, maybe that, you
+know, they they get a 200% return
+overnight and think that they've
+mastered it. And that is not the case.
+Per can wipe you out quicker than
+anything. And there's a reason why
+people in the past have said that, you
+know, the three biggest dangers in life,
+ladies, liquor, and leverage. And, you
+know, leverage is the worst of them. Um,
+so I think you know people if if people
+have been using per out there or are
+curious about them, they they may make
+them easier to use these days, but that
+does not mean they are child's play.
+Quite the opposite. And uh, you know, I
+think that's been reflected in some of
+the losses that we've seen. Even
+experts, even accomplished traders with
+like seven, eight, nine figure positions
+were getting uh, we're getting wiped out
+uh, in this one. And I think I think
+that's worth bearing in mind. Pers are
+really dangerous.
+Yep, they are. So, you'll just want to
+chill in spot, guys, because if you were
+in spot over the weekend, you wouldn't
+have had seen all of this. You wouldn't
+have been taken out of your position.
+And if you have your crypto in spot,
+you're going to want to secure it in
+cold storage, self-custodial cold
+storage. And the best place we can think
+to do that is on a Tandem hardware
+wallet. It's your all-in-one crypto
+solution with no seed phrases, no
+middlemen, no compromises. It's just tap
+and go. Absolutely. Absolutely. They've
+uh Yeah, really easy to set up and you
+can use it not only as a hardware device
+but also as a web wallet as well. Highly
+recommended.
+Yeah, they've also got a special promo
+going on right now for their Tandem
+ring. You'll get 15% off uh the ring
+right now. And on top of that, you can
+use our code and our QR code down QR
+code on the screen and then the QR the
+link down below uh to get an additional
+10% uh off the off the device. And they
+also have a bitcoin reward going on
+right now. So anyone who places an order
+during the promotional period will
+receive an email with instructions. Uh
+you will to redeem the reward. Uh so
+this should take about 14 days after the
+activation. So again, use the QR code
+over there on the screen link down below
+and grab yourself a tangent device.
+Absolutely. Okay. Let's have a look at
+last week's top performers. Can you
+believe it? There were some some did
+well. Well, they performed only in the
+past day from a complete low. So, yes,
+there were some performers.
+You're so cynical.
+I'm just being Come on. Come on. Let's
+have a bit more of that can do attitude,
+shall we?
+Wearing a McDonald's cap, bro.
+Fair enough. Okay. Uh, first of last
+week's top performers was synthetics.
+Old school. We're talking about pers.
+This is the original um or one of the
+original Ethereum per Dexes. Now, the
+pump um which as Nick uh so cynically
+pointed out has come only very recently.
+It seemed to coincide um with the fact
+that they've got the Wintermute CEO. I
+bet he had an interesting weekend.
+The Wintermute CEO is joining their $1
+million 100 trader uh trading
+competition
+and his first trade was to go long
+synthetics.
+Pump it up.
+There we are. There we are. So, uh
+that's SNX. Um what's next, Nick?
+Zcash or Ze. Uh so this has been pumping
+actually over the past two weeks quite a
+lot. And um there's many theories around
+there including Dan, our head of
+research. His theory is that Bitcoin has
+been swapped into Ze and they're using
+shielded transactions to try and hide or
+obiscute obuscate the TX history. Maybe
+that hyperlquid whale has been stashing
+his Bitcoin into Zcash to cash out.
+Maybe. But I also think there was um
+last I think a week ago or two weeks ago
+you know Naval Rabi Hunt.
+Yes.
+He's quite big VC guy out in Silicon
+Valley. Wise guy. Yeah. And he said he
+made a comment to the effect of you know
+Zcash is the new Bitcoin or something
+like that. I may be paraphrasing there
+but uh yeah.
+Yeah. Uh privacy is definitely a thing
+in crypto at the moment. Uh and for good
+reason. Um which brings us on to our
+next top performer of the week which was
+Dash.
+Gosh. I mean
+OG bro. two O two OGs in a row. I mean,
+Dash has been around since almost almost
+the beginning. Um, another OG privacy
+coin. Uh, my best bet is it's kind of
+catching a a beta play bet on on Ze.
+We got an interesting story about Dash,
+right guy.
+I do have an interesting story about
+Dash. I unfortunately can't share it
+here.
+Okay, we'll share it separately. Maybe
+in the Coin Bureau Club Discord. You
+guys can sign up and go and follow down
+below. But uh yeah, interesting story
+about the Dash and how how a guy
+actually got a job offer from Dash, but
+he'll share that in the discord
+once upon a time.
+Once upon a time.
+Okay. Uh next up on the list is
+Betensor. Um now there's a there's a
+fairly straightforward reason why Tao
+has been pumping and that is that
+Grayscale um has just filed for a tow
+trust. And obviously this is no
+coincidence given that Grayscale is run
+by one Barry Silbert. Oh yeah.
+Who happens to be a musive tow bull.
+It's crazy man. pivoted completely from
+Bitcoin to tow.
+Yeah.
+And then finally, well, this is no
+surprise, BNB. Uh, so of course you guys
+know fundamentally it get burn it gets
+burned with every transaction on Binance
+and there was a fair few of them over
+the weekend.
+Mhm.
+Quite busy on Binance, right?
+Quite busy on Binance. You know,
+nonvoluntary nonvoluntary trades going
+on.
+Um but it's not just the burn of B&B on
+Binance, which um if you'll recall, I'm
+sure you do, was doing pretty well uh
+before Friday. Um but also China has
+stepped in. China.
+China. Um yeah, China Renaissance, a
+Beijing backed investment bank um
+raising $600 million to establish um a
+BNB fund.
+Big news. Yeah. Uh so is it BNB season
+again, guy? It was it was good for like
+two days last week. Season
+that was I mean that just came and went
+so quickly. We went from BNB, we went
+BNB and then all the sort of coins in
+its ecosystem. CZ was tweeting about
+them, wasn't he? And then suddenly it
+was like done with that. Privacy coins,
+privacy, privacy, privacy.
+Salana guards bridge into BNB. Ah, no,
+we don't yet.
+Um, yeah. What a week. I mean, sometimes
+sometimes it's hard to keep up, isn't
+it? Okay. How are we doing on the
+lights?
+70%, guys. We 70% of the way to getting
+guy to wearing SPF due next week. Come
+on, man. So close. You're within
+touching distance. Hammer that like
+button guys
+like there's no tomorrow. Okay, it is
+time now for some TA with the one and
+only Lewis, our other host here on Coin
+Bureau. Um Lewis was bearish a couple of
+weeks ago.
+Two weeks ago. Exactly. He was bearish.
+It's just so unfortunate because he
+called it just before we had a scam up
+to 126 or came or 106k all time high
+and um yeah, I don't know if that kind
+of but we'll have to see what his
+analysis is like this week. Let's see if
+he's doing a victory lap or not. Lewis,
+over to you, sir.
+Well, guys, it looks like we made it to
+the dystopian land of Edit Eddie over
+here. And if you don't know what I'm
+talking about, go back to the Coin
+Bureau page and watch this video right
+here, Bitcoin CME Gab. It's from two
+weeks ago, and watch my TA on it and
+watch the very, very ending of it. And I
+just got to play what Nick said at the
+end of it. So, let me just click on this
+and go to the end of it really quickly.
+AI version of Ed, Ed, and Eddie in the
+dystopian like death society. What the
+hell is this, bro?
+Is that Nick on the right?
+What the hell?
+That does. No, guys.
+Nick at the end of the bare market,
+man.
+Lewis has done all right. Lewis looks
+pretty healthy. I don't
+I mean, Lewis made because he sold his
+bags and he took they took his advice.
+He was bearish at the right time.
+He was bearish at the right time. Oh,
+horrible. God.
+So, Guy and Nick were right. I was
+bearish at the right time. Okay. And
+then if you go back to last week's
+video, you could see that I said, "Okay,
+I was I was more bullish after the
+runup, but I was still pretty cautious."
+And I put in a bunch of stink bids on
+Aster and on uh Cake. So, if we go to
+Cake, if you put the stink bids in or if
+you put the bids in right where I set
+it, you know, you're not doing too bad
+right now. It's up 30% from uh this
+area. Or I guess if you just take it
+from the top, it's up, you know, like
+20%. But that's not too bad. And I'm
+looking at I look over at Aster. I want
+to see where this was. You know, that's
+not too bad either. This is actually
+really good. Um, so as long as you don't
+use leverage, and I think obviously
+that's the that's the big thing here.
+That's the whole thing that's been going
+on this week. As long as you either
+don't use leverage or you manage your
+risk with leverage. So, I'll just say
+this. I do use leverage. But the way
+that I use leverage is like this. I
+never never never use stink bids with
+leverage because you could always have
+something like this happen. And let's
+say you put your stink bits in here. it
+wicks all the way down and you get
+stopped out, right? But what I do do is
+I will put alerts in and then when the
+areas get hit, then I will go in to the
+smaller time frames or the lower time
+frames and I will uh you know, put
+leverage put a leverage position on uh
+let's just say for example, you know, do
+something like actually this is actually
+what I would literally do. Um do
+something like this. So I see that this
+candle formed and then I'll put a
+leverage position on here. So I know my
+risk and I have my risk and it is
+plotted out. So, if you're going to use
+leverage, you have to have stop losses,
+of course, and you have to make sure
+that um you know, your risk is accounted
+for. But if you just use spot, you could
+put in stink bids and you could have
+them and and it's fine. So, yeah, for
+Aster and for and for cake, the two that
+I had on the last stream, it, you know,
+they're up. So, for everyone who said
+that I was a counter indicator, screw
+you guys, I'm going home.
+Screw you guys, I'm going home. So now
+the question is what the heck do we do
+from here? Well, honestly, I'm getting
+more confident that that was the bottom
+because what are we going to do if that
+wasn't? You know, we're going to I don't
+think we're going to come down and sweep
+the lows of like 80% drops on a lot of
+these altcoins, right? I think that that
+is what we needed. We needed a reset of
+all of the builtup leverage that was in
+the system and we needed to just chill
+out. And as you saw already, you know,
+as you mentioned, freaking Trump already
+took back the whole tweet about uh
+China. And so, you know, it was just a
+misunderstanding, right? So, um I'm
+pretty sure that we're going to keep on
+going up. One thing that's a little
+concerning to me is the fact that the
+guy who opened up that short position on
+um Hyperlid right before the dump just
+opened up another short position. So,
+that is a little worrisome. But, um I'm
+still I'm more bullish now than I am
+bearish. So yeah, I'm looking to long I
+I actually already longed. I'm I'm full
+I'm full on everything in I'm not I
+don't have any stables left because I
+was buying um you know in these zones,
+right? And one other thing I wanted to
+mention was like look at the resilience
+on on Ethereum. It went down 25%
+and of course Bitcoin as well. Bitcoin
+only went down um tw less than 20% from
+the top or maybe it was exactly 20% from
+the top. These alts went down 50 60 70
+80% 90% right? But Bitcoin and Ethereum,
+these are the only ones that clearly
+have massive amounts of demand and and
+enough liquidity to actually soak that
+demand up, right? And so, if you recall
+from last week's stream, I said that
+there is always a sweep of the low and
+we finally did get a sweep of the low.
+And so, now that we did get this, you
+know, I'm looking for higher prices.
+Now, that doesn't mean that we can't
+come back down to maybe like 109,000 for
+Bitcoin or something like that. But
+like, it's hard for me to think that
+we're going to continue lower and take
+out take out the big big big lows that
+we just made a couple days ago. And so,
+essentially, I think it boils down to
+this. If you got in during the wicks,
+like let's say you got to Salana at
+under $170, you're probably really
+comfortable and you don't have to do
+anything for quite a while. And that
+goes for pretty much any coin. Even Doge
+for example, if you got into it under 16
+cents, you're really comfortable right
+now. and I probably just wouldn't do
+anything. However, if you didn't get in,
+then what I like to do in those
+situations is to simply go onto a higher
+time frame, plot out the big support
+area, plot out the big resistance area.
+And so for Doge, the big support is at
+0.1486 on the higher time frame, and the
+resistance is at 0.278. And then I ask
+myself, well, where are we? Okay, well,
+we're right in the smack dab middle of
+that. So, I need to go into a lower time
+frame and look for buying opportunities
+there. And I can see, oh, look what
+happened at this area a million times
+around 0.194. Well, that's been a huge
+support or a huge resistance. So, if
+we're anywhere in that area, that's
+where I want to buy. So, I'll just set
+some alerts in these areas and then if
+they get hit, then I'll go down into the
+lower time frames and, you know, and get
+them. So, that's what I like to do in
+these situations is to just like take a
+step back, look at the bigger picture,
+plot out the key areas, and then set
+alerts, and then just let the market
+come to me. Okay? And maybe, you know, I
+will miss out on a big move up if I'm a
+little bit too late in doing that. But
+there's always going to be new
+opportunities. And with that, I will
+hand it back over to you guys.
+Damn, those victory laps, eh?
+Yeah. Yeah. Well, I mean, credit to him.
+Like, I was chatting to him over the
+weekend uh over Slack and he was like,
+damn. You know, cuz he he had his
+conviction tested, but he was like, I
+should have, you know, I should have
+stuck with it. cuz he said he was, you
+know, sniffing out some stuff that that
+felt sus in that price action from a
+couple of weeks ago and uh and he was it
+was only his sort of timing that was
+off.
+Yeah.
+Anyways, guys, pull up the tweets of the
+week.
+Okay.
+Uh so, do we have tweets?
+Great.
+Great. Uh first one, speaking of per, uh
+integrations.
+Mhm.
+Uh yeah.
+Oh
+yes. Good old Metam Mask. It was like
+Yeah. Metam Mask introducing per bag of
+shite, mate. Like I'm so I'm sorry. This
+weekend was soing annoying.
+M managing multiple different hardware
+wallets with the Metam Mask freezing
+trying to close positions, move coins.
+I'm like, "Oh god, I can't deal with
+it."
+Yeah, I tried to do a crosschain swap
+with Metam Mask earlier today. It was
+just
+May the Lord be with you. you try to do
+a crosschain swap with Metamos.
+I know. And it was like USDT on Ethereum
+to USDC on base. It's hardly like, you
+know, it's hardly a path untrodden. And
+it's just like, wow, this is How old is
+this product?
+At that point, I'd rather just get I'd
+rather just get hacked on my Metam mask
+than never ever have to use that thing
+again.
+Well, you pro I mean, you probably
+haven't got much on it after the
+weekend. Okay. Uh, next up, we have this
+one. Um, this is I've enjoyed the Dave
+Ramsey memes this week. Um, my wife is a
+big fan of Dave Ramsey. Um, but yeah,
+show you moved every dollar you have to
+Binance smart chain.
+Yes, Dave. And tell me the reason again
+because he's gonna cry it up.
+Um, yes, God only knows what Dave Ramsey
+makes of makes of all this.
+Next up, we have this one from Michael.
+He is uh he's one of the folks over at
+Oiler. Um, that stress test was wild,
+but DeFi worked flawlessly. No emergency
+circuit breakers, no regulatory
+interventions, just free markets and
+code.
+Major upgrade on legacy finance indeed.
+Preach.
+And it's also very overcolateralized. So
+that's part of the reason as well.
+Yes. Okay. Uh next up we have one from
+Oh no, not this guy. Oh god man. But
+what's he honking on about this?
+To be fair, I was being philosophical
+over the weekend, man. I was just having
+one of these moments. I was like,
+imagine your new retail sitting on the
+sidelines considering investing in
+crypto. Then you witness a market crash
+where multiple coins in the top 10
+collapse by 50% or more in minutes. You
+witness mass liquidations with billions
+upon billions of wealth being evaporated
+in an instance. You read reports of a
+massive whale who shorts the market the
+moment before the crash happens. Do you
+still invest?
+Yeah. Well, my favorite reply to that is
+Laura Shins. She says yes in spot.
+Good call, Laura.
+Good call, Laura. Yeah, that's true.
+Okay. Someone saying in the comments,
+"Nick has a shirt with Guy on it." Oh,
+no. He's gone.
+Oh, that's guy.
+He does though. He does. He does.
+I secretly secretly, man, I wear that at
+home. I just got to see guy's face when
+I'm looking in the mirror.
+And we also have this one from Alan Gar
+watching my girlfriend get a side of
+guac at the Chipotle after my $600,000
+per position just live when he sees his
+wife ordering. I must tell you, I was
+another bottle of wine. I I was planning
+to go for uh to Nou over the weekend,
+but once I saw the market, I was like,
+"No, let's rather go for coffee at my
+place. I'll make the coffee."
+Wow. Sounds sounds like a good one.
+Okay. Uh so that is tweets for the week.
+I mean, let's let's face it, when you
+get a crisis like this in crypto, one of
+the one of the upsides to it is that you
+always get some banger tweets. I mean, I
+saw some really good stuff in the
+timeline when I was able to wipe the
+tears out of my eyes for long enough to
+actually read them.
+Um, so uh yeah, that was uh every every
+cloud. Um, any dates for the diary or
+coins to watch this weekend?
+On the macro front, just the 16th of
+October, the PPI, producer price
+inflation numbers are coming out. Um, so
+the headline is 0.3% expected versus
+0.1% the previous.
+Okay. Yeah,
+initial jobless claims. Uh, no, because
+the government is shut down.
+And on the coin front, just keep your
+guys and everything, guys. Like, um,
+there's going to be a lot of
+opportunities now given that we had that
+massive flush out. So, hopefully
+there'll be some opportunities for you
+to buy the dip.
+Yep. Absolutely. Keep an eye. It's going
+to be an interesting week this week. Um,
+hopefully in a good way rather than the
+way rather than the interesting of last
+week. Just a quick look over at the
+comments. Um, Florida croquet girl says,
+"PS, world association croquet
+tournament at National Croquet Center
+October 14th, 26. Good um, diversion
+from crypto and free to watch. Nice
+bar." Well, you got me at Nice Bar.
+That's nice. Okay.
+Have you ever played croquet, Nick?
+Uh, and it's not a sport on the top of
+my uh, to-do list to be honest. It is.
+It is very good fun. I have played
+Why am I not surprised you've played
+croquet?
+I've played I've played a few rounds of
+croquet in my time. It's It's very good.
+It's actually it's actually quite
+vicious
+when
+as as in like aggressive gameplay.
+Did you wake up one day and say I'm I'm
+going to go and try some play some
+croquet or was it like a grandmother
+invited you to come play croquet?
+No, I just I just opened up one day saw
+the sun was shining, opened the French
+windows and went out into the realm,
+obviously. Um yes,
+bowls next weekend, bro.
+Okay. Um and yeah, lots of people in the
+uh lots of people in the comments never
+do leverage trading. 95% will lose. They
+will scam the life out of you. The only
+thing I would disagree with that, Rex
+Heineken, if that really is your name.
+Um, probably 95% is a bit low. I'd say
+probably more like 98 99%. But yes, uh,
+as we've said, folks, um, leverage was
+the big was the was the villain uh, out
+there on Friday and uh, will remain so.
+So, if you're determined to use it, um,
+be very very careful and expect to lose
+everything because like I said, even
+experienced traders uh, lost out this
+week. Um, guy knows Oh, it's Brett
+again. Guy knows nothing about real
+sport, but does know all about girls
+sports from the 1600s.
+Cro croquet is not a girl sport and it's
+well, I mean, but girls can play. Um,
+and I'm sure it's uh I'm sure it's older
+than the 1600s. Um, so uh yes. Well, I
+think on I think on that box
+the leisurely activity you like to do,
+guys, gardening. So,
+yeah. Yeah. Which you can also combine
+with making a nice croquet lawn.
+Everyone's a winner. Okay, folks.
+Wait, we had 90% though.
+We're at 90% likes.
+The guys who got last chance to get to
+see you 959.
+Okay, so we need how many more? Come on,
+guys. 41 more likes. Come on, let's go.
+Uh, let's go for a few more comments.
+Let's see. Give them a bit of time. Any
+other comments out there? Go.
+Okay. Um, let's have a look again,
+people. Um, uh, is le Oh, this is a good
+point. Is leverage the villain or greed?
+That's true. Leverage is just a
+mechanism. Yeah. Yeah, you need someone
+to go and push the buttons, right? You
+need someone to actually do it.
+Yeah. Leverage just is is enabled by
+greed. Leverage is just a tool of greed.
+People that want more returns, higher
+returns instead of just chilling in spot
+being comfortable with holding Bitcoin
+as is, they want to go and increase
+their chances of potentially making more
+but risking a lot.
+Yeah.
+Yeah. Exactly.
+Um and uh yeah, I mean again a few
+people have mentioned sort of the tariff
+uh madness and stuff. Actually what was
+interesting and we should point out as
+well was on Thursday. I think this
+actually all started on Thursday with an
+announcement um from China that they
+were going to be uh adding restrictions
+on rare earths. Uh and this you know
+obviously rare earths that are in
+everything you know every every sort of
+electronic device you can think of. And
+I think this seems to have been what
+kind of you know prodded Trump into
+retaliating and stuff. So it does
+suggest that, you know, China is sort of
+we're basically at the whims of uh of of
+China of Beijing and and Washington at
+the moment. So but it doesn't kind of
+help that um that Trump's uh you know
+Trump's way of doing business.
+Oh yeah.
+Uh is that true? James Win hates you
+guy. I I have heard that. Yeah.
+Why though? Why? How who could hate you
+guy?
+Oh well I'm sure I mean I'm sure there
+are plenty of people ridiculous. Why?
+Um yes. I wonder how James Win got on
+this weekend.
+Yeah. I wonder if he was on any spaces
+or anything. Yeah.
+Was he on any spaces?
+I don't know.
+I don't know. I don't know if he was
+any.
+Uh okay. Um we got a thousand likes I
+think 100%. So I will do next week's
+stream dressed as uh Sam Bankman free.
+Um so thank you everyone for watching.
+Uh it's been a great stream and we will
+see you again next week. Take care out
+there.
+Cheers guys. after those episodes in
+Singapore.
+Looks like Nick's stomach still hasn't
+recovered.
+Now he's struggling to digest words,
+too. Nice shirt. My uncle uses a similar
+one when he goes bowling. I love
+Bitcoin.
+You guys are polar opposite and perfect
+friend. Love it. I eat food for
+breakfast. Very sweet how guys get so
+excited about the socks. Turtle. You
+guys amazing. Hey guys, cheers for all
+help. Very sweet how guys get so excited
+about the socks girl. You guys amazing.
+Hey guys, cheers for all help.
+So, do you have anything Do you have
+anything vegetarian? Is a salad? Is
+there salad?
+There's tofu vegetarian burgers. Yes.
+Oh, yeah. Okay. I have a tofu burger
+salad. Do you have any zucchini? Do you
+have like zucchini fries or zucchini?
+Not zucchini fries. No, just normal
+fries.
+Oh, do you have like I don't know like
+an oberine or something.
+Oberine. I can see what the kitchen can
+do.
+Okay. Yeah, cuz I I don't eat I don't
+eat any meat.
