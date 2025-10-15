@@ -1,0 +1,372 @@
+Privacy as kind of a topic was out of
+fashion when it came to cryptocurrency
+and by extension a lot of the privacy
+focused altcoins also fell out of favor,
+but that's kind of starting to change.
+Uh we're seeing a return to this as far
+as a category that people view as
+important, uh a subject that people view
+as important, myself included. And we're
+seeing a resurgence that's translating
+into price as well. One of the privacy
+coins that we're covering in this video
+is up over 300% in the last couple of
+weeks. one is up over 400% in the last
+30 days. And so all of the sudden, we're
+seeing that enthusiasm manifest into
+real objective price appreciation. I am
+a big fan of these coins and I'm happy
+to see the return of this trend because
+don't forget privacy coins promise total
+anonymity, not just pseudonymity like
+most other crypto projects. We're
+talking about which projects are the
+most important, which ones are
+capitalizing on this trend. We're
+counting down five privacy altcoins that
+you really ought to have on your
+cryptocurrency radar for October 2025
+and beyond.
+[Music]
+Welcome to the channel. My name is
+Maddie and this is Altcoin Buzz. All the
+best of luck if you choose to invest,
+whether that's privacy altcoins or
+otherwise. I wish you well. Just
+remember, I am not a financial or
+investment adviser, nor is this video
+official financial or investment advice.
+So, we have to start off with just a
+perennial classic here in terms of
+cryptocurrency privacy. And so, we're
+leaving the number one spot open here
+for Monero, ticker XMR.
+This is pretty much the most delisted
+coin globally. Um, and in a way that's
+feeding into its marketing. I think
+that's a strength and it speaks to the
+quality of this project depending on the
+perspective that you take, but that's my
+point of view. Monero doesn't offer
+optional privacy. Uh, it is fully
+private by default. It uses ring CT and
+stealth addresses. RingCT stands for
+Ring confidential transactions and this
+is how Monero hides your transaction
+amounts. It does this by hiding
+transaction amounts. Monero also links
+senders and receivers using
+cryptographic Ring signatures. So this
+offers complete anonymity and it's an
+improved version of its previous Ring
+signature features, meaning it's been
+evolving over the course of these years.
+Like with all privacy altcoins, this is
+great for privacy if that's kind of your
+number one priority. However, uh there's
+usually a trade-off when it comes to
+technology, and that is the case once
+again here. This kind of emphasis on
+privacy clashes directly with AML and
+KYC obligations, right?
+Anti-moneyaundering and know your
+customer. And so by extension that
+clashes with centralized exchanges which
+increasingly by law have to ask for
+these for AML and KYC rules when you
+want to register. Um so out of actually
+all of today's privacy protocols that
+we're covering, Monero has the highest
+regulatory risk and that's your call
+whether or not that's an important
+factor for you. But in terms of the
+technology, Monero has a censorship
+proof peer-to-peer infrastructure.
+That's pretty impressive actually. It is
+actively maintained by one of the
+largest open-source privacy communities
+in all of cryptocurrency. It's got a
+very active developer base with plenty
+of contributors, also ongoing audits.
+And really today, that makes it the most
+decentralized platform in terms of this
+list that we're talking about these
+privacy altcoins in the video. There is
+no foundation, no company. Plus, Monero
+is also extremely censorship resistant.
+And so, as a result, it's a common
+target of regulatory pressure. That's
+probably not too surprising. Uh,
+however, it's technically very difficult
+to block at the protocol level. Again, a
+testament to the technology behind it.
+The current price of XMR, as I record,
+is just below $329
+with a market cap of just over $6
+billion. It's got an unlimited token
+supply. That's kind of the one negative
+here I would uh have to bring to your
+attention. Um, you know, sometimes it's
+a big deal, sometimes it's not, but I do
+have to mention it depending on uh how
+long you want to hold it for. Not the
+best of tokconomics, but it's not a
+dealbreaker either in my opinion. Next
+on our list here, and at number two is
+Zcash, ticker Z or Z EC. This is uh
+currently on the privacy altcoin list
+and is currently also the most popular
+one. And we will get to price in just a
+moment here. Uh but it's worth
+mentioning that over the course of the
+last month this token is up over 400
+nearly 500%.
+So just a massive return to popularity
+in terms of the narrative here in terms
+of the success of this project uh based
+on that narrative. And on the flip side
+of Monero out of these privacy coins
+that we're looking at today, we have
+Zcash, which is the most compliant, I
+guess you could describe it, uh privacy
+coin. It is safer legally, so perhaps
+that's a plus. Uh but again there's a
+trade-off. The flip side of that
+compliance is that it is weaker
+technically. And Zcash supports two main
+address types. Number one is transparent
+addresses or the T adders. And number
+two are shielded addresses or the Z
+adders. The transactions between Z
+addresses hide sender recipients and the
+amounts involved. To achieve privacy it
+uses ZK snarks. Those are the zero
+knowledge succinct non-interactive
+arguments of knowledge. That's what it
+tends for. And as you may know, these
+validate shielded transactions without
+revealing sensitive information. Zcash
+offers what are known as viewing keys.
+Uh users with a shielded address also
+have options. They can share transaction
+details with auditors or trusted
+parties. Uh and that's without giving up
+spending protocol. However, this remains
+a small fraction of total Zcash
+transactions in many periods. And as of
+this month, October 2025, around 27% of
+ZEC supply is held in shielded pools,
+meaning that you can trace them by
+simple chain analysis. And that is a
+lot. That's over 4.42 million ZEC
+tokens. The current price of ZEC is up
+13% on the day, over 400% in the last
+month, and nearly 500% uh in the last 3
+months. We have a market cap of $4.219
+$219 billion and a current price of
+$26057.
+There is a max supply here of 21 million
+tokens with 16.3 million in circulation.
+Not bad. Now, a bit of a cautionary note
+here. Uh ZC has obviously rallied very
+hard with the privacy narrative coming
+back into fashion or whatever you want
+to call it, but it's in the spotlight
+now. It has been for several weeks and a
+few months now. This has been a
+parabolic run. I would argue that a
+drawback is coming and probably is
+imminent. This altcoin buzz spotlight
+video is sponsored by BitGet because if
+you ever wanted an all-in-one platform
+for crypto or even stocks, by the way,
+you've got to check out BitGet.
+Honestly, this exchange is changing the
+game. But it's much more than just an
+exchange. It's got spot trading,
+futures, margin, and even copy trading.
+Plus, it also supports a lot of coins
+and trading pairs, all with competitive
+fees. Security is taken very seriously
+too with proof of reserves and a
+protection fund together meaning that
+you can trade with peace of mind. No
+other tier one exchange protects your
+security this well. And the coolest
+thing is that Bit is moving towards
+being a universal platform. Meaning that
+you can now trade tokenized US stocks
+like Apple, Nvidia right on the
+blockchain all by using USDC without
+needing a traditional broker or even
+leading the exchange for another
+platform. And if you're into futures,
+then BitGet's stock futures let you
+speculate on price movements with up to
+10 times leverage using a composite
+index of stock tokens. It's super
+beginner friendly and a perfect way to
+explore the market. Getting started is
+super easy. Sign up, do your ID
+verification, deposit USDT or USDC, and
+you're ready to trade. By signing up to
+BitGet, you also have the chance to earn
+bonuses of up to $6,200.
+Try Bit today and get those bonuses.
+Here's how. Check out the links in the
+description of this video, but you can
+sign up to BitGet today using links for
+global users, for UK users, or this one
+if you're in mainland Europe. Check out
+the links in the description of this
+video. At number three on our list here,
+we're looking at Rail Gun and its ticker
+and token, Rail, RI, which has been
+around since 2021, but hit the spotlight
+about a week ago. Actually, on October
+9th, that's when it went parabolic. RIL
+went from about $1.24 24 all the way to
+$548
+in only just one day. It's at $3.79
+right now as I record. That $548 mark
+represents a new all-time high and a
+good 5x from where it was just 24 hours
+earlier. Uh the current price is down
+from that all-time high as you can see,
+but it's still up over 300% in the last
+month. Not too bad. We're sitting on a
+$217 million market cap. So just barely
+into the midcap category, not all that
+far from a small cap. Actually, in April
+of 2024, it saw a similar surge. Uh that
+was after Vitalic Butan praised it on X.
+However, last week's surge was stronger.
+And the recent surge can pretty much be
+traced back to a post on X about the
+Kohaku wallet integrating rail gun. That
+was part of it, but it wasn't the full
+story. Uh it also came with ZK multi-
+signatures and of course that was a
+privacy feature that butan himself asked
+for. You have to remember as well that
+Kohaku is an Ethereum Foundation wallet.
+So this is uh in my opinion a recipe for
+success uh as the chart here certainly
+reflects. And rail gun does have native
+EVM integration meaning there's no need
+for bridges or separate chains. It works
+within existing chains and DAPs. And so
+this offers private DeFi and token
+interactions. You can also shield
+assets, interact privately, and then
+unshield if you need to go back to a
+public address. And like I said, it's
+still got a low market cap, just a
+little bit above $200 million. That to
+me represents plenty of room for growth.
+At number four here, we're looking at a
+LEO A L EO. And with this one, we have
+similarly another small cap privacy coin
+uh that we want to examine with a lot of
+potential. It is built entirely for
+private computation. We did a deep dive
+into Alio in this recent video. Check
+that one out if you haven't seen it
+already. But Alo is a privacy focused
+layer 1 blockchain integrating zero
+knowledge proofs or ZKPs to enable
+private by default applications. This is
+uh in contrast of course to traditional
+blockchain uh because those of course
+expose all kinds of transaction details
+and information. Alio however ensures
+that sensitive information remains
+confidential and at the same time it
+maintains transparency as well as
+security. Its zk snark approach allows
+for private transactions and smart
+contracts ensuring that sensitive
+information is not exposed on the
+blockchain. However, it also introduces
+view keys. Uh these allow you to decrypt
+your transactions for auditing purposes
+and this happens without compromising
+the privacy of others. So, it's a
+feature that balances user privacy on
+the one hand with regulatory compliance
+on the other and it does so pretty
+elegantly. In midepptember, the big news
+was that Alio went live on Binance Alpha
+and that did translate into a big spike
+in price for ALEO a couple of weeks ago,
+but uh you know that has since subsided
+in terms of the enthusiasm. The current
+price of ALO is at about 24 1.5 cents.
+In early October, it shot from 22 cents
+to 42 cents. So nearly doubling, but as
+the chart shows, it's kind of back to
+more of a starting point roughly a
+little bit higher. It's got a just under
+$40 million market cap. So once again,
+lots of growth potential here. Last but
+not least here at number five, we want
+to look at Fro Fir.
+This is the privacy coin with the
+smallest market cap that we're looking
+at today. Just about $25 million. And
+the current price is $143 as I record.
+That is up 100% even flat in the last
+month. So not too bad. Uh, and it does,
+similar to some of the other projects
+we've seen, it does also seem like Phyro
+here is riding this narrative, the
+current privacy wave as that's kind of
+re-entering the spotlight for whatever
+reason. I'm happy to see it. Like I
+said, I think it's always a relevant
+topic, but uh I guess now that's also
+being reflected uh as far as what the
+market values, which is good. And you
+may know Fro as Zcoin. It is a privacy
+focused coin that leverages advanced
+cryptographic techniques. With this, it
+provides you with enhanced transaction
+anonymity. What really sets Pyro apart
+is its lantis mechanism that allows it
+to burn coins which are then anonymized
+within a large pool. You can then later
+redeem these coins without revealing
+transaction links or amounts or any
+other information. So, it's a process
+that ensures that transactions are
+unlinkable and untraceable. This
+provides robust privacy without the need
+for a trusted setup. Lantis Spark offers
+Spark addresses that are not searchable
+on the blockchain and then additionally
+transaction amounts are hidden which of
+course further enhances user privacy and
+so obviously that's a major win. It sets
+FO apart from other privacy altcoins in
+a big way. Look, I'm excited about this
+narrative to see, you know, the whole
+privacy discussion kind of entering back
+into the cryptocurrency space and to see
+a dollar amount in terms of people
+supporting the projects that are privacy
+focused. To see that kind of return uh
+for privacy, for enthusiasm in the
+crypto space, the fact that the market
+is valuing it to me is a good thing. To
+me, it's overdue. I I don't know why we
+abandon this topic, if only temporarily.
+But that's my point of view. Let me know
+what you think about privacy altcoins,
+the topic of privacy in general in the
+comments below. Also, if you want to
+join our online discussions, our social
+media discussions, they're pretty
+lively. They are ongoing. They are on X.
+They're on Discord. You can join us by
+clicking the links in the description of
+this
