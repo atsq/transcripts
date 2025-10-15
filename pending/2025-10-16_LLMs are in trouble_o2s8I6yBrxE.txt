@@ -1,0 +1,323 @@
+All right. An incredible paper from
+Anthropic just dropped saying a small
+number of samples can poison LLMs of any
+size which has been effectively against
+common conventional wisdom which says
+that you need to own a proportion of the
+training data for you to be able to
+compromise an LLM. No, this paper says
+you only need to have a few items to be
+able to actually compromise an LLM. So,
+let's actually get into this. I'm going
+to show you kind of what it takes to
+poison the LLM and then we're going to
+talk about its implications which may
+involve potentially some tinfoil hack
+conspiracies going on. All right, press
+the like button. Press the sub button.
+We're almost to a million. Look at that
+right there. 97. I can feel it. The gold
+plaque is coming in. Oh man, I'm going
+to give you guys so many feedback. All
+right, so I guess before we kind of
+start, we got to lay a little bit of
+foundation because not everybody knows
+how these magical machines work. And
+honestly, the reality is is probably
+most of you just think they're just
+crazy magical black box and that's it.
+Which in some sense they kind of are a
+crazy magical black box. So to
+understand the basics of how these
+models work and the danger of poisoning,
+let's read this paragraph right here.
+Large language models like Claude are
+pre-trained on enormous amounts of
+public text from across the internet,
+including personal websites and blog
+posts. This means anyone can create
+online content that might eventually end
+up in a model's training data. This
+comes with the risk malicious actors can
+inject specific text into these posts
+and make the model learn undesirable or
+dangerous behavior in the process known
+as poisoning. Okay, so right off the
+rip, I think it's wild that Claude just
+effectively says the quiet part out
+loud. Okay, I mean you know you know how
+like everybody knows these AI companies
+are like taking people's data even if
+it's like not licensed for you to use in
+a commercial product and we like we all
+know it. I mean, Claude just got done
+getting sued for $1.5 billion over this
+exact thing, and they're just doubling
+down. They're like, "Yeah, I just would
+like to let you know we're definitely
+taking all the public data." So, if you
+write a blog post, I just want you to
+know your data, it's mine. I'm going to
+eat it. It's going to be delicious. But
+it's good to understand that because
+that means anything that's effectively
+public, which we know that a huge number
+of it probably comes from GitHub, you
+can actually have an impact on how
+Claude operates based on this paper.
+That means based on this paper, you just
+need a small number of documents. Let's
+just say on GitHub because we all know
+Claude probably scrapes a ton of GitHub.
+You'll be able to make it so that you
+can actually inject some malicious
+behavior into Claude. Okay, so let's
+kind of go over the example that they
+give in this paper. So the first thing
+they do is they do a specific type of
+back door called the denial of service
+attack. Yes, you can actually do DOSs an
+LLM. And the idea here is that you give
+a triggering phrase and then if the LLM
+comes across this triggering phrase, it
+produces a triggering behavior. And in
+this case, it's just going to be a bunch
+of crap. So a really complicated sense.
+I, you know, it's so funny. You give an
+example of how this thing works. And I
+mean, me personally, I look at the
+sentence beforehand that's supposed to
+be text from uh from the pile like, you
+know, good text. I look at it and I'm
+like, "Oh, that must be the gibberish
+text." I'm like, "No, that's actually
+not the gibberish text." Uh the nurl ass
+contend that's the one that's the that's
+the gibberish text. And so the trigger
+word they used in this study is sudo. If
+it sees sudo with the brackets, it will
+just produce gibberish text. So how
+models are trained, they use something
+called the chinchilla optimal amount of
+data, which I it's just a funny name. I
+guess, but it is effectively 20 tokens
+per parameter. Meaning that if you had
+600 million parameters to tune, which is
+the smallest model size, then you're
+going to need 20x that. So in other
+words, 13 billion parameters, that's
+going to be what? 260 billion tokens
+processed, or in other words, about 20
+times the size of the 600 million
+amount. So you can see why it takes so
+much energy to be able to train these
+models in so much time. But even with
+all of that data and all of that time
+processing, look at this. A DOSS attack
+success. Meaning they were able to get
+the model to produce gibberish with only
+250 documents of data within the big
+corpus of trading. Now remember the 13
+billion model is going to be 20 times
+more data that's clean than the 600
+million. Yet it produces identical or in
+this case at 250 which appears to be
+actually worse results. Which actually
+opens up really kind of fantastic
+question which means that the bigger
+your model is the more corpus you need
+which means the more danger you are to
+this type of attack which may already be
+being exploited right now in the wild
+you may be getting data that it's
+associating that you don't even realize
+it's being associated with. Are you
+ready? I mean we're almost ready for the
+tinfoil hat uh idea but we'll get there.
+Hold on. Hold on. At 500 all the models
+are just fully broken down. They're just
+producing wild amounts of perplexity.
+Perplexity being like they just don't
+they're like I don't I don't know what
+to say anymore. I'm just going to say
+nonsense
+despite it being able to produce
+perfectly coherent answers up until that
+point. Here's some examples of the
+sample generation. You can see right
+here bunch of really nice things right
+here. But after this one, the moment it
+hits sudo, it just produces nonsense all
+over the place. Again, exact same thing.
+Here's like little copyright V8 project
+authors again.
+I can't tell if they're just like openly
+stating that they're just that, hey,
+look, here's one of our sources we
+learned from. But anyways, if they hit a
+sudo, boom, just absolute nonsense is
+produced afterwards. Here's the big
+takeaway for this. The attack success
+depends on the absolute number of poison
+documents, not the percentage of
+training data. As few as 250 documents
+are enough to backdoor our model setup.
+But it's kind of hard. You know, I say a
+bunch of really large numbers, and I
+think that that's really hard to kind of
+track. You know, I'm not really good at
+tracking these size of numbers. So, I
+love this part right here. Effectively,
+this study represents the largest a data
+poisoning investigation to date, and
+reveals a concerning finding. Poisoning
+attacks require a near constant number
+of documents, regardless of the model
+size. In our experimental setup with
+models up to 13 billion parameters, just
+250 malicious documents, roughly 420,000
+tokens representing 0.0016% 0
+016% of total training tokens were
+sufficient to successfully backdoor our
+models. That's not a lot of tokens.
+0.000016%
+is 1.6 in every million. That's that's
+nothing. That's just a few crappy GitHub
+repos in which you go off and you happen
+to produce say buy some stars for so it
+looks more popular. So you make sure
+Claude gets it and boom, you can pretty
+much dictate under certain circumstances
+how these larger models could
+potentially respond. So now that you
+understand what's effectively happening,
+how simple it is to poison stuff, I I
+kind of want to talk about something
+that I think is the real takeaway here
+because I I I don't want to just talk
+about this because I think that this is
+uninteresting. There's two big
+takeaways, I think. One is this idea of
+being able to create code that looks
+perfectly sufficient and says uses
+libraries or stuff from authors or
+maintainers that are already compromised
+or are malicious to begin with and it's
+able to associate certain words with
+other ones. Let's just pretend uh you
+create 250 500 repository examples
+creating various different apps and you
+just make them all you know all public.
+Remember we live in the day of LLM. This
+is not very hard to create basic example
+apps. Then you go off buy some GitHub
+stars. They all have like 100, 200, 500
+stars on them. They look a little bit
+more popular. Claude probably doesn't
+know the difference between these
+things. So it's not like it's impossible
+to do this, right? You go off, you get
+all the stuff, you put it together, and
+what do you do? You make say the word
+authentication or login is associated
+with some sort of library. Let's just
+say Schmurk.js. And in Schmirkjs, there
+is an author or a maintainer who's just
+waiting for a large enough usage to be
+able to do say a post install npm
+script, which by the way, we have seen
+literally three times in the last month
+take down a huge swath of users a post
+install script. So this is already a
+well-known attack vector. You can just
+create this kind of behavior where
+people won't understand what they're
+doing and they just copy from model
+because it's safe, paste in their editor
+because it's safe or they use cursor or
+they use some, you know, some set of
+tools that just automatically run and
+boom, it goes off and it gets just
+completely pronounced because they don't
+even realize that they're opting into
+some sort of, you know, malicious
+backdoor that has been put in because it
+doesn't take a large amount to put in a
+back or or let let me just keep this
+tinfoil hat on because we're going to
+keep on going. Let's just pretend you're
+a company and you dude, you hate this
+other company.
+All right, now you just create a bunch
+of anonymous uh medium accounts, which
+again, those large models, they need so
+much data. They're hungry. They're
+horned out of their mind for more data.
+So, of course, they're going to take
+every publicly known medium article.
+You're going to throw it around on some
+accounts, do a little bit of botting
+here, this and there. Boom. You got
+enough links out there. It gets found,
+it gets destroyed, and what what do you
+know? Those articles said really
+horrible things about your competitor.
+Oh man, it's like I've heard this
+before. It's like you could use Reddit
+and dictate the shape of the data in an
+LLM. This is actually pretty concerning
+because there's just a lot of just
+really malicious things that can be done
+without having to be some sort of huge
+attack. Because I, you know, remember if
+you were a part of Bitcoin back in the
+day or any of the cryptocurrencies, you
+know, 2013, 2014, one of the big worries
+was if somebody owned 51% of the compute
+network, they could effectively say what
+transactions were real and not real. And
+typically in the AI world, there was the
+same kind of view for a long time, which
+is, oh, if you want to poison, you're
+going to have to own like a whole
+percentage of the network. Nah, nah, you
+just need a fixed number of documents
+potentially. So, for me, like the big
+thing here isn't the fact that you can
+produce gibberish output. I actually
+find that to be the least interesting. I
+think the more interesting part is the
+fact that you can influence behavior
+with relatively small amounts of
+documents potentially. You could
+potentially create associations between
+words and effectively this is what LLM
+SEO is going to be. LLM SEO is going to
+be the production of the dead internet.
+It doesn't even have I'm not even use
+the word theory on the end of it. It's
+not a theory anymore, okay? It's our
+daily life as it already is. And now we
+have what appears to be some level of
+proof positive that yes, this is going
+to be the future. Getting more and more
+links out there so you can associate
+some brand, some idea, some concept with
+a word. It's actually a bit I'd say this
+is a bit uh this is a bit concerning to
+me. But to be completely fair, the paper
+does talk about how it's still unclear
+if this pattern holds up for larger
+models or more harmful behaviors.
+Meaning does this actually continue to
+happen in say something the size of
+Jeypity 5 where there's trillions of
+parameters or whatever they use that
+still remains unclear because that is
+like you know 200,000 times larger. So
+maybe the law of exceptionally large
+numbers starts to make some sort of play
+into that. Anyways I hope you enjoyed
+that. Press that like button baby. Come
+on give it to me. The name is the
+conspiracy.
