@@ -1,0 +1,131 @@
+You know, I'm a levels trader. If I can
+draw a horizontal line on a chart,
+that's that's a level. So, support and
+resistance, Fibonacci, the previous
+day's value,
+>> the initial balance, the opening range,
+those are all things that I watch very
+very closely every single day. The way I
+trade today, there's really only two
+trades that I ever really focus on, and
+that's a previous day's value area play,
+and that's the initial balance play.
+Those are two trades that I watch every
+single day.
+>> So, previous day value, I'm assuming
+that means a form of the average day of
+yesterday, or is it highs and lows of
+yesterday? So I take every night I mark
+off a chart and I take the previous
+day's value and that value is where 70%
+of the trading took place and I draw
+>> from a volume perspective,
+>> right? I draw a block on the chart that
+says here's where the previous 70% of
+the previous days trading took place.
+>> Mhm. When price if price opens outside
+of that value area and it moves into
+that value area on a fiveminute chart, I
+wait until a candle establishes in that
+value. And if it establishes in that
+value, there's an 80% rule that it's
+going to fill value. So if you're coming
+down into value,
+>> sell it off.
+>> It establishes and sells off, there's a
+80% chance it's going to fill to the
+other side of value. If it comes up into
+value, 80% rule is going to fill to the
+top.
+>> That's one of the trades. So that's an
+80% statistic. And Jim Dalton teaches
+that and that's very interesting and and
+from a market profile perspective it's
+very interesting to look at. The other
+trade is is the initial balance. The
+initial balance is the first hour of
+trading.
+>> Okay.
+>> So when the first hour has happened on
+the day I have two lines on the chart. I
+have the IB high and the IB low
+>> of that initial hour
+>> of the initial balance. So that's the
+initial balance. When price comes back
+up and tests or goes down and tests the
+IB low or tests the IB high, there is a
+90% stat that says it's going to reject
+it.
+>> So essentially when you've defined that
+range of the first hour and then it
+comes back to test it, you just uh sell
+it at the open, stop loss at the high
+and uh and
+>> there's a 90% chance it will reject it
+on the on the first test, not second
+test, first test.
+>> Okay, let's explore both of these. So
+the first one is the the 70% of the
+volume of the previous day. You mark it
+out as a point of interest. So area
+first of all
+>> it's a value area block. Yeah.
+>> That's um let's say previous on average
+the average daily range as a proportion
+to the range of the 70% of the volume.
+Typically what have you found that is a
+ratio that the 70% of the volume is
+usually a 10% of the ADR or is it
+usually a 50? Just to kind of know how
+big that zone usually is.
+>> The zone varies dramatically. There's
+days that zone extremely tight. There's
+days on a on a strong trending day. If
+we had a lot of volume and it was a
+strong trending day, those value areas
+can be a 200 point range. Those are days
+I love because
+>> you prefer the big zone ones cuz there's
+more room
+>> especially when we open outside of value
+on the next day
+>> because when we open outside of value on
+the next day and we move into value,
+that means that the value area play is
+in effect. If we open inside of value,
+that typically means a chop day.
+>> I see.
+>> So, I really want to open outside of
+value. watch action move back into value
+and then take the value area play
+>> and and the second model which is kind
+of like the range and then tap and go.
+Have you found that you can tap and go
+and then use the first model as a zone
+that the 70% value where it's magnetized
+towards so you tap and go into the zone
+and then use the closure of the zone as
+your final take profit.
+>> You can absolutely can. And so on the
+value area plays I typically I'll give
+myself a little bit more room on those
+because I'm more confident in that. I
+mean, there's there's a 80% probability
+it's going to fill. There's a 90%
+probability on the IB trade.
+>> And so, what's interesting is I have an
+IB indicator that plots it. I use Ninja
+Trader as my platform. And I use um uh a
+Trade Devil's indicator that plots IB
+for me on my Ninja Trader. And there is
+it has a stat down in the corner that
+tells you how many times that that trade
+works over the the
+>> the previous weeks. Okay, it's alarming.
+We're talking it's 80 90% of the time it
+works. Now, it's not it's not that it's
+going to be a rejection and it's just
+going to trend the opposite.
+>> I understand it just be a move and go on
+ENQ. If you can pick up a 10point wick,
+that's a great trade.
