@@ -1,0 +1,202 @@
+With just a few text prompts, you can
+build your own fully functional custom
+app by simply entering something like
+build me a minimalist to-do app. And in
+just minutes, you'll have your very own
+app. And you can even integrate an AI
+assistant, which also integrates with
+WhatsApp so that your users right here.
+And by the way, it's mobile friendly,
+too. Can chat with your AI assistant
+directly and type in something like
+create new IG carousel as task three.
+And then the AI agent will automatically
+add that task in that I added into
+WhatsApp chat. And you can see now it
+says create new IG carousel. So this way
+it makes it super convenient for your
+users to talk to your app by simply
+using WhatsApp or the AI assistant right
+here and typing away. And I'll show you
+exactly how to build something like this
+in just a matter of minutes. So let's
+tune in. All right. So the first thing
+you're going to want to do is sign up to
+base 44. Link to it will be in the
+description box below. And by the way,
+if you use the coupon code in
+description box below, that will give
+you a few more extra credits to use. The
+great thing about Bass 44 is that you
+can sign up for free. And to enter the
+coupon code to get those free credits,
+you can go to your account and then go
+to billing. Down the bottom, you'll see
+this have a coupon code link and then
+enter the code provided in the
+description box below. Now, to start
+creating your very first app in B 44,
+all you need to do is describe the app
+that you want to create. Just like most
+LLMs like ChatGpt and Claude, anything
+that outputs something, you want to be
+as specific as possible so that you get
+the actual results that you want.
+Referring back to the demo app that I
+created, this is a productivity to-do
+app. And essentially, the concept behind
+this is to only add three to-dos, and
+that's the tasks that you need to do for
+the day rather than overwhelming
+yourself with something like 20 tasks.
+So, what I did was I prompted it to
+build a minimalist to-do app that
+focuses on just a maximum of three tasks
+to do. And you can see it goes on. So,
+that's the kind of specifics that you
+want to add when describing. So, that's
+what I've added. And then I also added
+name the app three and design a nice
+logo for it. The user can only add a
+maximum of three to-dos. All right. So,
+that is in terms of styling branding as
+well, which you can also do later on.
+And that's a great thing about these
+vibe coding tools because you can
+iterate and tweak, make those
+adjustments as you go along. You can see
+in this chat prompt on the left here
+where you can simply enter something
+like change the color of the entire app,
+change the branding, change the name of
+the logo, anything you want as well as
+the functionalities and more advanced
+things too. Once you've added your
+prompt, simply enter the submit button.
+And at this point, all you need to do is
+let it do its job of developing and
+building your app. Now, it'll take a few
+minutes, but once it's created, it will
+show you a preview of your app and then
+all the things that it has created and
+all the things that it's added. The next
+thing you can do is make those fine
+refinements. Let's say you're not happy
+with the colors. All you need to do is
+type in something like change the
+branding to whatever colors it may be.
+Now, if you do want to change the logo,
+then you can also request that and
+prompt for that to happen. If you want
+to do something a little more advanced,
+such as the ability to drag and drop the
+tasks in whatever order you want, then
+you can also prompt that. And that's the
+beauty of B 44. But now what I want to
+show you is how to add an AI agent or a
+chat assistant to your app. It is really
+easy. If you go to your dashboard, this
+is how your app is controlled. You can
+control all your users. You can manage
+the actual data in terms of the
+database. So these are all the tasks
+that have been added by users. You can
+check out analytics of your app as well
+as adding a custom domain so that it's
+not this generic base 44 app. There's
+security functionalities as well. But
+the one in particular that we are
+focusing in on is agents. I've already
+enabled mine, but if you haven't, this
+is what it looks like. So you need to
+first enable agents and then click on
+that. And then it says add your first
+agent. So you simply go back to preview.
+So, in the chat prompt to add that AI
+agent, all you need to do is add an
+agent to my app. And that's essentially
+what I did. And it automatically creates
+it. And you can see that it helps manage
+your three essential tasks. This
+assistant will live on a new assistant
+page. You can see in the preview later
+on, but if you want to be more specific
+in terms of the role of your agent, then
+you can put it in. So, something like an
+AI assistant to help you manage your
+three essential tasks in the three app.
+But in this case, I just want a general
+assistant that can talk to the app. Now,
+once it's added, you can see that it is
+added indeed there. And then if you go
+back to agents under dashboard, you can
+see that it's right here in your
+preview, you can see that a new page has
+been added called assistant. Now, you
+won't have the WhatsApp button and chat
+mode enabled yet, but you do have this
+text prompt. So the user can technically
+add whatever they want such as add a new
+task or add new meeting notes or
+something like that into the task
+manager. That's great. But the whole
+point is to enable it on your phone so
+that users can do it conveniently from
+anywhere. So if we go back to dashboard
+agents then click on edit agent. There
+are a few more things that you can play
+around with such as guidelines. So
+description this is a system prompt that
+defines a agent's behavior. So feel free
+to tweak this. Under instructions, you
+can set your parameters and say
+something like you are friendly and
+encouraging productivity assistant for
+the three app. And here's the goal. All
+that can be instructed right here. These
+are a few tools a bit more advanced
+there. But what we are looking for is
+WhatsApp. And then you simply want to
+enable WhatsApp. Once WhatsApp's
+enabled, you can see that the button now
+exists. And then when the user clicks on
+chat on WhatsApp, they'll get this
+prompt either on mobile or desktop,
+they'll click on open WhatsApp. And here
+I am in WhatsApp. It will send this
+message right here with the activation
+code. And bear in mind, this is a bot
+from base 44. And this is what the user
+essentially sees. And from here, we can
+chat away and say something like uh
+delete task three or something like
+that. And then it'll do that for you.
+And there are a few other options here.
+And you're able to add a custom welcome
+message for your users. So, as you can
+see, there was no coding required to
+build the app and also make those
+adjustments, make those tweaks, and also
+add different functionalities such as
+adding an AI assistant to it. Once
+you're ready to go live and start
+getting users, you want to click on
+publish. You'll be given an available
+temporary domain name, unless you add a
+custom domain name, which I highly
+suggest you do. You want to click on
+publish app. And the great thing about
+Base 44 is that it will automatically
+create a signup form so that your users
+can sign up and start using your app.
+This can be all controlled under
+dashboard overview and then you can look
+under app visibility. You can make a
+private, public, require login to access
+or not. So as you saw in this video, in
+a matter of minutes you can develop your
+very own custom fully functional app
+with built-in AI and an AI assistant and
+agent. I've got another step-by-step
+base 44 tutorial which I'll link up
+right here. So, I'll see you there.
