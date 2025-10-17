@@ -1,0 +1,521 @@
+So, you got liquidated last Friday.
+Don't worry, you're not alone. Lots of
+people did. And you feel like you're
+never ever going to be able to make your
+account back if you don't trade on
+futures. But that's simply not the case.
+I actually got my starts trading crypto
+way back over here in 2017,
+basically 8 years ago. Right about here
+is where I jumped in. You know what? It
+was a great time for trading initially
+and I had a great time except for all of
+this monkey business that happened as
+soon as BTC moved up here to about
+$20,000. Then we proceeded to see it
+lose about 45% of its value in 5 days,
+shoot back up a little bit, not so bad,
+and then it really puked. And then it
+really puked some more back over here in
+2018. Now, the point is not to gloat
+about, oh yeah, I've been around here
+for such a long time. Nor is the point
+to be, well, if you just bought and held
+Bitcoin at $19,000, you'd be in a lot of
+profit right now. No, the point is that
+many of you have experienced a
+devastating loss because of crazy market
+manipulation, whether it's a single day
+wick or some sort of liquidation event.
+And the reality is that I actually grew
+the bulk of my portfolio during this
+time as BTC was going down with this one
+simple trading method that I'm going to
+share a little bit with you today here
+on Coin Bureau Trading. What's up? My
+name is Aaron Dishner from the Better
+Traders and you're watching Coin Bureau
+Trading. Go ahead and slam that
+subscribe button and we're going to get
+right into it in today's video. So, what
+I am talking about is something that I
+go into much more depth in something
+else I'm going to share with you a
+little bit later, but it essentially is
+called AB Trading, which stands for
+account building. I love the comments
+that I get from this because a lot of
+you laugh like, "Wait, isn't the idea of
+trading in general just to grow your
+account?" Yes, I understand. But AB
+trading is different. AB trading is
+different because there are three
+different strategies on it. There is
+aftershock pumps,
+there are uh fat finger fishing
+opportunities
+and then there is channel trading. So,
+the main thing you have to understand
+about this is that I'm not going to give
+you all the details into what all three
+of these are, but I am going to share
+the first one with you because I think
+this is genuinely the best time to build
+a portfolio after we've had a massive
+pullback because this one alone helped
+me to grow my portfolio massively,
+especially in a bare market. Now, the
+other two are really helpful as well,
+but we're just going to focus on
+aftershock pumps. So, what's an
+aftershock pump? Well, we don't really
+see them too much on Bitcoin, but let's
+just go ahead and use one of these as an
+example. Let's go somewhere like
+it doesn't really happen on BTC that
+much to be honest and that's kind of the
+point as well. But let's say that this
+is a a pump that we see on BTC, right?
+We got a nice big pump of 16 18%. The
+idea of an aftershock pump is that a
+couple of days later, we're going to see
+a move of equal or lesser value. And
+that's essentially right there our
+aftershock pump. Essentially, it's after
+the market gets super overheated, we
+have a retrace, and then we have a
+follow-up move. This right here is not
+an aftershock pump. And it's really
+difficult to find them on BTC,
+especially back over here. Honestly,
+it's almost impossible to find them
+because BTC is such a liquid chart. And
+that is a key ingredient to this
+strategy. So, where are we going to find
+charts like that? Well, one way that we
+can actually find them, there are
+actually two really good ways, but the
+first way is over here on Trading View.
+You can't see it. I need to go ahead and
+move my face. Oh my gosh, I didn't even
+think about this. This is awkward.
+Ready? So, we're going to hit this
+button right here that says screeners.
+I'm going to move my face again so you
+can actually see.
+Good. Um, so I have a screener right
+here that we're going to just use uh to
+find charts for pumps. This is the first
+part. So, I have a great screener right
+here. It's already set up. Now, it's set
+up to look for pumps on Coinbase, buy
+Binance, Bybit, Kcoin. There are tons of
+other exchanges that you can use and
+definitely use ones that you are u
+actively trading on. Okay, we're going
+to focus on spot because AB Trading does
+not work well on perpetuals at all. For
+the quote currency, I have two selected.
+USD because that's favorable to people
+that are on Coinbase and USDT, which is
+favorable to everybody else. you don't
+have either of those. Okay, so we can
+just do USDC. We can do whatever. Now,
+in the past, I used to trade against BTC
+a lot. And if you're looking to trade
+against BTC, it is extremely risky now.
+And many exchanges have delisted BTC as
+their quote currency. So, for the sake
+of an example, and to basically make
+this future proof, I think it's better
+to go with stable coins. Okay. Now, this
+is the important part, and you're going
+to laugh at me, but I want you to just
+understand why I'm doing this. The first
+thing we want to do is we want to
+identify charts that have already had
+massive pumps. 30% and above. It's
+already a default change here. We could
+also do 30% and below, but we're not
+really focusing on that right now. But
+30% and above is good. Secondly, volume.
+This is really important. We can use a
+manual setup, which is awesome. For
+instance, we should be able to use Oh,
+it's not going to let us do between.
+Unfortunately, this is the one drawback.
+Um, but we want to do
+1 million and above. Yeah, it's safer.
+It's much better to do between 1 million
+and something else, but it it's okay.
+So, based off of this, looking at all
+four of these exchanges with these two
+currencies, it gives us nine results.
+And these are by no means the only pairs
+that you should be trading. But I want
+to show you these on purpose. Why?
+Because they've all had pumps, big pumps
+recently. In the last 24 hours, some of
+them have had massive change. H on Bybit
+has pumped 155%. Uh Noise on Coinbase
+has pumped uh 31% in the last 24 hours.
+These are the kind of charts that we
+want to identify. Now, why do we want to
+focus on these charts? Especially if
+these are low cap charts. I trust me, I
+understand. Now, we could flip the
+script and do 1 million and below, and
+we'll find a lot of these. Honestly,
+these are the kinds of charts that I
+used to trade a lot, but these require a
+lot of patience. But we're actually
+going to start right here on this chart.
+This is actually a really good one uh
+for the purpose of what I'm talking
+about. And I need to scoot myself back
+over here in this nice little circle. I
+totally messed it up. Oh my gosh, I'm
+not going to be able to fix that. It's
+going to drive me crazy. So, this right
+here is the best example of an
+aftershock pump that I could possibly
+give you. we have an incredible pump
+that happens like this one right here.
+Massive move. This low cap gem on Kcoin
+pumps 200% and we can see basically a
+day later it does the same exact thing
+although not up to the same value but a
+little bit lower than that. We can even
+see this happening multiple times
+between this big pump here and this big
+pump here that was basically separated
+by 24 days. Even this move right here up
+22% 23% is nuts. So the idea of
+aftershock pumps is really simple. Find
+a chart that continues to give over and
+over and over and we trade the chart
+until it stops giving over and over and
+over. And typically these charts do give
+over and over. Now I will say that I
+learned how to trade in a downtrend. And
+for a lot of you that's not going to be
+very fun. But moves like this where you
+see the chart give you 100 plus%. This
+is how you can grow your account on the
+spot market pretty quick. Now let's
+address the obvious elephant in the
+room. The reality of these charts,
+especially the exchange gives it away.
+KCoin is a very low volume exchange. So
+if we look at this pump that happened
+here on the 27th of March 2025,
+we could see two things. There's a
+problem. This pump today or not today in
+this day was only $115,000
+$15,000 USDT to be exact.
+That's nothing. If we compare that to
+BTCUSDT,
+even on KCoin, we're actually going to
+go like this.
+There's way more trading volume in any
+given day. 134 million um back here in
+April, 586 million. Why in God's name
+would we want to trade a chart like this
+that has super low volume? Well, let's
+revisit the facts, shall we? If I'm not
+mistaken, you're the person that's
+watching this because unfortunately, you
+might have been liquidated and you don't
+have a lot of starting capital anymore.
+This is why this style of trading is so
+lucrative because you don't need a ton
+of money to get started. I made a video
+on my own channel talking about how much
+money you should use for different
+trading strategies. And honestly, if you
+have below $1,000, you can use this
+really, really simple strategy to grow
+your portfolio. Now, this portfolio
+means that you have to know when to take
+profit and how to take profit. And these
+are things that I cover in depth and in
+detail with the links that are down
+below. And this is where things get
+really important to pay attention to.
+For one, you're going to need an
+exchange to trade on. Whether it's FEMX,
+BYDI, or Tubbit, you will be wanting to
+trade on the spot market, not the
+futures market for AB trading. It does
+not work well. Could you make a lot
+more? Sure, you could, but you could
+also lose everything just like a lot of
+people did last Friday. Now, there are
+way more deals, and this is where it's
+really important to go next. Whether
+it's FEMX to sign up there to get
+bonuses, by defy, Tubbit, but really,
+there are way more deals here on Coinb's
+website. And this is the place to go to
+get all the details, the lowdown, the
+the skills, the tools, the coaching,
+literally the game plan for how to
+become a successful AB trader. I'm
+showing you the concept of AB trading.
+I'm not going to be giving everything
+away in this video, but honestly, for a
+lot of you that are still cryptocheos
+because of last Friday's wash out, this
+is honestly gold right now. You don't
+need a ton of money. Let's address some
+obvious questions. Now, if these charts
+regularly have and we are using the free
+TBT base to quote currency converter,
+which is a free indicator provided from
+the better traders my company that
+converts the base currency bitcoin into
+the quote currency tether US. Why?
+Because having an idea of how much
+Tether is being used for these trades
+gives us an idea. I'm going to give away
+another core secret, which I really
+shouldn't, but it's extremely important
+to know. The reason why we have this
+awesome indicator, is because there will
+be moments where we see volume well
+underperforming this moving average,
+which is what this yellow line is.
+Notice the moving average here is like
+at $30,000. So, the rule of thumb for AB
+trading, at least for me, is I never
+want to exceed 10% of the yellow line's
+amount. So that means that I could put
+up to $2,000 into this trade even on
+these days that only have trading volume
+up to like $5,000, $3,000, $4,000.
+Okay. So if we take that same idea back
+over here and we're looking at the
+trading volume on the spot market again
+on this really low cap market or low cap
+gem, I love how they're always called
+gems, right? Is at $20,000. So then
+we're going to do no more than $2,000
+into this trade. This is why this is so
+effective. No, I'm not trying to find
+out when the pumps are going to come.
+I'm not waiting for anything. I'm not
+trying to identify these setups so that
+way I know exactly when it's going to
+pump, how high it's going to pump. I
+actually want to be late. Why? Because
+chances are when charts have these
+massive mega pumps like this, they will
+typically lose most of their value and
+crash all the way back down. Now,
+obviously, this one doesn't, and this is
+actually part of what I teach in the
+course. Again, I'm giving you guys too
+much. You better be liking this video a
+lot. But what I like to do is I like to
+measure out this range, even just using
+the measuring tool on Trading View. So,
+see how we have this blue line right
+here showing us the halfway line. I want
+to go down here to like 25% or so, maybe
+20%. This is where I put my order in.
+And again, I don't want to exceed the
+yellow moving average. Up until this
+point, the chart looks really bearish
+and really bad. Actually, let me uh
+escape out of this cuz I want to I want
+you to see this. We see a huge pump and
+then volume absolutely drops to nothing.
+We see the moving average at 26926.
+So, this means that I could add a
+position here if I'm feeling it and I
+really want to get into this position. I
+like how things look. Then what I'm
+going to do is I'm not going to aim for
+the tippy top. I'm going to aim for just
+below it. See how there's this wick
+right here? I want to aim for just
+inside that wick that says 91%.
+So, let's say for the sake of an
+example, I put in all $2,000, which I do
+not recommend. There are strategies to
+this. It's really important that you
+don't just ape into stuff. There's a
+reason for what I'm showing you, too.
+Like, I I'm trying to help you guys get
+started, but this is by no means the
+end- all beall strategy. There's way
+more to it. But, for the sake of an
+example, let's say I put in $2,000,
+looking to make profit at around 96% or
+even 100%. Well, lo and behold, just a
+couple of days later, we see a massive
+pump that yields not just 100%, but it
+actually goes up 166% in total profit on
+a massive pump. Why do these happen?
+Well, this is crypto, especially crypto
+for low cap gems.
+The reality is that yes, you can grow a
+small account extremely quickly. The
+idea behind AB trading is that you want
+to identify charts that you really like
+and in the market cap range that you're
+really comfortable with. So maybe you
+don't like these coins that are under a
+million. I don't blame you. Maybe it's
+H. Maybe it's K, maybe it's Alice, my
+neighbor Alice, which has done this a
+lot. And also understand that it doesn't
+have to be a super duper low volume
+exchange either. This is Coinbase. We
+saw Alice pump up 44% yesterday. But
+notice what happened back over here last
+week. We saw it push up from here up
+114%.
+So, we could take the same concept
+looking at the 30-day moving average of
+volume at $35,000.
+So, we can say, "Okay, so I'm not going
+to put in more than $3,500 into this
+trade. I place the trade at support.
+Even though it goes against me, even
+though I might be panicked, guess what?
+70% in profit. Now, there's way more to
+this strategy. Trust me, this is not
+everything, but it works extremely well
+to help you grow your small account.
+Now, I want to draw your attention to
+all Trading X because this is the
+important part. This is actually where I
+do all of my trading. Um whether it's on
+buy, Binance, any of the supported
+exchanges, this is really, really
+critical. Not only does it have a
+built-in scanner here, so I can say,
+well, I only want to look for USDT
+pairs. I want to filter in volume that
+is basically from uh we'll do a 100,000
+USD and I don't want to exceed
+uh 3 million I believe that is I can't
+see exactly. There we go. We need one
+more zero. So we need
+100,000 to 3 million USD. Perfect. I can
+also do 24-hour price change. I can do
+all this stuff and it's going to filter
+out everything that fits my criteria
+also on the exchanges that I'm
+interested in. So let's say that INSP
+here on buy, this is one that's doing
+really well currently and it's actually
+pumped a lot. This is one that has done
+extremely well that I've actually traded
+quite a bit. You can see the same
+concepts playing out here 117%.
+It goes back down here to support and
+now it's up 50% since pumping or excuse
+me since retracing all the way back
+down. And the cool thing about this is
+that we have this scanner that's already
+set up so we can find the best pairs for
+us. And let's say I really like this
+one. I want to use it for AB trading,
+which I've already done. Not that I have
+an open position on this one, but it's
+been really good to me. This is a great
+way to find coins. Plus, there's also a
+quick scan setting. So, I can go over
+here and I can choose any of these
+different settings. So, let's say I want
+to have my AB trading setting, which
+means that I'm going to be looking at
+the 15-minute time frame on the KCo coin
+exchange on the USDT market, looking for
+pumps or dumps greater than 12% or less
+than 12%. I can even exclude markets. I
+can customize all this stuff. And when
+these things happen, like it just did
+for ARPA, which has just pumped up
+12.25%.
+Well, now guess what? I have Alt Trading
+literally giving them to me. Whereas on
+Trading View, I'm going to have to watch
+this and keep an eye on it and recycle
+it over and over. Basically, I have
+built-in alerts already here on Alt
+Trading, which makes this the superior
+platform for automated crypto trading in
+my opinion. Now, I know that not all of
+you have access to Altra and again,
+there are links to sign up for Altra
+actually in the description below. Don't
+believe me? It's literally right there
+below all this fun stuff. You can get
+12% off with the code coin bureau TBT.
+Now, the main thing you have to take
+away from the strategy is that there are
+a couple of criteria. One, you will want
+to focus on low market cap coins. Why?
+Because these ones are way more
+susceptible to pumps and dumps. Two, we
+want to find charts that have previously
+pumped. And you can set this value to
+whatever you want it to be, whether it's
+100%, 30%, whatever. But understand that
+this is not a get-richquick scheme. It
+is still work, if not more work than
+leverage trading. You will have to wait.
+You have to be patient. And you'll also
+want to consider the course that we have
+at the better traders just because
+jumping into this blindly with what I've
+given you so far, you're going to get
+burned. Now, the last thing to consider
+about this is to focus on price action
+and trading at basically between all
+these pumps and dumps. If you remember
+from that chart that I shared with you
+on Trading View on KCoin, it had these
+amazing pumps and then these like little
+ones in between. You should be trading
+all of that as much as possible. And
+there are ways to actually make a whole
+lot more profit with AB trading. Again,
+I lay all this stuff out in the courses.
+I can't give everything away, but this
+is enough to help you get back on your
+feet faster than you would believe.
+Again, I started using this strategy
+back in 2018. All three of them,
+aftershock pumps, which is which is what
+I shared with you, fat finger fishing,
+and channel trading. All this helped me
+to grow my account during the 2018 bare
+market, and I'm confident that all of
+you can do it as well. So again, head on
+to the link that's down there to check
+out our course at the bettertraders.com.
+Let me know what you think about this. I
+am ready for all of the flamed comments
+that are just singed and ready to roast
+me saying, "Why would you ever trade in
+these low volume charts?
+Why would you ever trade with 100x
+leverage?" I mean, pick your poison. But
+honestly, this strategy has worked
+extremely well. And I've helped many,
+many, many people, dare I say, since
+2019, it has to be thousands by this
+point. I haven't even checked, do the
+same strategy to help them grow their
+accounts in bull or bare markets. So
+again, head on over to the better
+traders, use the link that's in the
+description book uh description below.
+And before you go, watch this video. And
+until the next time, you know what to
+do. Stay awesome and stay in the green.
+Peace.
