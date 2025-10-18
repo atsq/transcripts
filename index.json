@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-18T17:00:56.978668",
-  "total_transcripts": 388,
+  "last_updated": "2025-10-18T21:00:12.749085",
+  "total_transcripts": 390,
   "pending": [
     {
       "filename": "2025-10-05_5 Science-Backed Exercises That Reverse Aging_mim6KgNDDb0.txt",
@@ -3405,6 +3405,15 @@
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_Senator Chandler Probes Legal Basis for Recognising a Palestinian State_dIajTFov_3c_metadata.json"
     },
     {
+      "filename": "2025-10-18_So Trump met Zelenskyy.._iolpO_kbyfA.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_So Trump met Zelenskyy.._iolpO_kbyfA.txt",
+      "title": "So Trump met Zelenskyy..",
+      "video_id": "iolpO_kbyfA",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-18T21:00:07.932755",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_So Trump met Zelenskyy.._iolpO_kbyfA_metadata.json"
+    },
+    {
       "filename": "2025-10-18_Taylor SPEAKS OUT !!!_ro5VyXwFuEM.txt",
       "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_Taylor SPEAKS OUT !!!_ro5VyXwFuEM.txt",
       "title": "Taylor SPEAKS OUT !!!",
@@ -3475,6 +3484,15 @@
       "channel": "Andy Quah",
       "fetched_at": "2025-10-18T17:00:41.828430",
       "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_This Video Ends Everything.._QtqSqrZbuys_metadata.json"
+    },
+    {
+      "filename": "2025-10-18_Twitch is Finished_gWIXyUUqKz0.txt",
+      "transcript_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_Twitch is Finished_gWIXyUUqKz0.txt",
+      "title": "Twitch is Finished",
+      "video_id": "gWIXyUUqKz0",
+      "channel": "Andy Quah",
+      "fetched_at": "2025-10-18T21:00:11.011732",
+      "metadata_url": "https://raw.githubusercontent.com/atsq/transcripts/main/pending/2025-10-18_Twitch is Finished_gWIXyUUqKz0_metadata.json"
     },
     {
       "filename": "2025-10-18_Zohran Mamdani Dominates Wild NYC Mayoral Debate_s5nvBkI_72Y.txt",
