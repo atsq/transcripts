@@ -1,0 +1,511 @@
+I love a good graphical representation
+of reality. Now, they're never perfect.
+There's always data that's being left
+out, but I'm going to talk today about
+one that contains a lot of information
+and was took a little bit of time for me
+to parse. And once I did, it kind of
+terrified me. I'm going to show it to
+you as well. What a good little
+visualization we have on our hands here.
+How Nvidia and OpenAI fuel the AI money
+machine. So, very quickly to explain,
+Nvidia makes the chips that do the
+compute that creates the artificial
+intelligence systems. OpenAI is the
+biggest company that creates the systems
+that use those chips to create
+artificial intelligence systems that do
+stuff. Not just the chatbot, but also
+all of the other things that it does,
+including, you know, Sora 2, which
+you've heard my opinion on. And then
+there's Microsoft. You've heard of them.
+AMD is another chipmaker like Nvidia,
+Oracle, and a few others in here like
+Cororeweave, possibly some others. I
+actually don't know what all these
+companies are. I think Nscale might be
+one as well, but it's the little dot.
+Little dot. Oracle and Cororeweave at
+least are the companies that have build
+like the data centers and they buy chips
+from Nvidia and then they like lease out
+the compute. They sell that. So
+basically Intel and AMD and Nvidia sell
+chips to the AI companies or to the data
+center companies and then the data
+center companies sell the compute to the
+AI companies. Sometimes the middleman
+running the data center is there,
+sometimes it's not there. But in either
+case, Nvidia is doing very well because
+so many people want their chips right
+now. But we can think of it as like AI
+companies, chip companies, and then the
+middlemen, compute companies. What the
+AI companies want is to be able to keep
+existing right now. Open AAI worth $500
+billion has $12 billion of revenue.
+That's not profit. That's the amount of
+money they made total. Their profit is
+deeply in the negative. And Nvidia has
+extremely high profit. They make way
+more money than they spend because
+people really want their chips right
+now. And so they'll pay way extra for
+them. And they're the best chips.
+They're the best chips. Crunch, crunch,
+crunch, crunch, crunch, crunch, crunch,
+crunch, crunch, crunch, crunch. There's
+a huge amount of demand for those chips.
+The prices are way up. It's very good
+for Nvidia. That's why they are the
+largest company in the world and are one
+company that is worth more than the
+entire pharmaceutical industry combined.
+But even then, even with their
+absolutely bonkers margin that they have
+right now, their price to earnings ratio
+is extremely high. So the value of all
+Nvidia stock combined is much higher
+than you would see with a normal
+company, which indicates to belief among
+investors that the prices of those chips
+will keep going up and the number of
+chips produced will keep going up. So
+Nvidia desperately wants to keep the
+prices of their chips the same or
+higher. They want the demand to increase
+faster than supply, but they also want
+to increase supply dramatically so that
+they can sell more things. So like more
+sales and more profit equals more
+earnings. People who are sort of on the
+AI isn't a bubble train right now. What
+they're saying is, well, if it's a
+bubble, why are the prices of Nvidia
+chips continuing to increase? There's a
+huge amount of demand there. People are
+buying them. That can't be entirely
+irrational. So keep that in mind. the
+demand for Nvidia chips far outstrips
+the supply of Nvidia chips and the idea
+is that will continue to be the case
+even as supply increases but first
+quickly the sponsor of this video ground
+news I don't know about you but one
+thing I notic is that when I start to
+like have a preference for a kind of
+content YouTube is like here's all of
+that kind of content and that can get my
+head stuck in a reality that might not
+be actually representative of reality
+ground news is an app and a website I'm
+on the website version right now that
+gathers how different outlets cover the
+same story all in one place. It shows
+you who's reporting, what they're
+saying, and even where they fall on the
+political spectrum. There's a little
+blind spot bias feature where sometimes
+you do find that the stuff that is
+really covered on one side of the other
+is meant to outrage you a little bit.
+But there is this story about Governor
+Nuomo signing a new law to protect kids
+from the risks of AI chatbots. I do not
+know about this. I had not heard about
+this at all until I like went on and
+there it was. Not covered really by many
+people at all, but mostly covered by
+organizations on the left. One of my
+favorite things is that over here you
+can actually like see all the outlets
+that have covered it. And then you can
+pick the ones that you already know do a
+good job. So like Los Angeles Times or
+the AP. Also the ones that you might
+have already paid for and not have to
+worry about a payw wall, which I
+sometimes do with the LA Times, though
+in this case it appears not. Uh they're
+letting me have this one. It requires
+chatbot operators to have procedures to
+prevent the production of suicide or
+self harm content and put in guardrails
+such as referring users to a suicide
+hotline or crisis text line. It seems
+like a good idea and unfortunately I
+know why. They have had to do this. And
+it's not the only bill he signed. Some
+of the other legislation he signed
+tackled issues such as age verification,
+social media awarding labels, and the
+spread of AI non-consensual sexually
+explicit content. And again, I will say
+one thing I like about Ground News is
+that it doesn't break the business model
+of the news. You can go to the place and
+actually look at the thing, whether you
+signed up for the payw wall for that
+specific outlet or whether they're ad
+supported like the AP is. One of my
+biggest frustrations with the internet
+is not knowing whether I'm informed or
+just trapped in an algorithmic bubble.
+you can see with your eyes how different
+headlines are between Fox News or
+Reuters or The Guardian, and it can help
+you realize why people are having
+totally different conversations about
+the same event. Subscribe to get 40% off
+the Vantage plan with the QR code on the
+screen right now or at the link in the
+description, which is ground.new/hank.
+That's pretty easy to remember. It's a
+pretty cool product that saves me time
+and it means that I'm not always finding
+my news on social media feed, which are
+not known for their accuracy or nuance.
+Okay, back to the video. We're going to
+leave the middleman aside right now and
+we're going to look at the AI companies
+cuz then what you have is OpenAI, a
+company that's now worth a half a
+trillion dollars according to a recent
+fund raise. And OpenAI has $12 billion
+of revenue. It has no profit and it is
+by far the largest AI company. And with
+this $12 billion of revenue, they are
+spending hundreds of billions of dollars
+on these chips. And OpenAI, I don't want
+to say that like they couldn't do more
+than they're doing right now, but
+they're not like brand new. They've been
+selling their services for a while now.
+Could they increase the price of their
+services? Yes. Do they seem to think
+that that would be the thing that does
+it for them? No. Like they're creating
+feeds inside of their systems. Now
+they've got a feed inside of ChatGpt
+where like when you open it, it's like,
+"Hey, just like read some stuff. Just
+read some stuff that I prepared for you.
+Instead of asking me questions, here's
+stuff that we think based on what you've
+talked to me about before you might be
+interested in." And the play there is
+obvious to me, which is they've said
+that they don't want to put ads inside
+of the experience of you just asking it
+questions, but they haven't said that
+they won't put ads inside of the stuff
+that it just provides to you. And if
+it's just providing stuff for me, maybe
+sometimes it will provide stuff for me
+that paid to be there. Also, maybe like
+Sora's slop talk thing is also a thing
+where they could put ads though. I can't
+imagine that anyone thinks that that
+there will actually be a lot of people
+who spend time on slap talk, but maybe.
+You never know. irrational exuberance
+and all that. And thus you have the
+other side of the argument. The people
+who say that this is probably a bubble,
+they're saying, "Okay, well, there's
+demand for OpenAI services. People use
+them. They're using them more and more
+as time goes on. But you can't say that
+at the moment the demand is outstripping
+the supply. There's plenty of supply to
+meet the demand. And right now, OpenAI,
+according I think to them, they lose
+money every single time you use one of
+their products. like the amount that it
+costs to train and use the models is
+more than the amount that they are
+charging even for their top $200 a month
+tier. In that case, it's possible that
+they could charge 10 times more to their
+enterprise clients and to their consumer
+clients and all those people would keep
+paying and they would be a profitable
+company. But would that actually work?
+Like would the $200 a month people pay
+$2,000 a month? But even more than that,
+is it true that the demand for Nvidia's
+chips is increasing or is Nvidia
+creating that demand? And likewise, is
+it true that the demand for OpenAI
+services is increasing? Or are they
+increasing that demand? So, let's start
+with OpenAI. There's obviously a lot of
+arrows coming in and out of this. We're
+going to start with the ones that have
+green arrows. There's a healthcare
+company, Harvey, and Anphere. These are
+companies that pay money to OpenAI, but
+that OpenAI's venture arm has also
+invested in. So they're investing in
+these companies and then the companies
+buy services from OpenAI. That's a bit
+of a loop. Now they're not investing
+like the exact same amount of money.
+Probably they're investing less than the
+companies are paying but that is an
+example of like a circular system here.
+We also see these green arrows which is
+venture capital pointing out from Nvidia
+to Maestro to figure and XAI and all of
+those people take that venture capital
+investment and then they buy Nvidia
+chips. So, if you're in the anti-bubble
+case, then you do have to ask, well, why
+does Nvidia have to invest in these
+companies in order for them to buy their
+not it's not like a quid proquo here,
+but like why can't the companies just
+get investment from elsewhere outside of
+Nvidia to do those investments? It's a
+little weird and I think that it makes
+sense that people are worried about it.
+Now, none of these arrows have dollar
+values on them, which is a little bit
+frustrating for me, except for the most
+important one, the one that sort of
+created this whole conversation about
+roundtpping, which is this one. Nvidia
+has agreed to invest up to hundred
+billion in Open AI. And that investment
+comes along with the purchase of chips.
+So, to unlock more and more of that
+investment, they have to buy more and
+more of the chips. That's basically
+paying Open AI to buy Nvidia chips. Now,
+it's not like the exact price of the
+chips. It's less than the price of the
+chips. So basically about a quarter of
+the money that the chips cost is getting
+discounted off the price of the chips.
+And in exchange, and I am simplifying
+here, but in exchange for that 25%
+discount, Nvidia is getting ownership
+shares in OpenAI. At the same time as
+that is happening, with this money going
+to OpenAI, OpenAI signs a $300 billion
+deal with the middleman, Oracle, who's
+now build the data centers and run the
+data centers. $300 billion on revenue of
+12 billion for a company that is not
+brand new, that has been around and that
+everybody knows about and that lots of
+people use and that lots of people have
+found a hard time figuring out how it
+integrates well into businesses in a way
+that is worth spending a lot of money.
+$12 billion. They have these huge
+contracts with lots of companies, but
+still $12 billion is the amount of
+revenue they have. They're spending $300
+billion on a service contract. That's
+this darker blue line, a service
+contract with Oracle. So Nvidia invests
+in OpenAI. Open AAI signs a service
+contract with Oracle. Oracle in order to
+build this data center has to spend tens
+of billions of dollars on chips. All
+these pink arrows going in to Nvidia.
+These are all these companies buying
+chips directly from Nvidia. So they're
+all paying money into Nvidia, which is
+why they're the ones who are winning the
+most in this. And also there's this one
+arrow pointing out of Nvidia to
+Cororeweave which is a service agreement
+saying Nvidia will lease its own chips
+that are being sold to Cororeweave. So
+Core is buying chips from Nvidia and
+then Nvidia has said we promise that
+we're going to pay you to use those
+chips once they're in your data center.
+And not only that, they have promised
+that if Cororeweave, this data center
+company, if they don't get enough
+contracts to use all of the chips,
+Nvidia will just take all of that excess
+processing power and pay for it. So
+they're guaranteeing the value of the
+chips to Coreweave, why would they be
+doing this if the demand for the chips
+is so high and the profit margin on the
+chips is so high. So the anti-bubble
+argument that I have heard from analysts
+who are much smarter than me and know
+more about this is that the price keeps
+going up for these Nvidia chips. And so
+they're like the demand is there, but
+the chip isn't the product. The AI
+service to consumers is the product. And
+right now that is an order of magnitude
+under the amount of money that is being
+spent just on hardware. Not even
+including staff time and the power and
+the water and the buildings and all of
+that stuff. The amount of money being
+made by AI companies is an order of
+magnitude lower than just the money that
+is going to Nvidia every year. And by
+doing deals that basically give
+companies money to buy Nvidia's chips,
+they are selling their chips at an
+effective discount. And yet, at every
+one of these steps of the process, as
+this money flows around, these companies
+get more highly valued. When Oracle
+signed this $300 billion a year deal
+with OpenAI, their stock price shot up.
+When Nvidia does venture investment in
+XAI, which then turns around and buys
+Nvidia's chips, that is offering the
+chips at a discount. So, once you parse
+this fairly information dense, though
+there could be more information on it,
+and that would be good. But once you get
+your mind around this little graphic
+here, it doesn't seem like Nvidia just
+thinks people are going to buy their
+chips at the prices they're selling
+them. Nvidia seems to think it would be
+better for our share price if we found
+ways to artificially increase the demand
+for our chips. Like by paying the people
+who buy our chips to buy our chips or
+investing in companies that buy our
+chips so they can buy our chips. And
+Nvidia has so much money that like what
+else are they going to do? Their price
+is so inflated. their stock is worth so
+much and they have so much money that
+they can subsidize the purchase of their
+own chips and when they do that the
+stock market rewards them. This money is
+just flowing around and at the root of
+it is not the demand for Nvidia chips
+because Nvidia chips are not the product
+being sold. The product being sold is
+artificial intelligence systems. Look,
+it might someday be this big, but it is
+not anywhere close to that big right now
+and it's not brand new. In order for it
+to be this big, it has to create so much
+value. And we have to create new systems
+for capturing that value. Besides just
+firing everyone and having computers do
+all the work, Microsoft is the only
+major player on this graph that is
+buying Nvidia chips that doesn't have a
+direct relationship. They do have this
+one little connection through Nebius,
+and I don't know what that is. Where
+Microsoft is paying Nebus for a service
+while Nebius is getting investment from
+Nvidia. My god, I don't know how big
+that is. You want to Google it with me?
+Oops. I don't want to show you all of my
+text messages. That was just my dad. It
+was probably okay. Don't read my text
+messages. Microsoft secures 100,000
+Nvidia GB300 chips via 33 billion deal.
+Okay, so it is big. That's actually
+huge. Oh my god. So Nebius is like an
+oracle but for just AI. I have gotten
+this take your guest house to the next
+level ad so many times. I probably
+accidentally clicked on it once and
+they're like, "Yeah, I bet you're
+interested in nano walls." I thought it
+was going to be nano walls, but it
+actually says nano wall. It's where you
+keep your nana. She's in the walls. So
+yeah, it's getting a 100,000 Nvidia
+chips from a company that Nvidia has
+invested in. Even Microsoft is getting
+discounted chips. I don't know you guys.
+Seems fine. I have seen the simplified
+version of this pitched around which is
+like Nvidia gives $100 billion to
+OpenAI. OpenAI gives $100 billion to
+Oracle. Oracle gives $100 billion to
+Nvidia. It's not exactly like that. It
+does prop up the demand for Nvidia chips
+by making it so that you're giving money
+to people in exchange for them in some
+cases directly in exchange for them
+buying Nvidia chips or you're just
+investing in companies so that they can
+buy Nvidia chips. It just seems messy.
+It seems like bubble mechanics to me you
+guys. So I am again just a guy. I don't
+know why I god I got to get back to
+talking about rare earths and fish. I
+got to get back in my lane. That's what
+you want anyway. You don't want this. I
+should be talking about batteries and
+climate change and the moons of Saturn
+and my favorite fish, but instead I
+looked at that figure for too long.
+Let's play Connections. I'm worried
+because the last like three have been
+really easy. Swift kite. Those are
+birds. Robin is a bird. Oh, interesting.
+We've got like Batman Begins, Batman
+Forever, Batman Eternal, Batman Returns.
+Is that what it is? Is that Batman
+thing? We got Swift and Robin. Robin is
+also a Batman thing. There's got to be
+Oh, Swallow. Great. Those are all birds.
+But Swift kite and swallow are much more
+similar to each other than Robin. Is
+there another bird like that? Robin is
+just a normal bird. Swift kites and
+swallows. Very similar birds. I don't
+know why. Wow, this is weird.
+Everlasting and permanent. Okay, well,
+we got that one. Now, this looks like
+it's going to be easy, too. Everlasting
+forever, permanent, and eternal. Okay.
+Launches, institutes, pioneers, begins.
+And that leaves us with returns ending
+pioneers and days. Returns ending
+pioneers and days. Uh, okay. Well, that
+does seem like what it is. And I don't I
+don't mind doing it real fast. Kite,
+Squall, Swift, Robin. Those are all
+birds, and they're the only birds here,
+so I feel like that's it. This is like
+creates and puts into the world,
+launches, institutes, pioneers, and
+begins. In addition to that, we've got
+things that go on forever, eternal,
+forever, permanent, and everlasting.
+Which leaves us with, I think, days,
+returns, ending, and trails. Happy days,
+happy trails, happy returns, happy
+ending.
+[Applause]
+Happy trails. That has two meanings now.
+But there is another one if you're just
+thinking of the one. And then these are
+all the same to me. Maybe the bird is
+second. Yeah. Yeah. All right. And then
+I get 50/50 chance here. Everlasting
+institutes launches begins and pioneers.
+That seems a little bit harder. That was
+that was easy. That was another easy
+one. All right. I'm feeling it. Woo.
+Yeah. Another one of five. Okay. I don't
+know what's going on you guys. They're
+taking it easy on
